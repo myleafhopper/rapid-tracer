@@ -2,6 +2,6 @@
     -ms-flex: 0 0 400px;
     flex: 0 0 400px;
     background-color: #151515;
-    height: 100vh;
-    padding-top: 20px;
+    padding: 20px;
+    overflow: auto;
 }

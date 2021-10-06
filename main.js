@@ -19,7 +19,7 @@ function createWindow() {
 
     mainWindow = new BrowserWindow(getBrowserWindowSetup());
     mainWindow.loadURL(getWindowUrl());
-    // mainWindow.maximize();
+    mainWindow.maximize();
 
     mainWindow.on('closed', () => {
         mainWindow = null;
