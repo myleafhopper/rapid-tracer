@@ -8,7 +8,7 @@ const app = electron.app;
 let mainWindow;
 
 app.on('ready', createWindow);
-app.on('window-all-closed', closeAllWindows);
+app.on('window-all-closed', quitApplication);
 app.on('activate', activeWindow);
 
 /* ------------------------------------------------------------
@@ -20,10 +20,7 @@ function createWindow() {
     mainWindow = new BrowserWindow(getBrowserWindowSetup());
     mainWindow.loadURL(getWindowUrl());
     mainWindow.maximize();
-
-    mainWindow.on('closed', () => {
-        mainWindow = null;
-    });
+    mainWindow.on('closed', closeMainWindow);
 }
 
 function getBrowserWindowSetup() {
@@ -50,7 +47,11 @@ function getWindowUrl() {
         `file://${indexPath}`
 }
 
-function closeAllWindows() {
+function closeMainWindow() {
+    mainWindow = null;
+}
+
+function quitApplication() {
 
     if (process.platform !== 'darwin') {
         app.quit();
