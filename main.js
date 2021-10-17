@@ -5,7 +5,7 @@ node public/main.js
 const electron = require('electron');
 const BrowserWindow = electron.BrowserWindow;
 const app = electron.app;
-let mainWindow;
+let window;
 
 app.on('ready', createWindow);
 app.on('window-all-closed', quitApplication);
@@ -17,10 +17,10 @@ FUNCTIONS
 
 function createWindow() {
 
-    mainWindow = new BrowserWindow(getBrowserWindowSetup());
-    mainWindow.loadURL(getWindowUrl());
-    mainWindow.maximize();
-    mainWindow.on('closed', closeMainWindow);
+    window = new BrowserWindow(getBrowserWindowSetup());
+    window.loadURL(getWindowUrl());
+    window.maximize();
+    window.on('closed', closeMainWindow);
 }
 
 function getBrowserWindowSetup() {
@@ -48,7 +48,7 @@ function getWindowUrl() {
 }
 
 function closeMainWindow() {
-    mainWindow = null;
+    window = null;
 }
 
 function quitApplication() {
@@ -60,7 +60,7 @@ function quitApplication() {
 
 function activeWindow() {
 
-    if (mainWindow === null) {
+    if (window === null) {
         createWindow();
     }
 }
