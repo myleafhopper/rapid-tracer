@@ -1,11 +1,11 @@
 import React from 'react';
-import './LeftSidebar.css';
+import './LeftSideBar.css';
 
-export default class LeftSidebar extends React.Component {
+export default class LeftSideBar extends React.Component {
 
     render() {
         return (
-            <div id="LeftSidebar" className="h-100 scrollbar LeftSidebar">
+            <div id="LeftSideBar" className="h-100 scrollbar left-side-bar">
                 <h2>LEFT</h2>
                 <h6>(FIXED 400px COLUMN)</h6>
             </div>

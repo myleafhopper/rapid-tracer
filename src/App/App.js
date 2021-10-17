@@ -1,16 +1,18 @@
-import LeftSidebar from '../LeftSidebar/LeftSidebar';
+import NavigationBar from '../NavigationBar/NavigationBar';
+import LeftSideBar from '../LeftSideBar/LeftSideBar';
 import MainContent from '../MainContent/MainContent';
-import RightSidebar from '../RightSidebar/RightSidebar';
+import RightSideBar from '../RightSideBar/RightSideBar';
 import InformationBar from '../InformationBar/InformationBar';
 import './App.css';
 
 export default function App() {
     return (
-        <div className="container-fluid h-100 App">
+        <div className="container-fluid h-100 app">
             <div className="row h-100">
-                <LeftSidebar />
+                <NavigationBar />
+                <LeftSideBar />
                 <MainContent />
-                <RightSidebar />
+                <RightSideBar />
             </div>
             <div className="row">
                 <InformationBar />
