@@ -1,7 +1,7 @@
 import NavigationBar from '../NavigationBar/NavigationBar';
-import LeftSideBar from '../LeftSideBar/LeftSideBar';
+import LeftSideBar from '../abc/abc';
 import MainContent from '../MainContent/MainContent';
-import RightSideBar from '../RightSideBar/RightSideBar';
+import RightSideBar from '../123/123';
 import InformationBar from '../InformationBar/InformationBar';
 import './App.css';
 
