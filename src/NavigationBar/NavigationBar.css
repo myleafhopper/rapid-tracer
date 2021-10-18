@@ -1,13 +1,14 @@
 .navigation-bar {
-    -ms-flex: 0 0 40px;
-    flex: 0 0 40px;
+    -ms-flex: 0 0 40px !important;
+    flex: 0 0 40px !important;
     background-color: #000;
-    padding: 0px !important;
     border-right: 1px solid #454545;
     z-index: 1;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
 }
 
-.navigation-bar__link {
+/* .navigation-bar__link {
     width: 40px;
     height: 40px;
     display: flex;
@@ -19,15 +20,15 @@
     overflow: visible;
 }
 
-.navigation-bar a span {
+Link span {
     display: none;
 }
 
-.navigation-bar a:hover {
+LInk:hover {
     color: rgb(250, 150, 0);
 }
 
-.navigation-bar a:hover span {
+Link:hover span {
     display: block;
     background-color: #000;
     border-bottom: 1px solid #333;
@@ -38,4 +39,4 @@
     padding-left: 20px;
     padding-right: 20px;
     color: rgb(250, 150, 0);
-}
+} */

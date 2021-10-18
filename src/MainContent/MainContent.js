@@ -1,14 +1,10 @@
-import React from 'react';
 import './MainContent.css';
 
-export default class MainContent extends React.Component {
+export default function MainContent(props) {
 
-    render() {
-        return (
-            <div id="MainContent" className="col h-100 scrollbar main-content">
-                <h2>CENTER (FLUID COLUMN)</h2>
-                <h6>(MAIN CONTENT)</h6>
-            </div>
-        );
-    }
+    return (
+        <div id="MainContent" className="col h-100 scrollbar main-content">
+            {props.children}
+        </div>
+    );
 }

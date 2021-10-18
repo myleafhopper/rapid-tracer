@@ -1,13 +1,10 @@
-import React from 'react';
 import './InformationBar.css';
 
-export default class InformationBar extends React.Component {
+export default function InformationBar() {
 
-    render() {
-        return (
-            <div id="InformationBar" className="InformationBar">
-                <p>...loading...abcdefghijklmnopqrstuvwxyz</p>
-            </div>
-        );
-    }
+    return (
+        <div id="InformationBar" className="row p-0 m-0 InformationBar">
+            <p>...loading...abcdefghijklmnopqrstuvwxyz</p>
+        </div>
+    );
 }
