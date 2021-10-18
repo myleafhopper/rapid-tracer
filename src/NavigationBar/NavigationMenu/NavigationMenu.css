@@ -1,4 +1,11 @@
 .navigation-menu {
+    -ms-flex: 0 0 40px !important;
+    flex: 0 0 40px !important;
+    background-color: #000;
+    border-right: 1px solid #454545;
+    z-index: 1;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
 }
 
 .navigation-menu__link {

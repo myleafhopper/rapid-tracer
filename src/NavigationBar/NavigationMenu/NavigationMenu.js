@@ -14,7 +14,7 @@ import { faSun } from '@fortawesome/free-solid-svg-icons';
 export default function NavigationMenu() {
 
     return (
-        <div id="NavigationMenu" className="navigation-menu">
+        <div id="NavigationMenu" className="col h-100 navigation-menu">
             <Link to="/applications">
                 <div className="navigation-menu__link">
                     <FontAwesomeIcon icon={faFolder} />
