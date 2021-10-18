@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import './NavigationMenu.css';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -15,41 +15,41 @@ export default function NavigationMenu() {
 
     return (
         <div id="NavigationMenu" className="col h-100 navigation-menu">
-            <Link to="/applications">
+            <NavLink to="/applications">
                 <div className="navigation-menu__link">
                     <FontAwesomeIcon icon={faFolder} />
                 </div>
-            </Link>
-            <Link to="/prototypes">
+            </NavLink>
+            <NavLink to="/prototypes">
                 <div className="navigation-menu__link">
                     <FontAwesomeIcon icon={faCodeBranch} />
                 </div>
-            </Link>
-            <Link to="/components">
+            </NavLink>
+            <NavLink to="/components">
                 <div className="navigation-menu__link">
                     <FontAwesomeIcon icon={faCode} />
                 </div>
-            </Link>
-            <Link to="/services">
+            </NavLink>
+            <NavLink to="/services">
                 <div className="navigation-menu__link">
                     <FontAwesomeIcon id="servicesManuItem" icon={faServer} />
                 </div>
-            </Link>
-            <Link to="/database">
+            </NavLink>
+            <NavLink to="/database">
                 <div className="navigation-menu__link">
                     <FontAwesomeIcon icon={faDatabase} />
                 </div>
-            </Link>
-            <Link to="/tests">
+            </NavLink>
+            <NavLink to="/tests">
                 <div className="navigation-menu__link">
                     <FontAwesomeIcon icon={faBug} />
                 </div>
-            </Link>
-            <Link to="/settings">
+            </NavLink>
+            <NavLink to="/settings">
                 <div className="navigation-menu__link">
                     <FontAwesomeIcon icon={faSun} />
                 </div>
-            </Link>
+            </NavLink>
         </div>
     );
 }
