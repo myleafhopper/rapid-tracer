@@ -15,37 +15,37 @@ export default function NavigationMenu() {
 
     return (
         <div id="NavigationMenu" className="col h-100 navigation-menu">
-            <NavLink to="/applications">
+            <NavLink exact to="/applications" activeClassName="navigation-menu__active">
                 <div className="navigation-menu__link">
                     <FontAwesomeIcon icon={faFolder} />
                 </div>
             </NavLink>
-            <NavLink to="/prototypes">
+            <NavLink exact to="/prototypes" activeClassName="navigation-menu__active">
                 <div className="navigation-menu__link">
                     <FontAwesomeIcon icon={faCodeBranch} />
                 </div>
             </NavLink>
-            <NavLink to="/components">
+            <NavLink exact to="/components" activeClassName="navigation-menu__active">
                 <div className="navigation-menu__link">
                     <FontAwesomeIcon icon={faCode} />
                 </div>
             </NavLink>
-            <NavLink to="/services">
+            <NavLink exact to="/services" activeClassName="navigation-menu__active">
                 <div className="navigation-menu__link">
                     <FontAwesomeIcon id="servicesManuItem" icon={faServer} />
                 </div>
             </NavLink>
-            <NavLink to="/database">
+            <NavLink exact to="/database" activeClassName="navigation-menu__active">
                 <div className="navigation-menu__link">
                     <FontAwesomeIcon icon={faDatabase} />
                 </div>
             </NavLink>
-            <NavLink to="/tests">
+            <NavLink exact to="/tests" activeClassName="navigation-menu__active">
                 <div className="navigation-menu__link">
                     <FontAwesomeIcon icon={faBug} />
                 </div>
             </NavLink>
-            <NavLink to="/settings">
+            <NavLink exact to="/settings" activeClassName="navigation-menu__active">
                 <div className="navigation-menu__link">
                     <FontAwesomeIcon icon={faSun} />
                 </div>

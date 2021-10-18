@@ -1,17 +1,17 @@
-import './NavigationSwitch.css';
+import './PageContainer.css';
 import { Switch, Route } from "react-router-dom";
-import Applications from '../../pages/Applications/Applications';
-import Prototypes from '../../pages/Prototypes/Prototypes';
-import Components from '../../pages/Components/Components';
-import Services from '../../pages/Services/Services';
-import Database from '../../pages/Database/Database';
-import Tests from '../../pages/Tests/Tests';
-import Settings from '../../pages/Settings/Settings';
+import Applications from '../../../pages/Applications/Applications';
+import Prototypes from '../../../pages/Prototypes/Prototypes';
+import Components from '../../../pages/Components/Components';
+import Services from '../../../pages/Services/Services';
+import Database from '../../../pages/Database/Database';
+import Tests from '../../../pages/Tests/Tests';
+import Settings from '../../../pages/Settings/Settings';
 
-export default function NavigationSwitch() {
+export default function PageContainer() {
 
     return (
-        <div className="col h-100 navigation-switch">
+        <div id="PageContainer" className="col h-100 page-container">
             <Switch>
                 <Route exact path="/">
                     <Applications />

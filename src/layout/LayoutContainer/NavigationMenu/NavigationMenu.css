@@ -34,3 +34,7 @@
     background: #000;
     color: rgb(0, 150, 255);
 }
+
+.navigation-menu__active div{
+    color: rgb(0, 150, 255);
+}

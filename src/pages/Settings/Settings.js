@@ -1,8 +1,8 @@
 import './Settings.css';
 
-import LeftSideBar from '../../LeftSideBar/LeftSideBar';
-import MainContent from '../../MainContent/MainContent';
-import RightSideBar from '../../RightSideBar/RightSideBar';
+import LeftSideBar from '../../layout/LeftSideBar/LeftSideBar';
+import MainContent from '../../layout/MainContent/MainContent';
+import RightSideBar from '../../layout/RightSideBar/RightSideBar';
 
 export default function Settings() {
 
