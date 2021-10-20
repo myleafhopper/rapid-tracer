@@ -1,5 +1,5 @@
 import LayoutContainer from "../layout/LayoutContainer/LayoutContainer";
-import InformationBar from '../InformationBar/InformationBar';
+import InformationBar from '../layout/InformationBar/InformationBar';
 import './App.css';
 
 export default function App() {

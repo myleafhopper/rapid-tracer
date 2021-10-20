@@ -2,53 +2,59 @@ import React from 'react';
 import { NavLink } from "react-router-dom";
 import './NavigationMenu.css';
 
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFolder } from '@fortawesome/free-solid-svg-icons';
-import { faCodeBranch } from '@fortawesome/free-solid-svg-icons';
-import { faCode } from '@fortawesome/free-solid-svg-icons';
-import { faServer } from '@fortawesome/free-solid-svg-icons';
-import { faDatabase } from '@fortawesome/free-solid-svg-icons';
-import { faBug } from '@fortawesome/free-solid-svg-icons';
-import { faSun } from '@fortawesome/free-solid-svg-icons';
+import { Window as WindowIcon } from 'react-bootstrap-icons';
+import { Bezier2 as Bezier2Icon } from 'react-bootstrap-icons';
+import { CardChecklist as CardChecklistIcon } from 'react-bootstrap-icons';
+import { HddStack as HddStackIcon } from 'react-bootstrap-icons';
+import { Server as ServerIcon } from 'react-bootstrap-icons';
+import { Bug as BugIcon } from 'react-bootstrap-icons';
+import { Gear as GearIcon } from 'react-bootstrap-icons';
 
 export default function NavigationMenu() {
 
     return (
-        <div id="NavigationMenu" className="col h-100 navigation-menu">
-            <NavLink exact to="/applications" activeClassName="navigation-menu__active">
-                <div className="navigation-menu__link">
-                    <FontAwesomeIcon icon={faFolder} />
-                </div>
+        <div id="NavigationBar" className="navigation-menu p-0">
+            <NavLink exact to="/applications"
+                className="navigation-menu__link"
+                activeClassName="navigation-menu__link-active">
+                <span className="navigation-menu-icon"><WindowIcon /></span>
+                <span className="navigation-menu-text">Applications</span>
             </NavLink>
-            <NavLink exact to="/prototypes" activeClassName="navigation-menu__active">
-                <div className="navigation-menu__link">
-                    <FontAwesomeIcon icon={faCodeBranch} />
-                </div>
+            <NavLink exact to="/prototypes"
+                className="navigation-menu__link"
+                activeClassName="navigation-menu__link-active">
+                <span className="navigation-menu-icon"><Bezier2Icon /></span>
+                <span className="navigation-menu-text">Prototypes</span>
             </NavLink>
-            <NavLink exact to="/components" activeClassName="navigation-menu__active">
-                <div className="navigation-menu__link">
-                    <FontAwesomeIcon icon={faCode} />
-                </div>
+            <NavLink exact to="/components"
+                className="navigation-menu__link"
+                activeClassName="navigation-menu__link-active">
+                <span className="navigation-menu-icon"><CardChecklistIcon /></span>
+                <span className="navigation-menu-text">Components</span>
             </NavLink>
-            <NavLink exact to="/services" activeClassName="navigation-menu__active">
-                <div className="navigation-menu__link">
-                    <FontAwesomeIcon id="servicesManuItem" icon={faServer} />
-                </div>
+            <NavLink exact to="/services"
+                className="navigation-menu__link"
+                activeClassName="navigation-menu__link-active">
+                <span className="navigation-menu-icon"><HddStackIcon /></span>
+                <span className="navigation-menu-text">Services</span>
             </NavLink>
-            <NavLink exact to="/database" activeClassName="navigation-menu__active">
-                <div className="navigation-menu__link">
-                    <FontAwesomeIcon icon={faDatabase} />
-                </div>
+            <NavLink exact to="/database"
+                className="navigation-menu__link"
+                activeClassName="navigation-menu__link-active">
+                <span className="navigation-menu-icon"><ServerIcon /></span>
+                <span className="navigation-menu-text">Database</span>
             </NavLink>
-            <NavLink exact to="/tests" activeClassName="navigation-menu__active">
-                <div className="navigation-menu__link">
-                    <FontAwesomeIcon icon={faBug} />
-                </div>
+            <NavLink exact to="/tests"
+                className="navigation-menu__link"
+                activeClassName="navigation-menu__link-active">
+                <span className="navigation-menu-icon"><BugIcon /></span>
+                <span className="navigation-menu-text">Tests</span>
             </NavLink>
-            <NavLink exact to="/settings" activeClassName="navigation-menu__active">
-                <div className="navigation-menu__link">
-                    <FontAwesomeIcon icon={faSun} />
-                </div>
+            <NavLink exact to="/settings"
+                className="navigation-menu__link"
+                activeClassName="navigation-menu__link-active">
+                <span className="navigation-menu-icon"><GearIcon /></span>
+                <span className="navigation-menu-text">Settings</span>
             </NavLink>
         </div>
     );
