@@ -3,8 +3,6 @@
     flex: 0 0 40px !important;
     background-color: #000;
     border-right: 1px solid #454545;
-    /* padding-right: 0px !important;
-    padding-left: 0px !important; */
     z-index: 1;
 }
 
@@ -25,7 +23,7 @@
 }
 
 .navigation-menu__link:hover {
-    color: rgb(0, 140, 255);
+    color: rgb(0, 160, 255);
 }
 
 .navigation-menu__link:hover .navigation-menu-text {
@@ -42,5 +40,5 @@
 }
 
 .navigation-menu__link-active {
-    color: rgb(0, 140, 255);
+    color: rgb(0, 160, 255);
 }
