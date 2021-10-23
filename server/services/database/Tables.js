@@ -8,7 +8,7 @@ const router = express.Router();
 module.exports = router;
 
 /* --------------------------------------------------
-ENDPOINT ROUTES
+TABLES ROUTES
 -------------------------------------------------- */
 
 router.get("/v1/tables", (req, res) => {
@@ -33,7 +33,7 @@ DATABASE FUNCTIONS
 
 function openDatabaseConnection() {
 
-    const directoryManager = new (require('../core/system/DirectoryManager'))();
+    const directoryManager = new (require('../../core/system/DirectoryManager'))();
     directoryManager.createDirectory('server/resources');
 
     const relativeDatabasePath = 'server/resources/Database.db';
