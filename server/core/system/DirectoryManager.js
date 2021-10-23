@@ -28,8 +28,11 @@ module.exports = class DirectoryManager {
         );
 
         try {
+
             this.filesystem.mkdirSync(directoryPath);
+
         } catch (error) {
+            
             error.code === 'EEXIST' ?
                 console.log(`\n-> DIRECTORY EXISTS: ${directoryPath}\n`) :
                 console.log(error);

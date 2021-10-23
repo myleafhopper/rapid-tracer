@@ -1,5 +1,5 @@
 /* --------------------------------------------------
-node server/services/database/tables.js
+DATABASE SERVICE
 -------------------------------------------------- */
 
 const database = openDatabaseConnection();
@@ -8,26 +8,23 @@ const router = express.Router();
 module.exports = router;
 
 /* --------------------------------------------------
-ENDPOINTS
+ENDPOINT ROUTES
 -------------------------------------------------- */
 
-router.get("/tables", (req, res) => {
-    getAllTables(res);
+router.get("/v1/tables", (req, res) => {
+    getAllTablesHandler(res);
 });
 
-router.get("/tables/:tableName", (req, res) => {
-    getSpecificTable(req, res);
+router.get("/v1/tables/:tableName", (req, res) => {
+    getSpecificTableHandler(req, res);
 });
 
-router.post("/tables", (req, res) => {
-
-    validateManageTableRequestBody(req) ?
-        createTable(req, res) :
-        notValidTable(req, res);
+router.post("/v1/tables", (req, res) => {
+    createSpecificTableHandler(req, res);
 });
 
-router.delete("/tables/:tableName", (req, res) => {
-    deleteSpecificTable(req, res);
+router.delete("/v1/tables/:tableName", (req, res) => {
+    deleteSpecificTableHandler(req, res);
 });
 
 /* --------------------------------------------------
@@ -36,7 +33,7 @@ DATABASE FUNCTIONS
 
 function openDatabaseConnection() {
 
-    const directoryManager = new (require('../../core/system/DirectoryManager'))();
+    const directoryManager = new (require('../core/system/DirectoryManager'))();
     directoryManager.createDirectory('server/resources');
 
     const relativeDatabasePath = 'server/resources/Database.db';
@@ -53,7 +50,7 @@ function openDatabaseConnection() {
 GET HELPER FUNCTIONS
 -------------------------------------------------- */
 
-function getAllTables(res) {
+function getAllTablesHandler(res) {
 
     const query = "SELECT * FROM SQLITE_MASTER " +
         "WHERE TYPE = 'table' " +
@@ -67,7 +64,7 @@ function getAllTables(res) {
     });
 }
 
-function getSpecificTable(req, res) {
+function getSpecificTableHandler(req, res) {
 
     const query = "SELECT * FROM SQLITE_MASTER " +
         "WHERE TYPE='table' " +
@@ -148,6 +145,13 @@ function mapColumnsForTable(table, columns) {
 /* --------------------------------------------------
 POST HELPER FUNCTIONS
 -------------------------------------------------- */
+
+function createSpecificTableHandler(req, res) {
+
+    validateManageTableRequestBody(req) ?
+        createTable(req, res) :
+        notValidTable(req, res);
+}
 
 function validateManageTableRequestBody(req) {
 
@@ -241,7 +245,7 @@ function notValidTable(req, res) {
     });
 }
 
-function deleteSpecificTable(req, res) {
+function deleteSpecificTableHandler(req, res) {
 
     const query = `DROP TABLE ${req.params.tableName}`;
 

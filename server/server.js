@@ -22,6 +22,7 @@ function setServices() {
 
     const directoryManager = new (require('./core/system/DirectoryManager'))();
     const folders = directoryManager.getFolders('server/services');
+    app.use('/database', require(`${servicePath}/${file}`));
     
     for (const folder of folders) {
 

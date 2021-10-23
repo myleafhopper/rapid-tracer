@@ -1,8 +1,8 @@
 import './Tests.css';
 
-import LeftSideBar from '../../layout/LeftSideBar/LeftSideBar';
-import MainContent from '../../layout/MainContent/MainContent';
-import RightSideBar from '../../layout/RightSideBar/RightSideBar';
+import LeftSideBar from '../../layouts/LeftSideBar/LeftSideBar';
+import MainContent from '../../layouts/MainContent/MainContent';
+import RightSideBar from '../../layouts/RightSideBar/RightSideBar';
 
 export default function Services() {
 
