@@ -1,4 +1,4 @@
-import './Database.css';
+import css from './Database.module.css';
 
 import LeftSideBar from '../../layouts/LeftSideBar/LeftSideBar';
 import MainContent from '../../layouts/MainContent/MainContent';
@@ -6,8 +6,10 @@ import RightSideBar from '../../layouts/RightSideBar/RightSideBar';
 
 export default function Database() {
 
+    const classes = `container-fluid h-100 p-0 m-0 ${css['database']}`;
+
     return (
-        <div id="Database" className="container-fluid h-100 p-0 m-0 database">
+        <div className={classes}>
             <div className="row h-100">
                 <LeftSideBar></LeftSideBar>
                 <MainContent>

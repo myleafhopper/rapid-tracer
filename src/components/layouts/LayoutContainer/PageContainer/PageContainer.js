@@ -1,4 +1,4 @@
-import './PageContainer.css';
+import css from './PageContainer.module.css';
 import { Switch, Route } from "react-router-dom";
 import Applications from '../../../pages/Applications/Applications';
 import Prototypes from '../../../pages/Prototypes/Prototypes';
@@ -10,8 +10,10 @@ import Settings from '../../../pages/Settings/Settings';
 
 export default function PageContainer() {
 
+    const classes = `col h-100 ${css['page-container']}`;
+
     return (
-        <div id="PageContainer" className="col h-100 page-container">
+        <div id="PageContainer" className={classes}>
             <Switch>
                 <Route exact path="/">
                     <Applications />

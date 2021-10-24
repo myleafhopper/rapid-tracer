@@ -1,9 +1,11 @@
-import './MainContent.css';
+import css from './MainContent.module.css';
 
 export default function MainContent(props) {
 
+    const classes = `col h-100 scrollbar ${css['main-content']}`;
+
     return (
-        <div id="MainContent" className="col h-100 scrollbar main-content">
+        <div id="MainContent" className={classes}>
             {props.children}
         </div>
     );

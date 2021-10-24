@@ -2,12 +2,12 @@
     padding-top: 3px;
 }
 
-.status-indicator__text{
+.status-indicator span{
     top: -4px;
     padding-left: 10px;
 }
 
-.status-indicator__spinner {
+.status-indicator div {
     width: 14px;
     height: 45px;
     float: right;

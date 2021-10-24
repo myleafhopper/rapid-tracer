@@ -1,15 +1,17 @@
-import './StatusIndicator.css';
+import css from './StatusIndicator.module.css';
 
 export default function StatusIndicator(props) {
 
+    const classes = `col ${css['status-indicator']}`;
     const status = props.hasOwnProperty('status') ?
         props.status : 'Loading...';
 
     return (
-        <div id="StatusIndicator" className="col status-indicator">
-            <span className="status-indicator__text">{status}</span>
-            <div className="status-indicator__spinner"><span className="spinner-border spinner-border-sm"></span></div>
-            
+        <div id="StatusIndicator" className={classes}>
+            <span>{status}</span>
+            <div>
+                <span className="spinner-border spinner-border-sm"></span>
+            </div>
         </div>
     );
 }
