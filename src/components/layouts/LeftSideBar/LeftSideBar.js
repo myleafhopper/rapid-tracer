@@ -5,7 +5,7 @@ export default function LeftSideBar(props) {
     const classes = `h-100 scrollbar ${css['left-side-bar']}`;
 
     return (
-        <div id="LeftSideBar" className={classes}>
+        <div className={classes}>
             {props.children}
         </div>
     );

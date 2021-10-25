@@ -6,7 +6,7 @@ export default function InformationBar() {
     const classes = `row p-0 m-0 ${css['information-bar']}`;
 
     return (
-        <div id="InformationBar" className={classes}>
+        <div className={classes}>
             <StatusIndicator />
         </div>
     );

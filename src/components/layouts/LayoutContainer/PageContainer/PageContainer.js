@@ -13,7 +13,7 @@ export default function PageContainer() {
     const classes = `col h-100 ${css['page-container']}`;
 
     return (
-        <div id="PageContainer" className={classes}>
+        <div className={classes}>
             <Switch>
                 <Route exact path="/">
                     <Applications />

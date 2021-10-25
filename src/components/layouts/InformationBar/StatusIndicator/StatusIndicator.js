@@ -10,7 +10,7 @@ export default function StatusIndicator(props) {
     const icon = status === 'Loading...' && <span className={iconClass}></span>;
 
     return (
-        <div id="StatusIndicator" className={classes}>
+        <div className={classes}>
             <span>{icon}</span>
             <span>{status}</span>
         </div>

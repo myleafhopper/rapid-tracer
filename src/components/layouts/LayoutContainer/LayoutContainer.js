@@ -9,7 +9,7 @@ export default function LayoutContainer() {
 
     return (
         <Router>
-            <div id="LayoutContainer" className={classes}>
+            <div className={classes}>
                 <NavigationMenu />
                 <PageContainer />
             </div>
