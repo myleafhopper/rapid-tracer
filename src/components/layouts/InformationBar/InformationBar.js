@@ -7,7 +7,6 @@ export default function InformationBar() {
 
     return (
         <div id="InformationBar" className={classes}>
-            <div className='col'></div>
             <StatusIndicator />
         </div>
     );

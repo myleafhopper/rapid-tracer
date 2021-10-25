@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from "react-router-dom";
-import './NavigationMenu.css';
+import css from './NavigationMenu.module.css';
 
 import { Window as WindowIcon } from 'react-bootstrap-icons';
 import { Bezier2 as Bezier2Icon } from 'react-bootstrap-icons';
@@ -12,49 +12,65 @@ import { Gear as GearIcon } from 'react-bootstrap-icons';
 
 export default function NavigationMenu() {
 
+    const classes = `p-0 ${css['navigation-menu']}`;
+
     return (
-        <div id="NavigationBar" className="navigation-menu p-0">
-            <NavLink exact to="/applications"
-                className="navigation-menu__link"
-                activeClassName="navigation-menu__link-active">
-                <span className="navigation-menu-icon"><WindowIcon /></span>
-                <span className="navigation-menu-text">Applications</span>
+        <div className={classes}>
+            <NavLink
+                exact
+                to="/applications"
+                className={css.link}
+                activeClassName={css['link-acitve']}>
+                <span className={css.icon}><WindowIcon /></span>
+                <span className={css.text}>Applications</span>
             </NavLink>
-            <NavLink exact to="/prototypes"
-                className="navigation-menu__link"
-                activeClassName="navigation-menu__link-active">
-                <span className="navigation-menu-icon"><Bezier2Icon /></span>
-                <span className="navigation-menu-text">Prototypes</span>
+            <NavLink
+                exact
+                to="/prototypes"
+                className={css.link}
+                activeClassName={css['link-acitve']}>
+                <span className={css.icon}><Bezier2Icon /></span>
+                <span className={css.text}>Prototypes</span>
             </NavLink>
-            <NavLink exact to="/components"
-                className="navigation-menu__link"
-                activeClassName="navigation-menu__link-active">
-                <span className="navigation-menu-icon"><CardChecklistIcon /></span>
-                <span className="navigation-menu-text">Components</span>
+            <NavLink
+                exact
+                to="/components"
+                className={css.link}
+                activeClassName={css['link-acitve']}>
+                <span className={css.icon}><CardChecklistIcon /></span>
+                <span className={css.text}>Components</span>
             </NavLink>
-            <NavLink exact to="/services"
-                className="navigation-menu__link"
-                activeClassName="navigation-menu__link-active">
-                <span className="navigation-menu-icon"><HddStackIcon /></span>
-                <span className="navigation-menu-text">Services</span>
+            <NavLink
+                exact
+                to="/services"
+                className={css.link}
+                activeClassName={css['link-acitve']}>
+                <span className={css.icon}><HddStackIcon /></span>
+                <span className={css.text}>Services</span>
             </NavLink>
-            <NavLink exact to="/database"
-                className="navigation-menu__link"
-                activeClassName="navigation-menu__link-active">
-                <span className="navigation-menu-icon"><ServerIcon /></span>
-                <span className="navigation-menu-text">Database</span>
+            <NavLink
+                exact
+                to="/database"
+                className={css.link}
+                activeClassName={css['link-acitve']}>
+                <span className={css.icon}><ServerIcon /></span>
+                <span className={css.text}>Database</span>
             </NavLink>
-            <NavLink exact to="/tests"
-                className="navigation-menu__link"
-                activeClassName="navigation-menu__link-active">
-                <span className="navigation-menu-icon"><BugIcon /></span>
-                <span className="navigation-menu-text">Tests</span>
+            <NavLink
+                exact
+                to="/tests"
+                className={css.link}
+                activeClassName={css['link-acitve']}>
+                <span className={css.icon}><BugIcon /></span>
+                <span className={css.text}>Tests</span>
             </NavLink>
-            <NavLink exact to="/settings"
-                className="navigation-menu__link"
-                activeClassName="navigation-menu__link-active">
-                <span className="navigation-menu-icon"><GearIcon /></span>
-                <span className="navigation-menu-text">Settings</span>
+            <NavLink
+                exact
+                to="/settings"
+                className={css.link}
+                activeClassName={css['link-acitve']}>
+                <span className={css.icon}><GearIcon /></span>
+                <span className={css.text}>Settings</span>
             </NavLink>
         </div>
     );

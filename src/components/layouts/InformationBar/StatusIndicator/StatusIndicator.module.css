@@ -1,14 +1,9 @@
 .status-indicator {
     padding-top: 3px;
+    float: right;
 }
 
 .status-indicator span{
     top: -4px;
     padding-left: 10px;
-}
-
-.status-indicator div {
-    width: 14px;
-    height: 45px;
-    float: right;
 }

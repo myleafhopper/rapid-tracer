@@ -6,12 +6,13 @@ export default function StatusIndicator(props) {
     const status = props.hasOwnProperty('status') ?
         props.status : 'Loading...';
 
+    const iconClass = 'spinner-border spinner-border-sm';
+    const icon = status === 'Loading...' && <span className={iconClass}></span>;
+
     return (
         <div id="StatusIndicator" className={classes}>
+            <span>{icon}</span>
             <span>{status}</span>
-            <div>
-                <span className="spinner-border spinner-border-sm"></span>
-            </div>
         </div>
     );
 }
