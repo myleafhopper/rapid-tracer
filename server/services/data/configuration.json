@@ -1,0 +1,12 @@
+[
+    {
+        "name": "App Name",
+        "type": "predefined",
+        "dataFile": "app_name.json"
+    },
+    {
+        "name": "City",
+        "type": "predefined",
+        "dataFile": "city.json"
+    }
+]

@@ -1,7 +1,9 @@
 /* --------------------------------------------------
 node server/server.js
+Server: http://localhost:4000
 -------------------------------------------------- */
 
+const port = process.env.PORT || 4000;
 const express = require("express");
 const app = express();
 
@@ -21,23 +23,20 @@ function setServerSettings() {
 
 function setServices() {
 
+    const path = require('path');
+    const servicesFolder = path.join(__dirname, 'services');
     const directoryManager = new (require('./core/system/DirectoryManager'))();
     const folders = directoryManager.getFolders('server/services');
 
     for (const folder of folders) {
 
-        const servicePath = `./services/${folder}`;
-        const files = directoryManager.getFolders(`server/services/${folder}`);
-
-        for (const file of files) {
-            app.use(`/${folder}`, require(`${servicePath}/${file}`));
-        }
+        const fileName = `${folder[0].toUpperCase()}${folder.slice(1)}.js`;
+        const servicePath = path.join(servicesFolder, folder, fileName);
+        app.use(`/${folder}`, require(servicePath));
     }
 }
 
 function startServer() {
-
-    const port = process.env.PORT || 4000;
 
     app.listen(port, () => {
         console.log(`Listening on port ${port}...`);

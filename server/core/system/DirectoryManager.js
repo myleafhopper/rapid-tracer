@@ -2,23 +2,9 @@
 node server/core/system/DirectoryManager.js
 -------------------------------------------------- */
 
-module.exports = class DirectoryManager {
+const Base = require('./Base');
 
-    constructor() {
-
-        this.filesystem = require('fs');
-        this.path = require('path');
-        this._setRootDirectory();
-    }
-
-    _setRootDirectory() {
-
-        this.root = this.path.parse(
-            this.path.parse(
-                this.path.parse(__dirname).dir
-            ).dir
-        ).dir;
-    }
+module.exports = class DirectoryManager extends Base {
 
     createDirectory(relativeDirectoryPath = '') {
 
