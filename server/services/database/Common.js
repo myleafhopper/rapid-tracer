@@ -16,7 +16,7 @@ EXPORTS
 -------------------------------------------------- */
 
 module.exports.sendErrorResponse = (res, error, sql = null) => {
-    
+
     if (sql !== null) {
         error.sql = sql;
     }
@@ -25,50 +25,45 @@ module.exports.sendErrorResponse = (res, error, sql = null) => {
 };
 
 module.exports.getWhereClause = (conditions) => {
-    return 'WHERE ' + getConditions(conditions, false);
+
+    const clauses = getConditions(conditions);
+    return clauses.length > 6 ?
+        ` WHERE ${clauses}` : '';
 };
 
 /* --------------------------------------------------
 FUNCTIONS
 -------------------------------------------------- */
 
-const getConditions = (conditions, includeParenthesis = true) => {
+const getConditions = (list) => {
 
-    const list = [];
+    const clauses = [];
 
-    for (let i = 0; i < conditions.length; i++) {
-
-        setConcatenator(list, conditions, i);
-        list.push(getClause(conditions[i]));
-        setSubConditions(list, conditions[i]);
+    for (const item of list) {
+        setClause(clauses, item);
     }
 
-    return includeParenthesis ?
-        `( ${list.join('')} )` :
-        list.join('');
+    return `( ${clauses.join(' ')} )`;
 };
 
-const setConcatenator = (list, conditions, index) => {
+const setClause = (clauses, item) => {
 
-    if (index > 0) {
-        list.push(` ${conditions[index - 1].concatenator} `);
+    if (item.hasOwnProperty('concatenator')) {
+
+        clauses.push(item.concatenator);
+
+    } else if (item.hasOwnProperty('columnName')) {
+
+        const dataValue = typeof item.dataValue === 'string' ?
+            `'${item.dataValue}'` : item.dataValue;
+
+        clauses.push(item.columnName.toUpperCase() + ' ' +
+            operators[item.comparisonOperator] + ' ' +
+            dataValue);
+
+    } else if (item.hasOwnProperty('conditions') &&
+        item.conditions.length > 0) {
+
+        clauses.push(getConditions(item.conditions));
     }
-};
-
-const getClause = (condition) => {
-
-    return condition.columnName + ' ' +
-        operators[condition.comparisonOperator] + ' ' +
-        condition.dataValue;
-};
-
-const setSubConditions = (list, condition) => {
-
-    if (condition.conditions.length === 0) {
-        return;
-    }
-
-    list.push(` ${condition.concatenator} `);
-    const subConditions = getConditions(condition.conditions, true);
-    list.push(`${subConditions}`);
-};
+}

@@ -12,7 +12,7 @@ module.exports.isColumnSetupValid = (column) => {
         column.hasOwnProperty('autoIncrement');
 };
 
-module.exports.getColumnSetup = (req, column) => {
+module.exports.getColumnSetup = (column) => {
 
     const columnSetup = [
         column.columnName,

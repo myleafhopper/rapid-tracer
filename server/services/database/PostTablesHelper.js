@@ -62,7 +62,7 @@ const getSqlStatement = (req) => {
 
     for (const column of req.body.columns) {
         columns.push(
-            columnManager.getColumnSetup(req, column)
+            columnManager.getColumnSetup(column)
         );
     }
 

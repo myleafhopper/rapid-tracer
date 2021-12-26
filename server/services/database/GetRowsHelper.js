@@ -11,7 +11,7 @@ EXPORTS
 module.exports.getRows = (req, res, connection) => {
 
     const query = `SELECT * FROM ${req.query.tableName.toUpperCase()} ` +
-        `LIMIT ${req.query.count}`;
+        `LIMIT ${req.query.rowCount}`;
 
     connection.all(query, (error, results) => {
 

@@ -8,11 +8,9 @@ const common = require('./Common');
 EXPORTS
 -------------------------------------------------- */
 
-module.exports.deleteRows = (req, res, connection) => {
+module.exports.getRowsByQuery = (req, res, connection) => {
 
-    const query = req.body.truncateTable ?
-        getTruncateQuery(req) :
-        getDeleteRowsQuery(req);
+    const query = getQuery(req);
 
     connection.run(query, (error, results) => {
 
@@ -26,11 +24,11 @@ module.exports.deleteRows = (req, res, connection) => {
 FUNCTIONS
 -------------------------------------------------- */
 
-const getTruncateQuery = (req) => {
-    return `DELETE FROM ${req.body.tableName.toUpperCase()}`;
-};
+const getQuery = (req) => {
 
-const getDeleteRowsQuery = (req) => {
-    return `DELETE ${req.body.tableName.toUpperCase()} ` +
+    const columns = req.body.columns.length > 0 ?
+        req.body.columns.join(', ').toUpperCase() : '*';
+
+    return `SELECT ${columns} FROM ${req.body.tableName.toUpperCase()}` +
         common.getWhereClause(req.body.conditions);
 };

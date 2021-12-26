@@ -11,7 +11,6 @@ EXPORTS
 module.exports.insertRows = (req, res, connection) => {
 
     const query = getQuery(req);
-    console.log(query);
 
     connection.run(query, (error, results) => {
 

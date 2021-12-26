@@ -55,7 +55,7 @@ const getSqlStatements = (req) => {
     for (const column of req.body.columns) {
         sqlStatements.push(
             `ALTER TABLE ${req.body.tableName} ` +
-            `ADD COLUMN ${columnManager.getColumnSetup(req, column)}`
+            `ADD COLUMN ${columnManager.getColumnSetup(column)}`
         );
     }
 
