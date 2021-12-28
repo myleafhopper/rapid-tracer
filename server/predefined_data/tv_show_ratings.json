@@ -1,0 +1,58 @@
+[
+    {
+        "rating": "TV-Y",
+        "description": "All Children"
+    },
+    {
+        "rating": "TV-Y7",
+        "description": "Directed to Older Children"
+    },
+    {
+        "rating": "TV-Y7 FV",
+        "description": "Directed to Older Children - Fantasy Violence"
+    },
+    {
+        "rating": "TV-G",
+        "description": "General Audience"
+    },
+    {
+        "rating": "TV-PG",
+        "description": "Parental Guidance Suggested"
+    },
+    {
+        "rating": "TV-14",
+        "description": "Parents Strongly Cautioned"
+    },
+    {
+        "rating": "TV-MA",
+        "description": "Mature Audience Only"
+    },
+    {
+        "rating": "TV-Y",
+        "description": "All Children"
+    },
+    {
+        "rating": "TV-Y7",
+        "description": "Directed to Older Children"
+    },
+    {
+        "rating": "TV-Y7 FV",
+        "description": "Directed to Older Children - Fantasy Violence"
+    },
+    {
+        "rating": "TV-G",
+        "description": "General Audience"
+    },
+    {
+        "rating": "TV-PG",
+        "description": "Parental Guidance Suggested"
+    },
+    {
+        "rating": "TV-14",
+        "description": "Parents Strongly Cautioned"
+    },
+    {
+        "rating": "TV-MA",
+        "description": "Mature Audience Only"
+    }
+]

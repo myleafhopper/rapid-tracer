@@ -1,0 +1,162 @@
+[
+    {
+        "timeZone": "GMT",
+        "description": "Greenwich Mean Time",
+        "relativeToGmt": "GMT"
+    },
+    {
+        "timeZone": "UTC",
+        "description": "Universal Coordinated Time",
+        "relativeToGmt": "GMT"
+    },
+    {
+        "timeZone": "ECT",
+        "description": "European Central Time",
+        "relativeToGmt": "GMT+1:00"
+    },
+    {
+        "timeZone": "EET",
+        "description": "Eastern European Time",
+        "relativeToGmt": "GMT+2:00"
+    },
+    {
+        "timeZone": "ART",
+        "description": "(Arabic) Egypt Standard Time",
+        "relativeToGmt": "GMT+2:00"
+    },
+    {
+        "timeZone": "EAT",
+        "description": "Eastern African Time",
+        "relativeToGmt": "GMT+3:00"
+    },
+    {
+        "timeZone": "MET",
+        "description": "Middle East Time",
+        "relativeToGmt": "GMT+3:30"
+    },
+    {
+        "timeZone": "NET",
+        "description": "Near East Time",
+        "relativeToGmt": "GMT+4:00"
+    },
+    {
+        "timeZone": "PLT",
+        "description": "Pakistan Lahore Time",
+        "relativeToGmt": "GMT+5:00"
+    },
+    {
+        "timeZone": "IST",
+        "description": "India Standard Time",
+        "relativeToGmt": "GMT+5:30"
+    },
+    {
+        "timeZone": "BST",
+        "description": "Bangladesh Standard Time",
+        "relativeToGmt": "GMT+6:00"
+    },
+    {
+        "timeZone": "VST",
+        "description": "Vietnam Standard Time",
+        "relativeToGmt": "GMT+7:00"
+    },
+    {
+        "timeZone": "CTT",
+        "description": "China Taiwan Time",
+        "relativeToGmt": "GMT+8:00"
+    },
+    {
+        "timeZone": "JST",
+        "description": "Japan Standard Time",
+        "relativeToGmt": "GMT+9:00"
+    },
+    {
+        "timeZone": "ACT",
+        "description": "Australia Central Time",
+        "relativeToGmt": "GMT+9:30"
+    },
+    {
+        "timeZone": "AET",
+        "description": "Australia Eastern Time",
+        "relativeToGmt": "GMT+10:00"
+    },
+    {
+        "timeZone": "SST",
+        "description": "Solomon Standard Time",
+        "relativeToGmt": "GMT+11:00"
+    },
+    {
+        "timeZone": "NST",
+        "description": "New Zealand Standard Time",
+        "relativeToGmt": "GMT+12:00"
+    },
+    {
+        "timeZone": "MIT",
+        "description": "Midway Islands Time",
+        "relativeToGmt": "GMT-11:00"
+    },
+    {
+        "timeZone": "HST",
+        "description": "Hawaii Standard Time",
+        "relativeToGmt": "GMT-10:00"
+    },
+    {
+        "timeZone": "AST",
+        "description": "Alaska Standard Time",
+        "relativeToGmt": "GMT-9:00"
+    },
+    {
+        "timeZone": "PST",
+        "description": "Pacific Standard Time",
+        "relativeToGmt": "GMT-8:00"
+    },
+    {
+        "timeZone": "PNT",
+        "description": "Phoenix Standard Time",
+        "relativeToGmt": "GMT-7:00"
+    },
+    {
+        "timeZone": "MST",
+        "description": "Mountain Standard Time",
+        "relativeToGmt": "GMT-7:00"
+    },
+    {
+        "timeZone": "CST",
+        "description": "Central Standard Time",
+        "relativeToGmt": "GMT-6:00"
+    },
+    {
+        "timeZone": "EST",
+        "description": "Eastern Standard Time",
+        "relativeToGmt": "GMT-5:00"
+    },
+    {
+        "timeZone": "IET",
+        "description": "Indiana Eastern Standard Time",
+        "relativeToGmt": "GMT-5:00"
+    },
+    {
+        "timeZone": "PRT",
+        "description": "Puerto Rico and US Virgin Islands Time",
+        "relativeToGmt": "GMT-4:00"
+    },
+    {
+        "timeZone": "CNT",
+        "description": "Canada Newfoundland Time",
+        "relativeToGmt": "GMT-3:30"
+    },
+    {
+        "timeZone": "AGT",
+        "description": "Argentina Standard Time",
+        "relativeToGmt": "GMT-3:00"
+    },
+    {
+        "timeZone": "BET",
+        "description": "Brazil Eastern Time",
+        "relativeToGmt": "GMT-3:00"
+    },
+    {
+        "timeZone": "CAT",
+        "description": "Central African Time",
+        "relativeToGmt": "GMT-1:00"
+    }
+]
