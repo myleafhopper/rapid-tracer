@@ -1,1406 +1,1409 @@
-[
-    {
-        "name": "Afghanistan",
-        "phoneCode": "93",
-        "currencyName": "Afghani",
-        "currencyCode": "AFN"
-    },
-    {
-        "name": "Albania",
-        "phoneCode": "355",
-        "currencyName": "Lek",
-        "currencyCode": "ALL"
-    },
-    {
-        "name": "Algeria",
-        "phoneCode": "213",
-        "currencyName": "Algerian Dinar",
-        "currencyCode": "DZD"
-    },
-    {
-        "name": "American Samoa",
-        "phoneCode": "1-684",
-        "currencyName": "US Dollar",
-        "currencyCode": "USD"
-    },
-    {
-        "name": "Andorra",
-        "phoneCode": "376",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Angola",
-        "phoneCode": "244",
-        "currencyName": "Kwanza",
-        "currencyCode": "AOA"
-    },
-    {
-        "name": "Anguilla",
-        "phoneCode": "1-264",
-        "currencyName": "East Caribbean Dollar",
-        "currencyCode": "XCD"
-    },
-    {
-        "name": "Antarctica",
-        "phoneCode": "672",
-        "currencyName": "No universal currency",
-        "currencyCode": ""
-    },
-    {
-        "name": "Antigua and Barbuda",
-        "phoneCode": "1-268",
-        "currencyName": "East Caribbean Dollar",
-        "currencyCode": "XCD"
-    },
-    {
-        "name": "Argentina",
-        "phoneCode": "54",
-        "currencyName": "Argentine Peso",
-        "currencyCode": "ARS"
-    },
-    {
-        "name": "Armenia",
-        "phoneCode": "374",
-        "currencyName": "Armenian Dram",
-        "currencyCode": "AMD"
-    },
-    {
-        "name": "Aruba",
-        "phoneCode": "297",
-        "currencyName": "Aruban Florin",
-        "currencyCode": "AWG"
-    },
-    {
-        "name": "Australia",
-        "phoneCode": "61",
-        "currencyName": "Australian Dollar",
-        "currencyCode": "AUD"
-    },
-    {
-        "name": "Austria",
-        "phoneCode": "43",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Azerbaijan",
-        "phoneCode": "994",
-        "currencyName": "Azerbaijanian Manat",
-        "currencyCode": "AZN"
-    },
-    {
-        "name": "Bahamas",
-        "phoneCode": "1-242",
-        "currencyName": "Bahamian Dollar",
-        "currencyCode": "BSD"
-    },
-    {
-        "name": "Bahrain",
-        "phoneCode": "973",
-        "currencyName": "Bahraini Dinar",
-        "currencyCode": "BHD"
-    },
-    {
-        "name": "Bangladesh",
-        "phoneCode": "880",
-        "currencyName": "Taka",
-        "currencyCode": "BDT"
-    },
-    {
-        "name": "Barbados",
-        "phoneCode": "1-246",
-        "currencyName": "Barbados Dollar",
-        "currencyCode": "BBD"
-    },
-    {
-        "name": "Belarus",
-        "phoneCode": "375",
-        "currencyName": "Belarussian Ruble",
-        "currencyCode": "BYR"
-    },
-    {
-        "name": "Belgium",
-        "phoneCode": "32",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Belize",
-        "phoneCode": "501",
-        "currencyName": "Belize Dollar",
-        "currencyCode": "BZD"
-    },
-    {
-        "name": "Benin",
-        "phoneCode": "229",
-        "currencyName": "CFA Franc BCEAO",
-        "currencyCode": "XOF"
-    },
-    {
-        "name": "Bermuda",
-        "phoneCode": "1-441",
-        "currencyName": "Bermudian Dollar",
-        "currencyCode": "BMD"
-    },
-    {
-        "name": "Bhutan",
-        "phoneCode": "975",
-        "currencyName": "Ngultrum",
-        "currencyCode": "BTN"
-    },
-    {
-        "name": "Bolivia",
-        "phoneCode": "591",
-        "currencyName": "Boliviano",
-        "currencyCode": "BOB"
-    },
-    {
-        "name": "Bosnia and Herzegovina",
-        "phoneCode": "387",
-        "currencyName": "Convertible Mark",
-        "currencyCode": "BAM"
-    },
-    {
-        "name": "Botswana",
-        "phoneCode": "267",
-        "currencyName": "Pula",
-        "currencyCode": "BWP"
-    },
-    {
-        "name": "Brazil",
-        "phoneCode": "55",
-        "currencyName": "Brazilian Real",
-        "currencyCode": "BRL"
-    },
-    {
-        "name": "British Indian Ocean Territory",
-        "phoneCode": "246",
-        "currencyName": "US Dollar",
-        "currencyCode": "USD"
-    },
-    {
-        "name": "Brunei",
-        "phoneCode": "673",
-        "currencyName": "Brunei Dollar",
-        "currencyCode": "BND"
-    },
-    {
-        "name": "Bulgaria",
-        "phoneCode": "359",
-        "currencyName": "Bulgarian Lev",
-        "currencyCode": "BGN"
-    },
-    {
-        "name": "Burkina Faso",
-        "phoneCode": "226",
-        "currencyName": "CFA Franc BCEAO",
-        "currencyCode": "XOF"
-    },
-    {
-        "name": "Burundi",
-        "phoneCode": "257",
-        "currencyName": "Burundi Franc",
-        "currencyCode": "BIF"
-    },
-    {
-        "name": "Cambodia",
-        "phoneCode": "855",
-        "currencyName": "Riel",
-        "currencyCode": "KHR"
-    },
-    {
-        "name": "Cameroon",
-        "phoneCode": "237",
-        "currencyName": "CFA Franc BEAC",
-        "currencyCode": "XAF"
-    },
-    {
-        "name": "Canada",
-        "phoneCode": "1",
-        "currencyName": "Canadian Dollar",
-        "currencyCode": "CAD"
-    },
-    {
-        "name": "Cayman Islands",
-        "phoneCode": "1-345",
-        "currencyName": "Cayman Islands Dollar",
-        "currencyCode": "KYD"
-    },
-    {
-        "name": "Central African Republic",
-        "phoneCode": "236",
-        "currencyName": "CFA Franc BEAC",
-        "currencyCode": "XAF"
-    },
-    {
-        "name": "Chad",
-        "phoneCode": "235",
-        "currencyName": "CFA Franc BEAC",
-        "currencyCode": "XAF"
-    },
-    {
-        "name": "Chile",
-        "phoneCode": "56",
-        "currencyName": "Unidad de Fomento",
-        "currencyCode": "CLF"
-    },
-    {
-        "name": "China",
-        "phoneCode": "86",
-        "currencyName": "Yuan Renminbi",
-        "currencyCode": "CNY"
-    },
-    {
-        "name": "Christmas Island",
-        "phoneCode": "61",
-        "currencyName": "Australian Dollar",
-        "currencyCode": "AUD"
-    },
-    {
-        "name": "Cocos Islands",
-        "phoneCode": "61",
-        "currencyName": "Australian Dollar",
-        "currencyCode": "AUD"
-    },
-    {
-        "name": "Colombia",
-        "phoneCode": "57",
-        "currencyName": "Colombian Peso",
-        "currencyCode": "COP"
-    },
-    {
-        "name": "Comoros",
-        "phoneCode": "269",
-        "currencyName": "Comoro Franc",
-        "currencyCode": "KMF"
-    },
-    {
-        "name": "Cook Islands",
-        "phoneCode": "682",
-        "currencyName": "New Zealand Dollar",
-        "currencyCode": "NZD"
-    },
-    {
-        "name": "Costa Rica",
-        "phoneCode": "506",
-        "currencyName": "Costa Rican Colon",
-        "currencyCode": "CRC"
-    },
-    {
-        "name": "Croatia",
-        "phoneCode": "385",
-        "currencyName": "Croatian Kuna",
-        "currencyCode": "HRK"
-    },
-    {
-        "name": "Cuba",
-        "phoneCode": "53",
-        "currencyName": "Peso Convertible",
-        "currencyCode": "CUC"
-    },
-    {
-        "name": "Curacao",
-        "phoneCode": "599",
-        "currencyName": "Netherlands Antillean Guilder",
-        "currencyCode": "ANG"
-    },
-    {
-        "name": "Cyprus",
-        "phoneCode": "357",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Czech Republic",
-        "phoneCode": "420",
-        "currencyName": "Czech Koruna",
-        "currencyCode": "CZK"
-    },
-    {
-        "name": "Democratic Republic of the Congo",
-        "phoneCode": "243",
-        "currencyName": "Dominican Peso",
-        "currencyCode": "DOP"
-    },
-    {
-        "name": "Denmark",
-        "phoneCode": "45",
-        "currencyName": "Danish Krone",
-        "currencyCode": "DKK"
-    },
-    {
-        "name": "Djibouti",
-        "phoneCode": "253",
-        "currencyName": "Djibouti Franc",
-        "currencyCode": "DJF"
-    },
-    {
-        "name": "Dominica",
-        "phoneCode": "1-767",
-        "currencyName": "East Caribbean Dollar",
-        "currencyCode": "XCD"
-    },
-    {
-        "name": "Dominican Republic",
-        "phoneCode": "1-809, 1-829, 1-849",
-        "currencyName": "Dominican Peso",
-        "currencyCode": "DOP"
-    },
-    {
-        "name": "Ecuador",
-        "phoneCode": "593",
-        "currencyName": "US Dollar",
-        "currencyCode": "USD"
-    },
-    {
-        "name": "Egypt",
-        "phoneCode": "20",
-        "currencyName": "Egyptian Pound",
-        "currencyCode": "EGP"
-    },
-    {
-        "name": "El Salvador",
-        "phoneCode": "503",
-        "currencyName": "El Salvador Colon",
-        "currencyCode": "SVC"
-    },
-    {
-        "name": "Equatorial Guinea",
-        "phoneCode": "240",
-        "currencyName": "CFA Franc BEAC",
-        "currencyCode": "XAF"
-    },
-    {
-        "name": "Eritrea",
-        "phoneCode": "291",
-        "currencyName": "Nakfa",
-        "currencyCode": "ERN"
-    },
-    {
-        "name": "Estonia",
-        "phoneCode": "372",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Ethiopia",
-        "phoneCode": "251",
-        "currencyName": "Ethiopian Birr",
-        "currencyCode": "ETB"
-    },
-    {
-        "name": "Falkland Islands",
-        "phoneCode": "500",
-        "currencyName": "Falkland Islands Pound",
-        "currencyCode": "FKP"
-    },
-    {
-        "name": "Faroe Islands",
-        "phoneCode": "298",
-        "currencyName": "Danish Krone",
-        "currencyCode": "DKK"
-    },
-    {
-        "name": "Fiji",
-        "phoneCode": "679",
-        "currencyName": "Fiji Dollar",
-        "currencyCode": "FJD"
-    },
-    {
-        "name": "Finland",
-        "phoneCode": "358",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "France",
-        "phoneCode": "33",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "French Polynesia",
-        "phoneCode": "689",
-        "currencyName": "CFP Franc",
-        "currencyCode": "XPF"
-    },
-    {
-        "name": "Gabon",
-        "phoneCode": "241",
-        "currencyName": "CFA Franc BEAC",
-        "currencyCode": "XAF"
-    },
-    {
-        "name": "Gambia",
-        "phoneCode": "220",
-        "currencyName": "Dalasi",
-        "currencyCode": "GMD"
-    },
-    {
-        "name": "Georgia",
-        "phoneCode": "995",
-        "currencyName": "Lari",
-        "currencyCode": "GEL"
-    },
-    {
-        "name": "Germany",
-        "phoneCode": "49",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Ghana",
-        "phoneCode": "233",
-        "currencyName": "Ghana Cedi",
-        "currencyCode": "GHS"
-    },
-    {
-        "name": "Gibraltar",
-        "phoneCode": "350",
-        "currencyName": "Gibraltar Pound",
-        "currencyCode": "GIP"
-    },
-    {
-        "name": "Greece",
-        "phoneCode": "30",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Greenland",
-        "phoneCode": "299",
-        "currencyName": "Danish Krone",
-        "currencyCode": "DKK"
-    },
-    {
-        "name": "Grenada",
-        "phoneCode": "1-473",
-        "currencyName": "East Caribbean Dollar",
-        "currencyCode": "XCD"
-    },
-    {
-        "name": "Guam",
-        "phoneCode": "1-671",
-        "currencyName": "US Dollar",
-        "currencyCode": "USD"
-    },
-    {
-        "name": "Guatemala",
-        "phoneCode": "502",
-        "currencyName": "Quetzal",
-        "currencyCode": "GTQ"
-    },
-    {
-        "name": "Guernsey",
-        "phoneCode": "44-1481",
-        "currencyName": "Pound Sterling",
-        "currencyCode": "GBP"
-    },
-    {
-        "name": "Guinea",
-        "phoneCode": "224",
-        "currencyName": "Guinea Franc",
-        "currencyCode": "GNF"
-    },
-    {
-        "name": "Guinea-Bissau",
-        "phoneCode": "245",
-        "currencyName": "CFA Franc BCEAO",
-        "currencyCode": "XOF"
-    },
-    {
-        "name": "Guyana",
-        "phoneCode": "592",
-        "currencyName": "Guyana Dollar",
-        "currencyCode": "GYD"
-    },
-    {
-        "name": "Haiti",
-        "phoneCode": "509",
-        "currencyName": "Gourde",
-        "currencyCode": "HTG"
-    },
-    {
-        "name": "Honduras",
-        "phoneCode": "504",
-        "currencyName": "Lempira",
-        "currencyCode": "HNL"
-    },
-    {
-        "name": "Hong Kong",
-        "phoneCode": "852",
-        "currencyName": "Hong Kong Dollar",
-        "currencyCode": "HKD"
-    },
-    {
-        "name": "Hungary",
-        "phoneCode": "36",
-        "currencyName": "Forint",
-        "currencyCode": "HUF"
-    },
-    {
-        "name": "Iceland",
-        "phoneCode": "354",
-        "currencyName": "Iceland Krona",
-        "currencyCode": "ISK"
-    },
-    {
-        "name": "India",
-        "phoneCode": "91",
-        "currencyName": "Indian Rupee",
-        "currencyCode": "INR"
-    },
-    {
-        "name": "Indonesia",
-        "phoneCode": "62",
-        "currencyName": "Rupiah",
-        "currencyCode": "IDR"
-    },
-    {
-        "name": "Iran",
-        "phoneCode": "98",
-        "currencyName": "Iranian Rial",
-        "currencyCode": "IRR"
-    },
-    {
-        "name": "Iraq",
-        "phoneCode": "964",
-        "currencyName": "Iraqi Dinar",
-        "currencyCode": "IQD"
-    },
-    {
-        "name": "Ireland",
-        "phoneCode": "353",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Isle of Man",
-        "phoneCode": "44-1624",
-        "currencyName": "Pound Sterling",
-        "currencyCode": "GBP"
-    },
-    {
-        "name": "Israel",
-        "phoneCode": "972",
-        "currencyName": "New Israeli Sheqel",
-        "currencyCode": "ILS"
-    },
-    {
-        "name": "Italy",
-        "phoneCode": "39",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Jamaica",
-        "phoneCode": "1-876",
-        "currencyName": "Jamaican Dollar",
-        "currencyCode": "JMD"
-    },
-    {
-        "name": "Japan",
-        "phoneCode": "81",
-        "currencyName": "Yen",
-        "currencyCode": "JPY"
-    },
-    {
-        "name": "Jersey",
-        "phoneCode": "44-1534",
-        "currencyName": "Pound Sterling",
-        "currencyCode": "GBP"
-    },
-    {
-        "name": "Jordan",
-        "phoneCode": "962",
-        "currencyName": "Jordanian Dinar",
-        "currencyCode": "JOD"
-    },
-    {
-        "name": "Kazakhstan",
-        "phoneCode": "7",
-        "currencyName": "Tenge",
-        "currencyCode": "KZT"
-    },
-    {
-        "name": "Kenya",
-        "phoneCode": "254",
-        "currencyName": "Kenyan Shilling",
-        "currencyCode": "KES"
-    },
-    {
-        "name": "Kiribati",
-        "phoneCode": "686",
-        "currencyName": "Australian Dollar",
-        "currencyCode": "AUD"
-    },
-    {
-        "name": "Kuwait",
-        "phoneCode": "965",
-        "currencyName": "Kuwaiti Dinar",
-        "currencyCode": "KWD"
-    },
-    {
-        "name": "Kyrgyzstan",
-        "phoneCode": "996",
-        "currencyName": "Som",
-        "currencyCode": "KGS"
-    },
-    {
-        "name": "Latvia",
-        "phoneCode": "371",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Lebanon",
-        "phoneCode": "961",
-        "currencyName": "Lebanese Pound",
-        "currencyCode": "LBP"
-    },
-    {
-        "name": "Lesotho",
-        "phoneCode": "266",
-        "currencyName": "Loti",
-        "currencyCode": "LSL"
-    },
-    {
-        "name": "Liberia",
-        "phoneCode": "231",
-        "currencyName": "Liberian Dollar",
-        "currencyCode": "LRD"
-    },
-    {
-        "name": "Libya",
-        "phoneCode": "218",
-        "currencyName": "Libyan Dinar",
-        "currencyCode": "LYD"
-    },
-    {
-        "name": "Liechtenstein",
-        "phoneCode": "423",
-        "currencyName": "Swiss Franc",
-        "currencyCode": "CHF"
-    },
-    {
-        "name": "Lithuania",
-        "phoneCode": "370",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Luxembourg",
-        "phoneCode": "352",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Macau",
-        "phoneCode": "853",
-        "currencyName": "Pataca",
-        "currencyCode": "MOP"
-    },
-    {
-        "name": "Macedonia",
-        "phoneCode": "389",
-        "currencyName": "Denar",
-        "currencyCode": "MKD"
-    },
-    {
-        "name": "Madagascar",
-        "phoneCode": "261",
-        "currencyName": "Malagasy Ariary",
-        "currencyCode": "MGA"
-    },
-    {
-        "name": "Malawi",
-        "phoneCode": "265",
-        "currencyName": "Kwacha",
-        "currencyCode": "MWK"
-    },
-    {
-        "name": "Malaysia",
-        "phoneCode": "60",
-        "currencyName": "Malaysian Ringgit",
-        "currencyCode": "MYR"
-    },
-    {
-        "name": "Maldives",
-        "phoneCode": "960",
-        "currencyName": "Rufiyaa",
-        "currencyCode": "MVR"
-    },
-    {
-        "name": "Mali",
-        "phoneCode": "223",
-        "currencyName": "CFA Franc BCEAO",
-        "currencyCode": "XOF"
-    },
-    {
-        "name": "Malta",
-        "phoneCode": "356",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Marshall Islands",
-        "phoneCode": "692",
-        "currencyName": "US Dollar",
-        "currencyCode": "USD"
-    },
-    {
-        "name": "Mauritania",
-        "phoneCode": "222",
-        "currencyName": "Ouguiya",
-        "currencyCode": "MRO"
-    },
-    {
-        "name": "Mauritius",
-        "phoneCode": "230",
-        "currencyName": "Mauritius Rupee",
-        "currencyCode": "MUR"
-    },
-    {
-        "name": "Mayotte",
-        "phoneCode": "262",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Mexico",
-        "phoneCode": "52",
-        "currencyName": "Mexican Peso",
-        "currencyCode": "MXN"
-    },
-    {
-        "name": "Micronesia",
-        "phoneCode": "691",
-        "currencyName": "US Dollar",
-        "currencyCode": "USD"
-    },
-    {
-        "name": "Moldova",
-        "phoneCode": "373",
-        "currencyName": "Moldovan Leu",
-        "currencyCode": "MDL"
-    },
-    {
-        "name": "Monaco",
-        "phoneCode": "377",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Mongolia",
-        "phoneCode": "976",
-        "currencyName": "Tugrik",
-        "currencyCode": "MNT"
-    },
-    {
-        "name": "Montenegro",
-        "phoneCode": "382",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Montserrat",
-        "phoneCode": "1-664",
-        "currencyName": "East Caribbean Dollar",
-        "currencyCode": "XCD"
-    },
-    {
-        "name": "Morocco",
-        "phoneCode": "212",
-        "currencyName": "Moroccan Dirham",
-        "currencyCode": "MAD"
-    },
-    {
-        "name": "Mozambique",
-        "phoneCode": "258",
-        "currencyName": "Mozambique Metical",
-        "currencyCode": "MZN"
-    },
-    {
-        "name": "Myanmar",
-        "phoneCode": "95",
-        "currencyName": "Kyat",
-        "currencyCode": "MMK"
-    },
-    {
-        "name": "Namibia",
-        "phoneCode": "264",
-        "currencyName": "Namibia Dollar",
-        "currencyCode": "NAD"
-    },
-    {
-        "name": "Nauru",
-        "phoneCode": "674",
-        "currencyName": "Australian Dollar",
-        "currencyCode": "AUD"
-    },
-    {
-        "name": "Nepal",
-        "phoneCode": "977",
-        "currencyName": "Nepalese Rupee",
-        "currencyCode": "NPR"
-    },
-    {
-        "name": "Netherlands",
-        "phoneCode": "31",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Netherlands Antilles",
-        "phoneCode": "599",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "New Caledonia",
-        "phoneCode": "687",
-        "currencyName": "CFP Franc",
-        "currencyCode": "XPF"
-    },
-    {
-        "name": "New Zealand",
-        "phoneCode": "64",
-        "currencyName": "New Zealand Dollar",
-        "currencyCode": "NZD"
-    },
-    {
-        "name": "Nicaragua",
-        "phoneCode": "505",
-        "currencyName": "Cordoba Oro",
-        "currencyCode": "NIO"
-    },
-    {
-        "name": "Niger",
-        "phoneCode": "227",
-        "currencyName": "CFA Franc BCEAO",
-        "currencyCode": "XOF"
-    },
-    {
-        "name": "Nigeria",
-        "phoneCode": "234",
-        "currencyName": "Naira",
-        "currencyCode": "NGN"
-    },
-    {
-        "name": "Niue",
-        "phoneCode": "683",
-        "currencyName": "New Zealand Dollar",
-        "currencyCode": "NZD"
-    },
-    {
-        "name": "North Korea",
-        "phoneCode": "850",
-        "currencyName": "North Korean Won",
-        "currencyCode": "KPW"
-    },
-    {
-        "name": "Northern Mariana Islands",
-        "phoneCode": "1-670",
-        "currencyName": "US Dollar",
-        "currencyCode": "USD"
-    },
-    {
-        "name": "Norway",
-        "phoneCode": "47",
-        "currencyName": "Norwegian Krone",
-        "currencyCode": "NOK"
-    },
-    {
-        "name": "Oman",
-        "phoneCode": "968",
-        "currencyName": "Rial Omani",
-        "currencyCode": "OMR"
-    },
-    {
-        "name": "Pakistan",
-        "phoneCode": "92",
-        "currencyName": "Pakistan Rupee",
-        "currencyCode": "PKR"
-    },
-    {
-        "name": "Palau",
-        "phoneCode": "680",
-        "currencyName": "US Dollar",
-        "currencyCode": "USD"
-    },
-    {
-        "name": "Palestine",
-        "phoneCode": "970",
-        "currencyName": "",
-        "currencyCode": ""
-    },
-    {
-        "name": "Panama",
-        "phoneCode": "507",
-        "currencyName": "Balboa",
-        "currencyCode": "PAB"
-    },
-    {
-        "name": "Papua New Guinea",
-        "phoneCode": "675",
-        "currencyName": "Kina",
-        "currencyCode": "PGK"
-    },
-    {
-        "name": "Paraguay",
-        "phoneCode": "595",
-        "currencyName": "Guarani",
-        "currencyCode": "PYG"
-    },
-    {
-        "name": "Peru",
-        "phoneCode": "51",
-        "currencyName": "Nuevo Sol",
-        "currencyCode": "PEN"
-    },
-    {
-        "name": "Philippines",
-        "phoneCode": "63",
-        "currencyName": "Philippine Peso",
-        "currencyCode": "PHP"
-    },
-    {
-        "name": "Pitcairn",
-        "phoneCode": "64",
-        "currencyName": "New Zealand Dollar",
-        "currencyCode": "NZD"
-    },
-    {
-        "name": "Poland",
-        "phoneCode": "48",
-        "currencyName": "Zloty",
-        "currencyCode": "PLN"
-    },
-    {
-        "name": "Portugal",
-        "phoneCode": "351",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Puerto Rico",
-        "phoneCode": "1-787, 1-939",
-        "currencyName": "US Dollar",
-        "currencyCode": "USD"
-    },
-    {
-        "name": "Qatar",
-        "phoneCode": "974",
-        "currencyName": "Qatari Rial",
-        "currencyCode": "QAR"
-    },
-    {
-        "name": "Republic of the Congo",
-        "phoneCode": "242",
-        "currencyName": "Congolese Franc",
-        "currencyCode": "CDF"
-    },
-    {
-        "name": "Reunion",
-        "phoneCode": "262",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Romania",
-        "phoneCode": "40",
-        "currencyName": "New Romanian Leu",
-        "currencyCode": "RON"
-    },
-    {
-        "name": "Russia",
-        "phoneCode": "7",
-        "currencyName": "Russian Ruble",
-        "currencyCode": "RUB"
-    },
-    {
-        "name": "Rwanda",
-        "phoneCode": "250",
-        "currencyName": "Rwanda Franc",
-        "currencyCode": "RWF"
-    },
-    {
-        "name": "Saint Barthelemy",
-        "phoneCode": "590",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Saint Helena",
-        "phoneCode": "290",
-        "currencyName": "Saint Helena Pound",
-        "currencyCode": "SHP"
-    },
-    {
-        "name": "Saint Kitts and Nevis",
-        "phoneCode": "1-869",
-        "currencyName": "East Caribbean Dollar",
-        "currencyCode": "XCD"
-    },
-    {
-        "name": "Saint Lucia",
-        "phoneCode": "1-758",
-        "currencyName": "East Caribbean Dollar",
-        "currencyCode": "XCD"
-    },
-    {
-        "name": "Saint Martin",
-        "phoneCode": "590",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Saint Pierre and Miquelon",
-        "phoneCode": "508",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Saint Vincent and the Grenadines",
-        "phoneCode": "1-784",
-        "currencyName": "East Caribbean Dollar",
-        "currencyCode": "XCD"
-    },
-    {
-        "name": "Samoa",
-        "phoneCode": "685",
-        "currencyName": "Tala",
-        "currencyCode": "WST"
-    },
-    {
-        "name": "San Marino",
-        "phoneCode": "378",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Sao Tome and Principe",
-        "phoneCode": "239",
-        "currencyName": "Dobra",
-        "currencyCode": "STD"
-    },
-    {
-        "name": "Saudi Arabia",
-        "phoneCode": "966",
-        "currencyName": "Saudi Riyal",
-        "currencyCode": "SAR"
-    },
-    {
-        "name": "Senegal",
-        "phoneCode": "221",
-        "currencyName": "CFA Franc BCEAO",
-        "currencyCode": "XOF"
-    },
-    {
-        "name": "Serbia",
-        "phoneCode": "381",
-        "currencyName": "Serbian Dinar",
-        "currencyCode": "RSD"
-    },
-    {
-        "name": "Seychelles",
-        "phoneCode": "248",
-        "currencyName": "Seychelles Rupee",
-        "currencyCode": "SCR"
-    },
-    {
-        "name": "Sierra Leone",
-        "phoneCode": "232",
-        "currencyName": "Leone",
-        "currencyCode": "SLL"
-    },
-    {
-        "name": "Singapore",
-        "phoneCode": "65",
-        "currencyName": "Singapore Dollar",
-        "currencyCode": "SGD"
-    },
-    {
-        "name": "Sint Maarten",
-        "phoneCode": "1-721",
-        "currencyName": "Netherlands Antillean Guilder",
-        "currencyCode": "ANG"
-    },
-    {
-        "name": "Slovakia",
-        "phoneCode": "421",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Slovenia",
-        "phoneCode": "386",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Solomon Islands",
-        "phoneCode": "677",
-        "currencyName": "Solomon Islands Dollar",
-        "currencyCode": "SBD"
-    },
-    {
-        "name": "Somalia",
-        "phoneCode": "252",
-        "currencyName": "Somali Shilling",
-        "currencyCode": "SOS"
-    },
-    {
-        "name": "South Africa",
-        "phoneCode": "27",
-        "currencyName": "Rand",
-        "currencyCode": "ZAR"
-    },
-    {
-        "name": "South Korea",
-        "phoneCode": "82",
-        "currencyName": "South Korean Won",
-        "currencyCode": "KRW"
-    },
-    {
-        "name": "South Sudan",
-        "phoneCode": "211",
-        "currencyName": "South Sudanese Pound",
-        "currencyCode": "SSP"
-    },
-    {
-        "name": "Spain",
-        "phoneCode": "34",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Sri Lanka",
-        "phoneCode": "94",
-        "currencyName": "Sri Lanka Rupee",
-        "currencyCode": "LKR"
-    },
-    {
-        "name": "Sudan",
-        "phoneCode": "249",
-        "currencyName": "Sudanese Pound",
-        "currencyCode": "SDG"
-    },
-    {
-        "name": "Suriname",
-        "phoneCode": "597",
-        "currencyName": "Surinam Dollar",
-        "currencyCode": "SRD"
-    },
-    {
-        "name": "Svalbard and Jan Mayen",
-        "phoneCode": "47",
-        "currencyName": "Norwegian Krone",
-        "currencyCode": "NOK"
-    },
-    {
-        "name": "Swaziland",
-        "phoneCode": "268",
-        "currencyName": "Lilangeni",
-        "currencyCode": "SZL"
-    },
-    {
-        "name": "Sweden",
-        "phoneCode": "46",
-        "currencyName": "Swedish Krona",
-        "currencyCode": "SEK"
-    },
-    {
-        "name": "Switzerland",
-        "phoneCode": "41",
-        "currencyName": "WIR Euro",
-        "currencyCode": "CHE"
-    },
-    {
-        "name": "Syria",
-        "phoneCode": "963",
-        "currencyName": "Syrian Pound",
-        "currencyCode": "SYP"
-    },
-    {
-        "name": "Taiwan",
-        "phoneCode": "886",
-        "currencyName": "New Taiwan Dollar",
-        "currencyCode": "TWD"
-    },
-    {
-        "name": "Tajikistan",
-        "phoneCode": "992",
-        "currencyName": "Somoni",
-        "currencyCode": "TJS"
-    },
-    {
-        "name": "Tanzania",
-        "phoneCode": "255",
-        "currencyName": "Tanzanian Shilling",
-        "currencyCode": "TZS"
-    },
-    {
-        "name": "Thailand",
-        "phoneCode": "66",
-        "currencyName": "Baht",
-        "currencyCode": "THB"
-    },
-    {
-        "name": "Togo",
-        "phoneCode": "228",
-        "currencyName": "CFA Franc BCEAO",
-        "currencyCode": "XOF"
-    },
-    {
-        "name": "Tokelau",
-        "phoneCode": "690",
-        "currencyName": "New Zealand Dollar",
-        "currencyCode": "NZD"
-    },
-    {
-        "name": "Tonga",
-        "phoneCode": "676",
-        "currencyName": "Paanga",
-        "currencyCode": "TOP"
-    },
-    {
-        "name": "Trinidad and Tobago",
-        "phoneCode": "1-868",
-        "currencyName": "Trinidad and Tobago Dollar",
-        "currencyCode": "TTD"
-    },
-    {
-        "name": "Tunisia",
-        "phoneCode": "216",
-        "currencyName": "Tunisian Dinar",
-        "currencyCode": "TND"
-    },
-    {
-        "name": "Turkey",
-        "phoneCode": "90",
-        "currencyName": "Turkish Lira",
-        "currencyCode": "TRY"
-    },
-    {
-        "name": "Turkmenistan",
-        "phoneCode": "993",
-        "currencyName": "Turkmenistan New Manat",
-        "currencyCode": "TMT"
-    },
-    {
-        "name": "Turks and Caicos Islands",
-        "phoneCode": "1-649",
-        "currencyName": "US Dollar",
-        "currencyCode": "USD"
-    },
-    {
-        "name": "Tuvalu",
-        "phoneCode": "688",
-        "currencyName": "Australian Dollar",
-        "currencyCode": "AUD"
-    },
-    {
-        "name": "U.S. Virgin Islands",
-        "phoneCode": "1-340",
-        "currencyName": "US Dollar",
-        "currencyCode": "USD"
-    },
-    {
-        "name": "Uganda",
-        "phoneCode": "256",
-        "currencyName": "Uganda Shilling",
-        "currencyCode": "UGX"
-    },
-    {
-        "name": "Ukraine",
-        "phoneCode": "380",
-        "currencyName": "Hryvnia",
-        "currencyCode": "UAH"
-    },
-    {
-        "name": "United Arab Emirates",
-        "phoneCode": "971",
-        "currencyName": "UAE Dirham",
-        "currencyCode": "AED"
-    },
-    {
-        "name": "United Kingdom",
-        "phoneCode": "44",
-        "currencyName": "Pound Sterling",
-        "currencyCode": "GBP"
-    },
-    {
-        "name": "United States",
-        "phoneCode": "1",
-        "currencyName": "US Dollar",
-        "currencyCode": "USD"
-    },
-    {
-        "name": "Uruguay",
-        "phoneCode": "598",
-        "currencyName": "Uruguay Peso en Unidades Indexadas (URUIURUI)",
-        "currencyCode": "UYI"
-    },
-    {
-        "name": "Uzbekistan",
-        "phoneCode": "998",
-        "currencyName": "Uzbekistan Sum",
-        "currencyCode": "UZS"
-    },
-    {
-        "name": "Vanuatu",
-        "phoneCode": "678",
-        "currencyName": "Vatu",
-        "currencyCode": "VUV"
-    },
-    {
-        "name": "Vatican",
-        "phoneCode": "379",
-        "currencyName": "Euro",
-        "currencyCode": "EUR"
-    },
-    {
-        "name": "Venezuela",
-        "phoneCode": "58",
-        "currencyName": "Bolivar",
-        "currencyCode": "VEF"
-    },
-    {
-        "name": "Vietnam",
-        "phoneCode": "84",
-        "currencyName": "Dong",
-        "currencyCode": "VND"
-    },
-    {
-        "name": "Wallis and Futuna",
-        "phoneCode": "681",
-        "currencyName": "CFP Franc",
-        "currencyCode": "XPF"
-    },
-    {
-        "name": "Western Sahara",
-        "phoneCode": "212",
-        "currencyName": "Moroccan Dirham",
-        "currencyCode": "MAD"
-    },
-    {
-        "name": "Yemen",
-        "phoneCode": "967",
-        "currencyName": "Yemeni Rial",
-        "currencyCode": "YER"
-    },
-    {
-        "name": "Zambia",
-        "phoneCode": "260",
-        "currencyName": "Zambian Kwacha",
-        "currencyCode": "ZMW"
-    },
-    {
-        "name": "Zimbabwe",
-        "phoneCode": "263",
-        "currencyName": "Zimbabwe Dollar",
-        "currencyCode": "ZWL"
-    }
-]
+{
+    "count": 233,
+    "list": [
+        {
+            "name": "Afghanistan",
+            "phoneCode": "93",
+            "currencyName": "Afghani",
+            "currencyCode": "AFN"
+        },
+        {
+            "name": "Albania",
+            "phoneCode": "355",
+            "currencyName": "Lek",
+            "currencyCode": "ALL"
+        },
+        {
+            "name": "Algeria",
+            "phoneCode": "213",
+            "currencyName": "Algerian Dinar",
+            "currencyCode": "DZD"
+        },
+        {
+            "name": "American Samoa",
+            "phoneCode": "1-684",
+            "currencyName": "US Dollar",
+            "currencyCode": "USD"
+        },
+        {
+            "name": "Andorra",
+            "phoneCode": "376",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Angola",
+            "phoneCode": "244",
+            "currencyName": "Kwanza",
+            "currencyCode": "AOA"
+        },
+        {
+            "name": "Anguilla",
+            "phoneCode": "1-264",
+            "currencyName": "East Caribbean Dollar",
+            "currencyCode": "XCD"
+        },
+        {
+            "name": "Antarctica",
+            "phoneCode": "672",
+            "currencyName": "No universal currency",
+            "currencyCode": ""
+        },
+        {
+            "name": "Antigua and Barbuda",
+            "phoneCode": "1-268",
+            "currencyName": "East Caribbean Dollar",
+            "currencyCode": "XCD"
+        },
+        {
+            "name": "Argentina",
+            "phoneCode": "54",
+            "currencyName": "Argentine Peso",
+            "currencyCode": "ARS"
+        },
+        {
+            "name": "Armenia",
+            "phoneCode": "374",
+            "currencyName": "Armenian Dram",
+            "currencyCode": "AMD"
+        },
+        {
+            "name": "Aruba",
+            "phoneCode": "297",
+            "currencyName": "Aruban Florin",
+            "currencyCode": "AWG"
+        },
+        {
+            "name": "Australia",
+            "phoneCode": "61",
+            "currencyName": "Australian Dollar",
+            "currencyCode": "AUD"
+        },
+        {
+            "name": "Austria",
+            "phoneCode": "43",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Azerbaijan",
+            "phoneCode": "994",
+            "currencyName": "Azerbaijanian Manat",
+            "currencyCode": "AZN"
+        },
+        {
+            "name": "Bahamas",
+            "phoneCode": "1-242",
+            "currencyName": "Bahamian Dollar",
+            "currencyCode": "BSD"
+        },
+        {
+            "name": "Bahrain",
+            "phoneCode": "973",
+            "currencyName": "Bahraini Dinar",
+            "currencyCode": "BHD"
+        },
+        {
+            "name": "Bangladesh",
+            "phoneCode": "880",
+            "currencyName": "Taka",
+            "currencyCode": "BDT"
+        },
+        {
+            "name": "Barbados",
+            "phoneCode": "1-246",
+            "currencyName": "Barbados Dollar",
+            "currencyCode": "BBD"
+        },
+        {
+            "name": "Belarus",
+            "phoneCode": "375",
+            "currencyName": "Belarussian Ruble",
+            "currencyCode": "BYR"
+        },
+        {
+            "name": "Belgium",
+            "phoneCode": "32",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Belize",
+            "phoneCode": "501",
+            "currencyName": "Belize Dollar",
+            "currencyCode": "BZD"
+        },
+        {
+            "name": "Benin",
+            "phoneCode": "229",
+            "currencyName": "CFA Franc BCEAO",
+            "currencyCode": "XOF"
+        },
+        {
+            "name": "Bermuda",
+            "phoneCode": "1-441",
+            "currencyName": "Bermudian Dollar",
+            "currencyCode": "BMD"
+        },
+        {
+            "name": "Bhutan",
+            "phoneCode": "975",
+            "currencyName": "Ngultrum",
+            "currencyCode": "BTN"
+        },
+        {
+            "name": "Bolivia",
+            "phoneCode": "591",
+            "currencyName": "Boliviano",
+            "currencyCode": "BOB"
+        },
+        {
+            "name": "Bosnia and Herzegovina",
+            "phoneCode": "387",
+            "currencyName": "Convertible Mark",
+            "currencyCode": "BAM"
+        },
+        {
+            "name": "Botswana",
+            "phoneCode": "267",
+            "currencyName": "Pula",
+            "currencyCode": "BWP"
+        },
+        {
+            "name": "Brazil",
+            "phoneCode": "55",
+            "currencyName": "Brazilian Real",
+            "currencyCode": "BRL"
+        },
+        {
+            "name": "British Indian Ocean Territory",
+            "phoneCode": "246",
+            "currencyName": "US Dollar",
+            "currencyCode": "USD"
+        },
+        {
+            "name": "Brunei",
+            "phoneCode": "673",
+            "currencyName": "Brunei Dollar",
+            "currencyCode": "BND"
+        },
+        {
+            "name": "Bulgaria",
+            "phoneCode": "359",
+            "currencyName": "Bulgarian Lev",
+            "currencyCode": "BGN"
+        },
+        {
+            "name": "Burkina Faso",
+            "phoneCode": "226",
+            "currencyName": "CFA Franc BCEAO",
+            "currencyCode": "XOF"
+        },
+        {
+            "name": "Burundi",
+            "phoneCode": "257",
+            "currencyName": "Burundi Franc",
+            "currencyCode": "BIF"
+        },
+        {
+            "name": "Cambodia",
+            "phoneCode": "855",
+            "currencyName": "Riel",
+            "currencyCode": "KHR"
+        },
+        {
+            "name": "Cameroon",
+            "phoneCode": "237",
+            "currencyName": "CFA Franc BEAC",
+            "currencyCode": "XAF"
+        },
+        {
+            "name": "Canada",
+            "phoneCode": "1",
+            "currencyName": "Canadian Dollar",
+            "currencyCode": "CAD"
+        },
+        {
+            "name": "Cayman Islands",
+            "phoneCode": "1-345",
+            "currencyName": "Cayman Islands Dollar",
+            "currencyCode": "KYD"
+        },
+        {
+            "name": "Central African Republic",
+            "phoneCode": "236",
+            "currencyName": "CFA Franc BEAC",
+            "currencyCode": "XAF"
+        },
+        {
+            "name": "Chad",
+            "phoneCode": "235",
+            "currencyName": "CFA Franc BEAC",
+            "currencyCode": "XAF"
+        },
+        {
+            "name": "Chile",
+            "phoneCode": "56",
+            "currencyName": "Unidad de Fomento",
+            "currencyCode": "CLF"
+        },
+        {
+            "name": "China",
+            "phoneCode": "86",
+            "currencyName": "Yuan Renminbi",
+            "currencyCode": "CNY"
+        },
+        {
+            "name": "Christmas Island",
+            "phoneCode": "61",
+            "currencyName": "Australian Dollar",
+            "currencyCode": "AUD"
+        },
+        {
+            "name": "Cocos Islands",
+            "phoneCode": "61",
+            "currencyName": "Australian Dollar",
+            "currencyCode": "AUD"
+        },
+        {
+            "name": "Colombia",
+            "phoneCode": "57",
+            "currencyName": "Colombian Peso",
+            "currencyCode": "COP"
+        },
+        {
+            "name": "Comoros",
+            "phoneCode": "269",
+            "currencyName": "Comoro Franc",
+            "currencyCode": "KMF"
+        },
+        {
+            "name": "Cook Islands",
+            "phoneCode": "682",
+            "currencyName": "New Zealand Dollar",
+            "currencyCode": "NZD"
+        },
+        {
+            "name": "Costa Rica",
+            "phoneCode": "506",
+            "currencyName": "Costa Rican Colon",
+            "currencyCode": "CRC"
+        },
+        {
+            "name": "Croatia",
+            "phoneCode": "385",
+            "currencyName": "Croatian Kuna",
+            "currencyCode": "HRK"
+        },
+        {
+            "name": "Cuba",
+            "phoneCode": "53",
+            "currencyName": "Peso Convertible",
+            "currencyCode": "CUC"
+        },
+        {
+            "name": "Curacao",
+            "phoneCode": "599",
+            "currencyName": "Netherlands Antillean Guilder",
+            "currencyCode": "ANG"
+        },
+        {
+            "name": "Cyprus",
+            "phoneCode": "357",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Czech Republic",
+            "phoneCode": "420",
+            "currencyName": "Czech Koruna",
+            "currencyCode": "CZK"
+        },
+        {
+            "name": "Democratic Republic of the Congo",
+            "phoneCode": "243",
+            "currencyName": "Dominican Peso",
+            "currencyCode": "DOP"
+        },
+        {
+            "name": "Denmark",
+            "phoneCode": "45",
+            "currencyName": "Danish Krone",
+            "currencyCode": "DKK"
+        },
+        {
+            "name": "Djibouti",
+            "phoneCode": "253",
+            "currencyName": "Djibouti Franc",
+            "currencyCode": "DJF"
+        },
+        {
+            "name": "Dominica",
+            "phoneCode": "1-767",
+            "currencyName": "East Caribbean Dollar",
+            "currencyCode": "XCD"
+        },
+        {
+            "name": "Dominican Republic",
+            "phoneCode": "1-809, 1-829, 1-849",
+            "currencyName": "Dominican Peso",
+            "currencyCode": "DOP"
+        },
+        {
+            "name": "Ecuador",
+            "phoneCode": "593",
+            "currencyName": "US Dollar",
+            "currencyCode": "USD"
+        },
+        {
+            "name": "Egypt",
+            "phoneCode": "20",
+            "currencyName": "Egyptian Pound",
+            "currencyCode": "EGP"
+        },
+        {
+            "name": "El Salvador",
+            "phoneCode": "503",
+            "currencyName": "El Salvador Colon",
+            "currencyCode": "SVC"
+        },
+        {
+            "name": "Equatorial Guinea",
+            "phoneCode": "240",
+            "currencyName": "CFA Franc BEAC",
+            "currencyCode": "XAF"
+        },
+        {
+            "name": "Eritrea",
+            "phoneCode": "291",
+            "currencyName": "Nakfa",
+            "currencyCode": "ERN"
+        },
+        {
+            "name": "Estonia",
+            "phoneCode": "372",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Ethiopia",
+            "phoneCode": "251",
+            "currencyName": "Ethiopian Birr",
+            "currencyCode": "ETB"
+        },
+        {
+            "name": "Falkland Islands",
+            "phoneCode": "500",
+            "currencyName": "Falkland Islands Pound",
+            "currencyCode": "FKP"
+        },
+        {
+            "name": "Faroe Islands",
+            "phoneCode": "298",
+            "currencyName": "Danish Krone",
+            "currencyCode": "DKK"
+        },
+        {
+            "name": "Fiji",
+            "phoneCode": "679",
+            "currencyName": "Fiji Dollar",
+            "currencyCode": "FJD"
+        },
+        {
+            "name": "Finland",
+            "phoneCode": "358",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "France",
+            "phoneCode": "33",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "French Polynesia",
+            "phoneCode": "689",
+            "currencyName": "CFP Franc",
+            "currencyCode": "XPF"
+        },
+        {
+            "name": "Gabon",
+            "phoneCode": "241",
+            "currencyName": "CFA Franc BEAC",
+            "currencyCode": "XAF"
+        },
+        {
+            "name": "Gambia",
+            "phoneCode": "220",
+            "currencyName": "Dalasi",
+            "currencyCode": "GMD"
+        },
+        {
+            "name": "Georgia",
+            "phoneCode": "995",
+            "currencyName": "Lari",
+            "currencyCode": "GEL"
+        },
+        {
+            "name": "Germany",
+            "phoneCode": "49",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Ghana",
+            "phoneCode": "233",
+            "currencyName": "Ghana Cedi",
+            "currencyCode": "GHS"
+        },
+        {
+            "name": "Gibraltar",
+            "phoneCode": "350",
+            "currencyName": "Gibraltar Pound",
+            "currencyCode": "GIP"
+        },
+        {
+            "name": "Greece",
+            "phoneCode": "30",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Greenland",
+            "phoneCode": "299",
+            "currencyName": "Danish Krone",
+            "currencyCode": "DKK"
+        },
+        {
+            "name": "Grenada",
+            "phoneCode": "1-473",
+            "currencyName": "East Caribbean Dollar",
+            "currencyCode": "XCD"
+        },
+        {
+            "name": "Guam",
+            "phoneCode": "1-671",
+            "currencyName": "US Dollar",
+            "currencyCode": "USD"
+        },
+        {
+            "name": "Guatemala",
+            "phoneCode": "502",
+            "currencyName": "Quetzal",
+            "currencyCode": "GTQ"
+        },
+        {
+            "name": "Guernsey",
+            "phoneCode": "44-1481",
+            "currencyName": "Pound Sterling",
+            "currencyCode": "GBP"
+        },
+        {
+            "name": "Guinea",
+            "phoneCode": "224",
+            "currencyName": "Guinea Franc",
+            "currencyCode": "GNF"
+        },
+        {
+            "name": "Guinea-Bissau",
+            "phoneCode": "245",
+            "currencyName": "CFA Franc BCEAO",
+            "currencyCode": "XOF"
+        },
+        {
+            "name": "Guyana",
+            "phoneCode": "592",
+            "currencyName": "Guyana Dollar",
+            "currencyCode": "GYD"
+        },
+        {
+            "name": "Haiti",
+            "phoneCode": "509",
+            "currencyName": "Gourde",
+            "currencyCode": "HTG"
+        },
+        {
+            "name": "Honduras",
+            "phoneCode": "504",
+            "currencyName": "Lempira",
+            "currencyCode": "HNL"
+        },
+        {
+            "name": "Hong Kong",
+            "phoneCode": "852",
+            "currencyName": "Hong Kong Dollar",
+            "currencyCode": "HKD"
+        },
+        {
+            "name": "Hungary",
+            "phoneCode": "36",
+            "currencyName": "Forint",
+            "currencyCode": "HUF"
+        },
+        {
+            "name": "Iceland",
+            "phoneCode": "354",
+            "currencyName": "Iceland Krona",
+            "currencyCode": "ISK"
+        },
+        {
+            "name": "India",
+            "phoneCode": "91",
+            "currencyName": "Indian Rupee",
+            "currencyCode": "INR"
+        },
+        {
+            "name": "Indonesia",
+            "phoneCode": "62",
+            "currencyName": "Rupiah",
+            "currencyCode": "IDR"
+        },
+        {
+            "name": "Iran",
+            "phoneCode": "98",
+            "currencyName": "Iranian Rial",
+            "currencyCode": "IRR"
+        },
+        {
+            "name": "Iraq",
+            "phoneCode": "964",
+            "currencyName": "Iraqi Dinar",
+            "currencyCode": "IQD"
+        },
+        {
+            "name": "Ireland",
+            "phoneCode": "353",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Isle of Man",
+            "phoneCode": "44-1624",
+            "currencyName": "Pound Sterling",
+            "currencyCode": "GBP"
+        },
+        {
+            "name": "Israel",
+            "phoneCode": "972",
+            "currencyName": "New Israeli Sheqel",
+            "currencyCode": "ILS"
+        },
+        {
+            "name": "Italy",
+            "phoneCode": "39",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Jamaica",
+            "phoneCode": "1-876",
+            "currencyName": "Jamaican Dollar",
+            "currencyCode": "JMD"
+        },
+        {
+            "name": "Japan",
+            "phoneCode": "81",
+            "currencyName": "Yen",
+            "currencyCode": "JPY"
+        },
+        {
+            "name": "Jersey",
+            "phoneCode": "44-1534",
+            "currencyName": "Pound Sterling",
+            "currencyCode": "GBP"
+        },
+        {
+            "name": "Jordan",
+            "phoneCode": "962",
+            "currencyName": "Jordanian Dinar",
+            "currencyCode": "JOD"
+        },
+        {
+            "name": "Kazakhstan",
+            "phoneCode": "7",
+            "currencyName": "Tenge",
+            "currencyCode": "KZT"
+        },
+        {
+            "name": "Kenya",
+            "phoneCode": "254",
+            "currencyName": "Kenyan Shilling",
+            "currencyCode": "KES"
+        },
+        {
+            "name": "Kiribati",
+            "phoneCode": "686",
+            "currencyName": "Australian Dollar",
+            "currencyCode": "AUD"
+        },
+        {
+            "name": "Kuwait",
+            "phoneCode": "965",
+            "currencyName": "Kuwaiti Dinar",
+            "currencyCode": "KWD"
+        },
+        {
+            "name": "Kyrgyzstan",
+            "phoneCode": "996",
+            "currencyName": "Som",
+            "currencyCode": "KGS"
+        },
+        {
+            "name": "Latvia",
+            "phoneCode": "371",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Lebanon",
+            "phoneCode": "961",
+            "currencyName": "Lebanese Pound",
+            "currencyCode": "LBP"
+        },
+        {
+            "name": "Lesotho",
+            "phoneCode": "266",
+            "currencyName": "Loti",
+            "currencyCode": "LSL"
+        },
+        {
+            "name": "Liberia",
+            "phoneCode": "231",
+            "currencyName": "Liberian Dollar",
+            "currencyCode": "LRD"
+        },
+        {
+            "name": "Libya",
+            "phoneCode": "218",
+            "currencyName": "Libyan Dinar",
+            "currencyCode": "LYD"
+        },
+        {
+            "name": "Liechtenstein",
+            "phoneCode": "423",
+            "currencyName": "Swiss Franc",
+            "currencyCode": "CHF"
+        },
+        {
+            "name": "Lithuania",
+            "phoneCode": "370",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Luxembourg",
+            "phoneCode": "352",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Macau",
+            "phoneCode": "853",
+            "currencyName": "Pataca",
+            "currencyCode": "MOP"
+        },
+        {
+            "name": "Macedonia",
+            "phoneCode": "389",
+            "currencyName": "Denar",
+            "currencyCode": "MKD"
+        },
+        {
+            "name": "Madagascar",
+            "phoneCode": "261",
+            "currencyName": "Malagasy Ariary",
+            "currencyCode": "MGA"
+        },
+        {
+            "name": "Malawi",
+            "phoneCode": "265",
+            "currencyName": "Kwacha",
+            "currencyCode": "MWK"
+        },
+        {
+            "name": "Malaysia",
+            "phoneCode": "60",
+            "currencyName": "Malaysian Ringgit",
+            "currencyCode": "MYR"
+        },
+        {
+            "name": "Maldives",
+            "phoneCode": "960",
+            "currencyName": "Rufiyaa",
+            "currencyCode": "MVR"
+        },
+        {
+            "name": "Mali",
+            "phoneCode": "223",
+            "currencyName": "CFA Franc BCEAO",
+            "currencyCode": "XOF"
+        },
+        {
+            "name": "Malta",
+            "phoneCode": "356",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Marshall Islands",
+            "phoneCode": "692",
+            "currencyName": "US Dollar",
+            "currencyCode": "USD"
+        },
+        {
+            "name": "Mauritania",
+            "phoneCode": "222",
+            "currencyName": "Ouguiya",
+            "currencyCode": "MRO"
+        },
+        {
+            "name": "Mauritius",
+            "phoneCode": "230",
+            "currencyName": "Mauritius Rupee",
+            "currencyCode": "MUR"
+        },
+        {
+            "name": "Mayotte",
+            "phoneCode": "262",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Mexico",
+            "phoneCode": "52",
+            "currencyName": "Mexican Peso",
+            "currencyCode": "MXN"
+        },
+        {
+            "name": "Micronesia",
+            "phoneCode": "691",
+            "currencyName": "US Dollar",
+            "currencyCode": "USD"
+        },
+        {
+            "name": "Moldova",
+            "phoneCode": "373",
+            "currencyName": "Moldovan Leu",
+            "currencyCode": "MDL"
+        },
+        {
+            "name": "Monaco",
+            "phoneCode": "377",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Mongolia",
+            "phoneCode": "976",
+            "currencyName": "Tugrik",
+            "currencyCode": "MNT"
+        },
+        {
+            "name": "Montenegro",
+            "phoneCode": "382",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Montserrat",
+            "phoneCode": "1-664",
+            "currencyName": "East Caribbean Dollar",
+            "currencyCode": "XCD"
+        },
+        {
+            "name": "Morocco",
+            "phoneCode": "212",
+            "currencyName": "Moroccan Dirham",
+            "currencyCode": "MAD"
+        },
+        {
+            "name": "Mozambique",
+            "phoneCode": "258",
+            "currencyName": "Mozambique Metical",
+            "currencyCode": "MZN"
+        },
+        {
+            "name": "Myanmar",
+            "phoneCode": "95",
+            "currencyName": "Kyat",
+            "currencyCode": "MMK"
+        },
+        {
+            "name": "Namibia",
+            "phoneCode": "264",
+            "currencyName": "Namibia Dollar",
+            "currencyCode": "NAD"
+        },
+        {
+            "name": "Nauru",
+            "phoneCode": "674",
+            "currencyName": "Australian Dollar",
+            "currencyCode": "AUD"
+        },
+        {
+            "name": "Nepal",
+            "phoneCode": "977",
+            "currencyName": "Nepalese Rupee",
+            "currencyCode": "NPR"
+        },
+        {
+            "name": "Netherlands",
+            "phoneCode": "31",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Netherlands Antilles",
+            "phoneCode": "599",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "New Caledonia",
+            "phoneCode": "687",
+            "currencyName": "CFP Franc",
+            "currencyCode": "XPF"
+        },
+        {
+            "name": "New Zealand",
+            "phoneCode": "64",
+            "currencyName": "New Zealand Dollar",
+            "currencyCode": "NZD"
+        },
+        {
+            "name": "Nicaragua",
+            "phoneCode": "505",
+            "currencyName": "Cordoba Oro",
+            "currencyCode": "NIO"
+        },
+        {
+            "name": "Niger",
+            "phoneCode": "227",
+            "currencyName": "CFA Franc BCEAO",
+            "currencyCode": "XOF"
+        },
+        {
+            "name": "Nigeria",
+            "phoneCode": "234",
+            "currencyName": "Naira",
+            "currencyCode": "NGN"
+        },
+        {
+            "name": "Niue",
+            "phoneCode": "683",
+            "currencyName": "New Zealand Dollar",
+            "currencyCode": "NZD"
+        },
+        {
+            "name": "North Korea",
+            "phoneCode": "850",
+            "currencyName": "North Korean Won",
+            "currencyCode": "KPW"
+        },
+        {
+            "name": "Northern Mariana Islands",
+            "phoneCode": "1-670",
+            "currencyName": "US Dollar",
+            "currencyCode": "USD"
+        },
+        {
+            "name": "Norway",
+            "phoneCode": "47",
+            "currencyName": "Norwegian Krone",
+            "currencyCode": "NOK"
+        },
+        {
+            "name": "Oman",
+            "phoneCode": "968",
+            "currencyName": "Rial Omani",
+            "currencyCode": "OMR"
+        },
+        {
+            "name": "Pakistan",
+            "phoneCode": "92",
+            "currencyName": "Pakistan Rupee",
+            "currencyCode": "PKR"
+        },
+        {
+            "name": "Palau",
+            "phoneCode": "680",
+            "currencyName": "US Dollar",
+            "currencyCode": "USD"
+        },
+        {
+            "name": "Palestine",
+            "phoneCode": "970",
+            "currencyName": "",
+            "currencyCode": ""
+        },
+        {
+            "name": "Panama",
+            "phoneCode": "507",
+            "currencyName": "Balboa",
+            "currencyCode": "PAB"
+        },
+        {
+            "name": "Papua New Guinea",
+            "phoneCode": "675",
+            "currencyName": "Kina",
+            "currencyCode": "PGK"
+        },
+        {
+            "name": "Paraguay",
+            "phoneCode": "595",
+            "currencyName": "Guarani",
+            "currencyCode": "PYG"
+        },
+        {
+            "name": "Peru",
+            "phoneCode": "51",
+            "currencyName": "Nuevo Sol",
+            "currencyCode": "PEN"
+        },
+        {
+            "name": "Philippines",
+            "phoneCode": "63",
+            "currencyName": "Philippine Peso",
+            "currencyCode": "PHP"
+        },
+        {
+            "name": "Pitcairn",
+            "phoneCode": "64",
+            "currencyName": "New Zealand Dollar",
+            "currencyCode": "NZD"
+        },
+        {
+            "name": "Poland",
+            "phoneCode": "48",
+            "currencyName": "Zloty",
+            "currencyCode": "PLN"
+        },
+        {
+            "name": "Portugal",
+            "phoneCode": "351",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Puerto Rico",
+            "phoneCode": "1-787, 1-939",
+            "currencyName": "US Dollar",
+            "currencyCode": "USD"
+        },
+        {
+            "name": "Qatar",
+            "phoneCode": "974",
+            "currencyName": "Qatari Rial",
+            "currencyCode": "QAR"
+        },
+        {
+            "name": "Republic of the Congo",
+            "phoneCode": "242",
+            "currencyName": "Congolese Franc",
+            "currencyCode": "CDF"
+        },
+        {
+            "name": "Reunion",
+            "phoneCode": "262",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Romania",
+            "phoneCode": "40",
+            "currencyName": "New Romanian Leu",
+            "currencyCode": "RON"
+        },
+        {
+            "name": "Russia",
+            "phoneCode": "7",
+            "currencyName": "Russian Ruble",
+            "currencyCode": "RUB"
+        },
+        {
+            "name": "Rwanda",
+            "phoneCode": "250",
+            "currencyName": "Rwanda Franc",
+            "currencyCode": "RWF"
+        },
+        {
+            "name": "Saint Barthelemy",
+            "phoneCode": "590",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Saint Helena",
+            "phoneCode": "290",
+            "currencyName": "Saint Helena Pound",
+            "currencyCode": "SHP"
+        },
+        {
+            "name": "Saint Kitts and Nevis",
+            "phoneCode": "1-869",
+            "currencyName": "East Caribbean Dollar",
+            "currencyCode": "XCD"
+        },
+        {
+            "name": "Saint Lucia",
+            "phoneCode": "1-758",
+            "currencyName": "East Caribbean Dollar",
+            "currencyCode": "XCD"
+        },
+        {
+            "name": "Saint Martin",
+            "phoneCode": "590",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Saint Pierre and Miquelon",
+            "phoneCode": "508",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Saint Vincent and the Grenadines",
+            "phoneCode": "1-784",
+            "currencyName": "East Caribbean Dollar",
+            "currencyCode": "XCD"
+        },
+        {
+            "name": "Samoa",
+            "phoneCode": "685",
+            "currencyName": "Tala",
+            "currencyCode": "WST"
+        },
+        {
+            "name": "San Marino",
+            "phoneCode": "378",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Sao Tome and Principe",
+            "phoneCode": "239",
+            "currencyName": "Dobra",
+            "currencyCode": "STD"
+        },
+        {
+            "name": "Saudi Arabia",
+            "phoneCode": "966",
+            "currencyName": "Saudi Riyal",
+            "currencyCode": "SAR"
+        },
+        {
+            "name": "Senegal",
+            "phoneCode": "221",
+            "currencyName": "CFA Franc BCEAO",
+            "currencyCode": "XOF"
+        },
+        {
+            "name": "Serbia",
+            "phoneCode": "381",
+            "currencyName": "Serbian Dinar",
+            "currencyCode": "RSD"
+        },
+        {
+            "name": "Seychelles",
+            "phoneCode": "248",
+            "currencyName": "Seychelles Rupee",
+            "currencyCode": "SCR"
+        },
+        {
+            "name": "Sierra Leone",
+            "phoneCode": "232",
+            "currencyName": "Leone",
+            "currencyCode": "SLL"
+        },
+        {
+            "name": "Singapore",
+            "phoneCode": "65",
+            "currencyName": "Singapore Dollar",
+            "currencyCode": "SGD"
+        },
+        {
+            "name": "Sint Maarten",
+            "phoneCode": "1-721",
+            "currencyName": "Netherlands Antillean Guilder",
+            "currencyCode": "ANG"
+        },
+        {
+            "name": "Slovakia",
+            "phoneCode": "421",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Slovenia",
+            "phoneCode": "386",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Solomon Islands",
+            "phoneCode": "677",
+            "currencyName": "Solomon Islands Dollar",
+            "currencyCode": "SBD"
+        },
+        {
+            "name": "Somalia",
+            "phoneCode": "252",
+            "currencyName": "Somali Shilling",
+            "currencyCode": "SOS"
+        },
+        {
+            "name": "South Africa",
+            "phoneCode": "27",
+            "currencyName": "Rand",
+            "currencyCode": "ZAR"
+        },
+        {
+            "name": "South Korea",
+            "phoneCode": "82",
+            "currencyName": "South Korean Won",
+            "currencyCode": "KRW"
+        },
+        {
+            "name": "South Sudan",
+            "phoneCode": "211",
+            "currencyName": "South Sudanese Pound",
+            "currencyCode": "SSP"
+        },
+        {
+            "name": "Spain",
+            "phoneCode": "34",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Sri Lanka",
+            "phoneCode": "94",
+            "currencyName": "Sri Lanka Rupee",
+            "currencyCode": "LKR"
+        },
+        {
+            "name": "Sudan",
+            "phoneCode": "249",
+            "currencyName": "Sudanese Pound",
+            "currencyCode": "SDG"
+        },
+        {
+            "name": "Suriname",
+            "phoneCode": "597",
+            "currencyName": "Surinam Dollar",
+            "currencyCode": "SRD"
+        },
+        {
+            "name": "Svalbard and Jan Mayen",
+            "phoneCode": "47",
+            "currencyName": "Norwegian Krone",
+            "currencyCode": "NOK"
+        },
+        {
+            "name": "Swaziland",
+            "phoneCode": "268",
+            "currencyName": "Lilangeni",
+            "currencyCode": "SZL"
+        },
+        {
+            "name": "Sweden",
+            "phoneCode": "46",
+            "currencyName": "Swedish Krona",
+            "currencyCode": "SEK"
+        },
+        {
+            "name": "Switzerland",
+            "phoneCode": "41",
+            "currencyName": "WIR Euro",
+            "currencyCode": "CHE"
+        },
+        {
+            "name": "Syria",
+            "phoneCode": "963",
+            "currencyName": "Syrian Pound",
+            "currencyCode": "SYP"
+        },
+        {
+            "name": "Taiwan",
+            "phoneCode": "886",
+            "currencyName": "New Taiwan Dollar",
+            "currencyCode": "TWD"
+        },
+        {
+            "name": "Tajikistan",
+            "phoneCode": "992",
+            "currencyName": "Somoni",
+            "currencyCode": "TJS"
+        },
+        {
+            "name": "Tanzania",
+            "phoneCode": "255",
+            "currencyName": "Tanzanian Shilling",
+            "currencyCode": "TZS"
+        },
+        {
+            "name": "Thailand",
+            "phoneCode": "66",
+            "currencyName": "Baht",
+            "currencyCode": "THB"
+        },
+        {
+            "name": "Togo",
+            "phoneCode": "228",
+            "currencyName": "CFA Franc BCEAO",
+            "currencyCode": "XOF"
+        },
+        {
+            "name": "Tokelau",
+            "phoneCode": "690",
+            "currencyName": "New Zealand Dollar",
+            "currencyCode": "NZD"
+        },
+        {
+            "name": "Tonga",
+            "phoneCode": "676",
+            "currencyName": "Paanga",
+            "currencyCode": "TOP"
+        },
+        {
+            "name": "Trinidad and Tobago",
+            "phoneCode": "1-868",
+            "currencyName": "Trinidad and Tobago Dollar",
+            "currencyCode": "TTD"
+        },
+        {
+            "name": "Tunisia",
+            "phoneCode": "216",
+            "currencyName": "Tunisian Dinar",
+            "currencyCode": "TND"
+        },
+        {
+            "name": "Turkey",
+            "phoneCode": "90",
+            "currencyName": "Turkish Lira",
+            "currencyCode": "TRY"
+        },
+        {
+            "name": "Turkmenistan",
+            "phoneCode": "993",
+            "currencyName": "Turkmenistan New Manat",
+            "currencyCode": "TMT"
+        },
+        {
+            "name": "Turks and Caicos Islands",
+            "phoneCode": "1-649",
+            "currencyName": "US Dollar",
+            "currencyCode": "USD"
+        },
+        {
+            "name": "Tuvalu",
+            "phoneCode": "688",
+            "currencyName": "Australian Dollar",
+            "currencyCode": "AUD"
+        },
+        {
+            "name": "U.S. Virgin Islands",
+            "phoneCode": "1-340",
+            "currencyName": "US Dollar",
+            "currencyCode": "USD"
+        },
+        {
+            "name": "Uganda",
+            "phoneCode": "256",
+            "currencyName": "Uganda Shilling",
+            "currencyCode": "UGX"
+        },
+        {
+            "name": "Ukraine",
+            "phoneCode": "380",
+            "currencyName": "Hryvnia",
+            "currencyCode": "UAH"
+        },
+        {
+            "name": "United Arab Emirates",
+            "phoneCode": "971",
+            "currencyName": "UAE Dirham",
+            "currencyCode": "AED"
+        },
+        {
+            "name": "United Kingdom",
+            "phoneCode": "44",
+            "currencyName": "Pound Sterling",
+            "currencyCode": "GBP"
+        },
+        {
+            "name": "United States",
+            "phoneCode": "1",
+            "currencyName": "US Dollar",
+            "currencyCode": "USD"
+        },
+        {
+            "name": "Uruguay",
+            "phoneCode": "598",
+            "currencyName": "Uruguay Peso en Unidades Indexadas (URUIURUI)",
+            "currencyCode": "UYI"
+        },
+        {
+            "name": "Uzbekistan",
+            "phoneCode": "998",
+            "currencyName": "Uzbekistan Sum",
+            "currencyCode": "UZS"
+        },
+        {
+            "name": "Vanuatu",
+            "phoneCode": "678",
+            "currencyName": "Vatu",
+            "currencyCode": "VUV"
+        },
+        {
+            "name": "Vatican",
+            "phoneCode": "379",
+            "currencyName": "Euro",
+            "currencyCode": "EUR"
+        },
+        {
+            "name": "Venezuela",
+            "phoneCode": "58",
+            "currencyName": "Bolivar",
+            "currencyCode": "VEF"
+        },
+        {
+            "name": "Vietnam",
+            "phoneCode": "84",
+            "currencyName": "Dong",
+            "currencyCode": "VND"
+        },
+        {
+            "name": "Wallis and Futuna",
+            "phoneCode": "681",
+            "currencyName": "CFP Franc",
+            "currencyCode": "XPF"
+        },
+        {
+            "name": "Western Sahara",
+            "phoneCode": "212",
+            "currencyName": "Moroccan Dirham",
+            "currencyCode": "MAD"
+        },
+        {
+            "name": "Yemen",
+            "phoneCode": "967",
+            "currencyName": "Yemeni Rial",
+            "currencyCode": "YER"
+        },
+        {
+            "name": "Zambia",
+            "phoneCode": "260",
+            "currencyName": "Zambian Kwacha",
+            "currencyCode": "ZMW"
+        },
+        {
+            "name": "Zimbabwe",
+            "phoneCode": "263",
+            "currencyName": "Zimbabwe Dollar",
+            "currencyCode": "ZWL"
+        }
+    ]
+}

@@ -1,402 +1,405 @@
-[
-    {
-        "name": "Massachusetts Institute of Technology (MIT)",
-        "country": "United States"
-    },
-    {
-        "name": "University of Oxford",
-        "country": "United Kingdom"
-    },
-    {
-        "name": "Stanford University",
-        "country": "United States"
-    },
-    {
-        "name": "University of Cambridge",
-        "country": "United Kingdom"
-    },
-    {
-        "name": "Harvard University",
-        "country": "United States"
-    },
-    {
-        "name": "California Institute of Technology (Caltech)",
-        "country": "United States"
-    },
-    {
-        "name": "Imperial College London",
-        "country": "United Kingdom"
-    },
-    {
-        "name": "ETH Zurich (Swiss Federal Institute of Technology)",
-        "country": "Switzerland"
-    },
-    {
-        "name": "UCL (University College London)",
-        "country": "United Kingdom"
-    },
-    {
-        "name": "University of Chicago",
-        "country": "United States"
-    },
-    {
-        "name": "National University of Singapore (NUS)",
-        "country": "Singapore"
-    },
-    {
-        "name": "Nanyang Technological University, Singapore (NTU)",
-        "country": "Singapore"
-    },
-    {
-        "name": "University of Pennsylvania",
-        "country": "United States"
-    },
-    {
-        "name": "Ecole Polytechnique Fédérale de Lausanne (EPFL)",
-        "country": "Switzerland"
-    },
-    {
-        "name": "Yale University",
-        "country": "United States"
-    },
-    {
-        "name": "University of Edinburgh",
-        "country": "United Kingdom"
-    },
-    {
-        "name": "Tsinghua University",
-        "country": "Mainland China"
-    },
-    {
-        "name": "Peking University",
-        "country": "Mainland China"
-    },
-    {
-        "name": "Columbia University",
-        "country": "United States"
-    },
-    {
-        "name": "Princeton University",
-        "country": "United States"
-    },
-    {
-        "name": "Cornell University",
-        "country": "United States"
-    },
-    {
-        "name": "University of Hong Kong (UKU)",
-        "country": "Hong Kong SAR"
-    },
-    {
-        "name": "University of Tokyo",
-        "country": "Japan"
-    },
-    {
-        "name": "University of Michigan-Ann Arbor",
-        "country": "United States"
-    },
-    {
-        "name": "Johns Hopkins University",
-        "country": "United States"
-    },
-    {
-        "name": "University of Toronto",
-        "country": "Canada"
-    },
-    {
-        "name": "McGill University",
-        "country": "Canada"
-    },
-    {
-        "name": "Australian National University",
-        "country": "Australia"
-    },
-    {
-        "name": "University of Manchester",
-        "country": "United Kingdom"
-    },
-    {
-        "name": "Northwestern University",
-        "country": "United States"
-    },
-    {
-        "name": "Fudan University",
-        "country": "Mainland China"
-    },
-    {
-        "name": "University of California, Berkeley (UCB)",
-        "country": "United States"
-    },
-    {
-        "name": "Kyoto University",
-        "country": "Japan"
-    },
-    {
-        "name": "Hong Kong University of Science and Technology (HKUST)",
-        "country": "Hong Kong SAR"
-    },
-    {
-        "name": "King's College London",
-        "country": "United Kingdom"
-    },
-    {
-        "name": "Seoul National University",
-        "country": "South Korea"
-    },
-    {
-        "name": "University of Melbourne",
-        "country": "Australia"
-    },
-    {
-        "name": "University of Sydney",
-        "country": "Australia"
-    },
-    {
-        "name": "Chinese University of Hong Kong (CUHK)",
-        "country": "Hong Kong SAR"
-    },
-    {
-        "name": "University of California, Los Angeles (UCLA)",
-        "country": "United States"
-    },
-    {
-        "name": "KAIST - Korea Advanced Institute of Science & Technology",
-        "country": "South Korea"
-    },
-    {
-        "name": "New York University (NYU)",
-        "country": "United States"
-    },
-    {
-        "name": "University of New South Wales (UNSW Sydney)",
-        "country": "Australia"
-    },
-    {
-        "name": "Universite PSL",
-        "country": "France"
-    },
-    {
-        "name": "Zhejiang University",
-        "country": "Mainland China"
-    },
-    {
-        "name": "University of British Columbia",
-        "country": "Canada"
-    },
-    {
-        "name": "University of Queensland",
-        "country": "Australia"
-    },
-    {
-        "name": "University of California, San Diego (UCSD)",
-        "country": "United States"
-    },
-    {
-        "name": "London School of Economics and Political Science (LSE)",
-        "country": "United Kingdom"
-    },
-    {
-        "name": "Shanghai Jiao Tong University",
-        "country": "Mainland China"
-    },
-    {
-        "name": "Technical University of Munich",
-        "country": "Germany"
-    },
-    {
-        "name": "Duke University",
-        "country": "United States"
-    },
-    {
-        "name": "Carnegie Mellon University",
-        "country": "United States"
-    },
-    {
-        "name": "City University of Hong Kong",
-        "country": "Hong Kong SAR"
-    },
-    {
-        "name": "University of Amsterdam",
-        "country": "Netherlands"
-    },
-    {
-        "name": "Tokyo Institute of Technology",
-        "country": "Japan"
-    },
-    {
-        "name": "Delft University of Technology",
-        "country": "Netherlands"
-    },
-    {
-        "name": "Monash University",
-        "country": "Australia"
-    },
-    {
-        "name": "InstitutPolytechnique de Paris",
-        "country": "France"
-    },
-    {
-        "name": "Brown University",
-        "country": "United States"
-    },
-    {
-        "name": "University of Warwick",
-        "country": "United Kingdom"
-    },
-    {
-        "name": "University of Bristol",
-        "country": "United Kingdom"
-    },
-    {
-        "name": "Ruprecht-Karls-Universitat Heidelberg",
-        "country": "Germany"
-    },
-    {
-        "name": "Ludwig-Maximilians-Universität München",
-        "country": "Germany"
-    },
-    {
-        "name": "Universiti Malaya (UM)",
-        "country": "Malaysia"
-    },
-    {
-        "name": "Hong Kong Polytechnic University",
-        "country": "Hong Kong SAR"
-    },
-    {
-        "name": "University of Texas at Austin",
-        "country": "United States"
-    },
-    {
-        "name": "National Taiwan University (NTU)",
-        "country": "Taiwan"
-    },
-    {
-        "name": "Universidad de Buenos Aires (UBA)",
-        "country": "Argentina"
-    },
-    {
-        "name": "KU Leuven",
-        "country": "Belgium"
-    },
-    {
-        "name": "University of Zurich",
-        "country": "Switzerland"
-    },
-    {
-        "name": "Sorbonne University",
-        "country": "France"
-    },
-    {
-        "name": "University of Glasgow",
-        "country": "United Kingdom"
-    },
-    {
-        "name": "Korea University",
-        "country": "South Korea"
-    },
-    {
-        "name": "Osaka University",
-        "country": "Japan"
-    },
-    {
-        "name": "University of Wisconsin-Madison",
-        "country": "United States"
-    },
-    {
-        "name": "University of Southampton",
-        "country": "United Kingdom"
-    },
-    {
-        "name": "Lomonosov Moscow State University",
-        "country": "Russia"
-    },
-    {
-        "name": "University of Copenhagen",
-        "country": "Denmark"
-    },
-    {
-        "name": "Yonsei University",
-        "country": "South Korea"
-    },
-    {
-        "name": "Pohang University of Science and Technology (POSTECH)",
-        "country": "South Korea "
-    },
-    {
-        "name": "Durham University",
-        "country": "United Kingdom"
-    },
-    {
-        "name": "Tohoku University",
-        "country": "Japan"
-    },
-    {
-        "name": "University of Illinois at Urbana-Champaign",
-        "country": "United States"
-    },
-    {
-        "name": "University of Auckland",
-        "country": "New Zealand"
-    },
-    {
-        "name": "University of Washington",
-        "country": "United States"
-    },
-    {
-        "name": "Lund University",
-        "country": "Sweden"
-    },
-    {
-        "name": "Georgia Institute of Technology",
-        "country": "United States"
-    },
-    {
-        "name": "KTH Royal Institute of Technology",
-        "country": "Sweden"
-    },
-    {
-        "name": "University of Birmingham",
-        "country": "United Kingdom"
-    },
-    {
-        "name": "University of St Andrews",
-        "country": "United Kingdom"
-    },
-    {
-        "name": "University of Leeds",
-        "country": "United Kingdom"
-    },
-    {
-        "name": "University of Western Australia",
-        "country": "Australia"
-    },
-    {
-        "name": "Rice University",
-        "country": "United States"
-    },
-    {
-        "name": "University of Sheffield",
-        "country": "United Kingdom"
-    },
-    {
-        "name": "University of Pennsylvania",
-        "country": "United States"
-    },
-    {
-        "name": "Sungkyunkwan University (SKKU)",
-        "country": "South Korea"
-    },
-    {
-        "name": "University of Science and Technology of China",
-        "country": "Mainland China"
-    },
-    {
-        "name": "Technical University of Denmark",
-        "country": "Denmark"
-    },
-    {
-        "name": "University of North Carolina, Chapel Hill",
-        "country": "United States"
-    }
-]
+{
+    "count": 99,
+    "list": [
+        {
+            "name": "Massachusetts Institute of Technology (MIT)",
+            "country": "United States"
+        },
+        {
+            "name": "University of Oxford",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "Stanford University",
+            "country": "United States"
+        },
+        {
+            "name": "University of Cambridge",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "Harvard University",
+            "country": "United States"
+        },
+        {
+            "name": "California Institute of Technology (Caltech)",
+            "country": "United States"
+        },
+        {
+            "name": "Imperial College London",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "ETH Zurich (Swiss Federal Institute of Technology)",
+            "country": "Switzerland"
+        },
+        {
+            "name": "UCL (University College London)",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "University of Chicago",
+            "country": "United States"
+        },
+        {
+            "name": "National University of Singapore (NUS)",
+            "country": "Singapore"
+        },
+        {
+            "name": "Nanyang Technological University, Singapore (NTU)",
+            "country": "Singapore"
+        },
+        {
+            "name": "University of Pennsylvania",
+            "country": "United States"
+        },
+        {
+            "name": "Ecole Polytechnique Fédérale de Lausanne (EPFL)",
+            "country": "Switzerland"
+        },
+        {
+            "name": "Yale University",
+            "country": "United States"
+        },
+        {
+            "name": "University of Edinburgh",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "Tsinghua University",
+            "country": "Mainland China"
+        },
+        {
+            "name": "Peking University",
+            "country": "Mainland China"
+        },
+        {
+            "name": "Columbia University",
+            "country": "United States"
+        },
+        {
+            "name": "Princeton University",
+            "country": "United States"
+        },
+        {
+            "name": "Cornell University",
+            "country": "United States"
+        },
+        {
+            "name": "University of Hong Kong (UKU)",
+            "country": "Hong Kong SAR"
+        },
+        {
+            "name": "University of Tokyo",
+            "country": "Japan"
+        },
+        {
+            "name": "University of Michigan-Ann Arbor",
+            "country": "United States"
+        },
+        {
+            "name": "Johns Hopkins University",
+            "country": "United States"
+        },
+        {
+            "name": "University of Toronto",
+            "country": "Canada"
+        },
+        {
+            "name": "McGill University",
+            "country": "Canada"
+        },
+        {
+            "name": "Australian National University",
+            "country": "Australia"
+        },
+        {
+            "name": "University of Manchester",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "Northwestern University",
+            "country": "United States"
+        },
+        {
+            "name": "Fudan University",
+            "country": "Mainland China"
+        },
+        {
+            "name": "University of California, Berkeley (UCB)",
+            "country": "United States"
+        },
+        {
+            "name": "Kyoto University",
+            "country": "Japan"
+        },
+        {
+            "name": "Hong Kong University of Science and Technology (HKUST)",
+            "country": "Hong Kong SAR"
+        },
+        {
+            "name": "King's College London",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "Seoul National University",
+            "country": "South Korea"
+        },
+        {
+            "name": "University of Melbourne",
+            "country": "Australia"
+        },
+        {
+            "name": "University of Sydney",
+            "country": "Australia"
+        },
+        {
+            "name": "Chinese University of Hong Kong (CUHK)",
+            "country": "Hong Kong SAR"
+        },
+        {
+            "name": "University of California, Los Angeles (UCLA)",
+            "country": "United States"
+        },
+        {
+            "name": "KAIST - Korea Advanced Institute of Science & Technology",
+            "country": "South Korea"
+        },
+        {
+            "name": "New York University (NYU)",
+            "country": "United States"
+        },
+        {
+            "name": "University of New South Wales (UNSW Sydney)",
+            "country": "Australia"
+        },
+        {
+            "name": "Universite PSL",
+            "country": "France"
+        },
+        {
+            "name": "Zhejiang University",
+            "country": "Mainland China"
+        },
+        {
+            "name": "University of British Columbia",
+            "country": "Canada"
+        },
+        {
+            "name": "University of Queensland",
+            "country": "Australia"
+        },
+        {
+            "name": "University of California, San Diego (UCSD)",
+            "country": "United States"
+        },
+        {
+            "name": "London School of Economics and Political Science (LSE)",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "Shanghai Jiao Tong University",
+            "country": "Mainland China"
+        },
+        {
+            "name": "Technical University of Munich",
+            "country": "Germany"
+        },
+        {
+            "name": "Duke University",
+            "country": "United States"
+        },
+        {
+            "name": "Carnegie Mellon University",
+            "country": "United States"
+        },
+        {
+            "name": "City University of Hong Kong",
+            "country": "Hong Kong SAR"
+        },
+        {
+            "name": "University of Amsterdam",
+            "country": "Netherlands"
+        },
+        {
+            "name": "Tokyo Institute of Technology",
+            "country": "Japan"
+        },
+        {
+            "name": "Delft University of Technology",
+            "country": "Netherlands"
+        },
+        {
+            "name": "Monash University",
+            "country": "Australia"
+        },
+        {
+            "name": "InstitutPolytechnique de Paris",
+            "country": "France"
+        },
+        {
+            "name": "Brown University",
+            "country": "United States"
+        },
+        {
+            "name": "University of Warwick",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "University of Bristol",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "Ruprecht-Karls-Universitat Heidelberg",
+            "country": "Germany"
+        },
+        {
+            "name": "Ludwig-Maximilians-Universität München",
+            "country": "Germany"
+        },
+        {
+            "name": "Universiti Malaya (UM)",
+            "country": "Malaysia"
+        },
+        {
+            "name": "Hong Kong Polytechnic University",
+            "country": "Hong Kong SAR"
+        },
+        {
+            "name": "University of Texas at Austin",
+            "country": "United States"
+        },
+        {
+            "name": "National Taiwan University (NTU)",
+            "country": "Taiwan"
+        },
+        {
+            "name": "Universidad de Buenos Aires (UBA)",
+            "country": "Argentina"
+        },
+        {
+            "name": "KU Leuven",
+            "country": "Belgium"
+        },
+        {
+            "name": "University of Zurich",
+            "country": "Switzerland"
+        },
+        {
+            "name": "Sorbonne University",
+            "country": "France"
+        },
+        {
+            "name": "University of Glasgow",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "Korea University",
+            "country": "South Korea"
+        },
+        {
+            "name": "Osaka University",
+            "country": "Japan"
+        },
+        {
+            "name": "University of Wisconsin-Madison",
+            "country": "United States"
+        },
+        {
+            "name": "University of Southampton",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "Lomonosov Moscow State University",
+            "country": "Russia"
+        },
+        {
+            "name": "University of Copenhagen",
+            "country": "Denmark"
+        },
+        {
+            "name": "Yonsei University",
+            "country": "South Korea"
+        },
+        {
+            "name": "Pohang University of Science and Technology (POSTECH)",
+            "country": "South Korea "
+        },
+        {
+            "name": "Durham University",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "Tohoku University",
+            "country": "Japan"
+        },
+        {
+            "name": "University of Illinois at Urbana-Champaign",
+            "country": "United States"
+        },
+        {
+            "name": "University of Auckland",
+            "country": "New Zealand"
+        },
+        {
+            "name": "University of Washington",
+            "country": "United States"
+        },
+        {
+            "name": "Lund University",
+            "country": "Sweden"
+        },
+        {
+            "name": "Georgia Institute of Technology",
+            "country": "United States"
+        },
+        {
+            "name": "KTH Royal Institute of Technology",
+            "country": "Sweden"
+        },
+        {
+            "name": "University of Birmingham",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "University of St Andrews",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "University of Leeds",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "University of Western Australia",
+            "country": "Australia"
+        },
+        {
+            "name": "Rice University",
+            "country": "United States"
+        },
+        {
+            "name": "University of Sheffield",
+            "country": "United Kingdom"
+        },
+        {
+            "name": "University of Pennsylvania",
+            "country": "United States"
+        },
+        {
+            "name": "Sungkyunkwan University (SKKU)",
+            "country": "South Korea"
+        },
+        {
+            "name": "University of Science and Technology of China",
+            "country": "Mainland China"
+        },
+        {
+            "name": "Technical University of Denmark",
+            "country": "Denmark"
+        },
+        {
+            "name": "University of North Carolina, Chapel Hill",
+            "country": "United States"
+        }
+    ]
+}

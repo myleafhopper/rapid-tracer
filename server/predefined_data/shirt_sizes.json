@@ -1,46 +1,49 @@
-[
-    {
-        "size": "XS",
-        "description": "Extra Small"
-    },
-    {
-        "size": "S",
-        "description": "Small"
-    },
-    {
-        "size": "M",
-        "description": "Medium"
-    },
-    {
-        "size": "M",
-        "description": "Medium"
-    },
-    {
-        "size": "L",
-        "description": "Large"
-    },
-    {
-        "size": "L",
-        "description": "Large"
-    },
-    {
-        "size": "XL",
-        "description": "Extra Large"
-    },
-    {
-        "size": "XL",
-        "description": "Extra Large"
-    },
-    {
-        "size": "XXL",
-        "description": "Double Extra Large"
-    },
-    {
-        "size": "XXL",
-        "description": "Double Extra Large"
-    },
-    {
-        "size": "XXXL",
-        "description": "Triple Extra Large "
-    }
-]
+{
+    "count": 10,
+    "list": [
+        {
+            "size": "XS",
+            "description": "Extra Small"
+        },
+        {
+            "size": "S",
+            "description": "Small"
+        },
+        {
+            "size": "M",
+            "description": "Medium"
+        },
+        {
+            "size": "M",
+            "description": "Medium"
+        },
+        {
+            "size": "L",
+            "description": "Large"
+        },
+        {
+            "size": "L",
+            "description": "Large"
+        },
+        {
+            "size": "XL",
+            "description": "Extra Large"
+        },
+        {
+            "size": "XL",
+            "description": "Extra Large"
+        },
+        {
+            "size": "XXL",
+            "description": "Double Extra Large"
+        },
+        {
+            "size": "XXL",
+            "description": "Double Extra Large"
+        },
+        {
+            "size": "XXXL",
+            "description": "Triple Extra Large "
+        }
+    ]
+}

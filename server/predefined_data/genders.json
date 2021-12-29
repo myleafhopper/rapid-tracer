@@ -1,10 +1,13 @@
-[
-    {
-        "name": "Female",
-        "abbreviation": "F"
-    },
-    {
-        "name": "Male",
-        "abbreviation": "M"
-    }
-]
+{
+    "count": 1,
+    "list": [
+        {
+            "name": "Female",
+            "abbreviation": "F"
+        },
+        {
+            "name": "Male",
+            "abbreviation": "M"
+        }
+    ]
+}

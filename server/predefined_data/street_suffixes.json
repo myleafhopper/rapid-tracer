@@ -1,826 +1,829 @@
-[
-    {
-        "suffix": "ALY",
-        "description": "Alley"
-    },
-    {
-        "suffix": "ANX",
-        "description": "Anex"
-    },
-    {
-        "suffix": "ARC",
-        "description": "Arcade"
-    },
-    {
-        "suffix": "AVE",
-        "description": "Avenue"
-    },
-    {
-        "suffix": "BYU",
-        "description": "Bayou"
-    },
-    {
-        "suffix": "BCH",
-        "description": "Beach"
-    },
-    {
-        "suffix": "BND",
-        "description": "Bend"
-    },
-    {
-        "suffix": "BLF",
-        "description": "Bluff"
-    },
-    {
-        "suffix": "BLFS",
-        "description": "Bluffs"
-    },
-    {
-        "suffix": "BTM",
-        "description": "Bottom"
-    },
-    {
-        "suffix": "BLVD",
-        "description": "Boulevard"
-    },
-    {
-        "suffix": "BR",
-        "description": "Branch"
-    },
-    {
-        "suffix": "BRG",
-        "description": "Bridge"
-    },
-    {
-        "suffix": "BRK",
-        "description": "Brook"
-    },
-    {
-        "suffix": "BRKS",
-        "description": "Brooks"
-    },
-    {
-        "suffix": "BG",
-        "description": "Burg"
-    },
-    {
-        "suffix": "BGS",
-        "description": "Burgs"
-    },
-    {
-        "suffix": "BYP",
-        "description": "Bypass"
-    },
-    {
-        "suffix": "CP",
-        "description": "Camp"
-    },
-    {
-        "suffix": "CYN",
-        "description": "Canyon"
-    },
-    {
-        "suffix": "CPE",
-        "description": "Cape"
-    },
-    {
-        "suffix": "CSWY",
-        "description": "Causeway"
-    },
-    {
-        "suffix": "CTR",
-        "description": "Center"
-    },
-    {
-        "suffix": "CTRS",
-        "description": "Centers"
-    },
-    {
-        "suffix": "CIR",
-        "description": "Circle"
-    },
-    {
-        "suffix": "CIRS",
-        "description": "Circles"
-    },
-    {
-        "suffix": "CLF",
-        "description": "Cliff"
-    },
-    {
-        "suffix": "CLFS",
-        "description": "Cliffs"
-    },
-    {
-        "suffix": "CLB",
-        "description": "Club"
-    },
-    {
-        "suffix": "CMN",
-        "description": "Common"
-    },
-    {
-        "suffix": "CMNS",
-        "description": "Commons"
-    },
-    {
-        "suffix": "COR",
-        "description": "Corner"
-    },
-    {
-        "suffix": "CORS",
-        "description": "Corners"
-    },
-    {
-        "suffix": "CRSE",
-        "description": "Course"
-    },
-    {
-        "suffix": "CT",
-        "description": "Court"
-    },
-    {
-        "suffix": "CTS",
-        "description": "Courts"
-    },
-    {
-        "suffix": "CV",
-        "description": "Cove"
-    },
-    {
-        "suffix": "CVS",
-        "description": "Coves"
-    },
-    {
-        "suffix": "CRK",
-        "description": "Creek"
-    },
-    {
-        "suffix": "CRES",
-        "description": "Crescent"
-    },
-    {
-        "suffix": "CRST",
-        "description": "Crest"
-    },
-    {
-        "suffix": "XING",
-        "description": "Crossing"
-    },
-    {
-        "suffix": "XRD",
-        "description": "Crossroad"
-    },
-    {
-        "suffix": "XRDS",
-        "description": "Crossroads"
-    },
-    {
-        "suffix": "CURV",
-        "description": "Curve"
-    },
-    {
-        "suffix": "DL",
-        "description": "Dale"
-    },
-    {
-        "suffix": "DM",
-        "description": "Dam"
-    },
-    {
-        "suffix": "DV",
-        "description": "Divide"
-    },
-    {
-        "suffix": "DR",
-        "description": "Drive"
-    },
-    {
-        "suffix": "DRS",
-        "description": "Drives"
-    },
-    {
-        "suffix": "EST",
-        "description": "Estate"
-    },
-    {
-        "suffix": "ESTS",
-        "description": "Estates"
-    },
-    {
-        "suffix": "EXPY",
-        "description": "Expressway"
-    },
-    {
-        "suffix": "EXT",
-        "description": "Extension"
-    },
-    {
-        "suffix": "EXTS",
-        "description": "Extensions"
-    },
-    {
-        "suffix": "FALL",
-        "description": "Fall"
-    },
-    {
-        "suffix": "FLS",
-        "description": "Falls"
-    },
-    {
-        "suffix": "FRY",
-        "description": "Ferry"
-    },
-    {
-        "suffix": "FLD",
-        "description": "Field"
-    },
-    {
-        "suffix": "FLDS",
-        "description": "Fields"
-    },
-    {
-        "suffix": "FLT",
-        "description": "Flat"
-    },
-    {
-        "suffix": "FLTS",
-        "description": "Flats"
-    },
-    {
-        "suffix": "FRD",
-        "description": "Ford"
-    },
-    {
-        "suffix": "FRDS",
-        "description": "Fords"
-    },
-    {
-        "suffix": "FRST",
-        "description": "Forest"
-    },
-    {
-        "suffix": "FRG",
-        "description": "Forge"
-    },
-    {
-        "suffix": "FRGS",
-        "description": "Forges"
-    },
-    {
-        "suffix": "FRK",
-        "description": "Fork"
-    },
-    {
-        "suffix": "FRKS",
-        "description": "Forks"
-    },
-    {
-        "suffix": "FT",
-        "description": "Fort"
-    },
-    {
-        "suffix": "FWY",
-        "description": "Freeway"
-    },
-    {
-        "suffix": "GDN",
-        "description": "Garden"
-    },
-    {
-        "suffix": "GDNS",
-        "description": "Gardens"
-    },
-    {
-        "suffix": "GTWY",
-        "description": "Gateway"
-    },
-    {
-        "suffix": "GLN",
-        "description": "Glen"
-    },
-    {
-        "suffix": "GLNS",
-        "description": "Glens"
-    },
-    {
-        "suffix": "GRN",
-        "description": "Green"
-    },
-    {
-        "suffix": "GRNS",
-        "description": "Greens"
-    },
-    {
-        "suffix": "GRV",
-        "description": "Grove"
-    },
-    {
-        "suffix": "GRVS",
-        "description": "Groves"
-    },
-    {
-        "suffix": "HBR",
-        "description": "Harbor"
-    },
-    {
-        "suffix": "HBRS",
-        "description": "Harbors"
-    },
-    {
-        "suffix": "HVN",
-        "description": "Haven"
-    },
-    {
-        "suffix": "HTS",
-        "description": "Heights"
-    },
-    {
-        "suffix": "HWY",
-        "description": "Highway"
-    },
-    {
-        "suffix": "HL",
-        "description": "Hill"
-    },
-    {
-        "suffix": "HLS",
-        "description": "Hills"
-    },
-    {
-        "suffix": "HOLW",
-        "description": "Hollow"
-    },
-    {
-        "suffix": "INLT",
-        "description": "Inlet"
-    },
-    {
-        "suffix": "IS",
-        "description": "Island"
-    },
-    {
-        "suffix": "ISS",
-        "description": "Islands"
-    },
-    {
-        "suffix": "ISLE",
-        "description": "Isle"
-    },
-    {
-        "suffix": "JCT",
-        "description": "Junction"
-    },
-    {
-        "suffix": "JCTS",
-        "description": "Junctions"
-    },
-    {
-        "suffix": "KY",
-        "description": "Key"
-    },
-    {
-        "suffix": "KYS",
-        "description": "Keys"
-    },
-    {
-        "suffix": "KNL",
-        "description": "Knoll"
-    },
-    {
-        "suffix": "KNLS",
-        "description": "Knolls"
-    },
-    {
-        "suffix": "LK",
-        "description": "Lake"
-    },
-    {
-        "suffix": "LKS",
-        "description": "Lakes"
-    },
-    {
-        "suffix": "LAND",
-        "description": "Land"
-    },
-    {
-        "suffix": "LNDG",
-        "description": "Landing"
-    },
-    {
-        "suffix": "LN",
-        "description": "Lane"
-    },
-    {
-        "suffix": "LGT",
-        "description": "Light"
-    },
-    {
-        "suffix": "LGTS",
-        "description": "Lights"
-    },
-    {
-        "suffix": "LF",
-        "description": "Loaf"
-    },
-    {
-        "suffix": "LCK",
-        "description": "Lock"
-    },
-    {
-        "suffix": "LCKS",
-        "description": "Locks"
-    },
-    {
-        "suffix": "LDG",
-        "description": "Lodge"
-    },
-    {
-        "suffix": "LOOP",
-        "description": "Loop"
-    },
-    {
-        "suffix": "MALL",
-        "description": "Mall"
-    },
-    {
-        "suffix": "MNR",
-        "description": "Manor"
-    },
-    {
-        "suffix": "MNRS",
-        "description": "Manors"
-    },
-    {
-        "suffix": "MDW",
-        "description": "Meadow"
-    },
-    {
-        "suffix": "MDWS",
-        "description": "Meadows"
-    },
-    {
-        "suffix": "MEWS",
-        "description": "Mews"
-    },
-    {
-        "suffix": "ML",
-        "description": "Mill"
-    },
-    {
-        "suffix": "MLS",
-        "description": "Mills"
-    },
-    {
-        "suffix": "MSN",
-        "description": "Mission"
-    },
-    {
-        "suffix": "MTWY",
-        "description": "Motorway"
-    },
-    {
-        "suffix": "MT",
-        "description": "Mount"
-    },
-    {
-        "suffix": "MTN",
-        "description": "Mountain"
-    },
-    {
-        "suffix": "MTNS",
-        "description": "Mountains"
-    },
-    {
-        "suffix": "NCK",
-        "description": "Neck"
-    },
-    {
-        "suffix": "ORCH",
-        "description": "Orchard"
-    },
-    {
-        "suffix": "OVAL",
-        "description": "Oval"
-    },
-    {
-        "suffix": "OPAS",
-        "description": "Overpass"
-    },
-    {
-        "suffix": "PARK",
-        "description": "Park"
-    },
-    {
-        "suffix": "PARK",
-        "description": "Parks"
-    },
-    {
-        "suffix": "PKWY",
-        "description": "Parkway"
-    },
-    {
-        "suffix": "PKWY",
-        "description": "Parkways"
-    },
-    {
-        "suffix": "PASS",
-        "description": "Pass"
-    },
-    {
-        "suffix": "PSGE",
-        "description": "Passage"
-    },
-    {
-        "suffix": "PATH",
-        "description": "Path"
-    },
-    {
-        "suffix": "PIKE",
-        "description": "Pike"
-    },
-    {
-        "suffix": "PNE",
-        "description": "Pine"
-    },
-    {
-        "suffix": "PNES",
-        "description": "Pines"
-    },
-    {
-        "suffix": "PL",
-        "description": "Place"
-    },
-    {
-        "suffix": "PLN",
-        "description": "Plain"
-    },
-    {
-        "suffix": "PLNS",
-        "description": "Plains"
-    },
-    {
-        "suffix": "PLZ",
-        "description": "Plaza"
-    },
-    {
-        "suffix": "PT",
-        "description": "Point"
-    },
-    {
-        "suffix": "PTS",
-        "description": "Points"
-    },
-    {
-        "suffix": "PRT",
-        "description": "Port"
-    },
-    {
-        "suffix": "PRTS",
-        "description": "Ports"
-    },
-    {
-        "suffix": "PR",
-        "description": "Prairie"
-    },
-    {
-        "suffix": "RADL",
-        "description": "Radial"
-    },
-    {
-        "suffix": "RAMP",
-        "description": "Ramp"
-    },
-    {
-        "suffix": "RNCH",
-        "description": "Ranch"
-    },
-    {
-        "suffix": "RPD",
-        "description": "Rapid"
-    },
-    {
-        "suffix": "RPDS",
-        "description": "Rapids"
-    },
-    {
-        "suffix": "RST",
-        "description": "Rest"
-    },
-    {
-        "suffix": "RDG",
-        "description": "Ridge"
-    },
-    {
-        "suffix": "RDGS",
-        "description": "Ridges"
-    },
-    {
-        "suffix": "RIV",
-        "description": "River"
-    },
-    {
-        "suffix": "RD",
-        "description": "Road"
-    },
-    {
-        "suffix": "RDS",
-        "description": "Roads"
-    },
-    {
-        "suffix": "RTE",
-        "description": "Route"
-    },
-    {
-        "suffix": "ROW",
-        "description": "Row"
-    },
-    {
-        "suffix": "RUE",
-        "description": "Rue"
-    },
-    {
-        "suffix": "RUN",
-        "description": "Run"
-    },
-    {
-        "suffix": "SHL",
-        "description": "Shoal"
-    },
-    {
-        "suffix": "SHLS",
-        "description": "Shoals"
-    },
-    {
-        "suffix": "SHR",
-        "description": "Shore"
-    },
-    {
-        "suffix": "SHRS",
-        "description": "Shores"
-    },
-    {
-        "suffix": "SKWY",
-        "description": "Skyway"
-    },
-    {
-        "suffix": "SPG",
-        "description": "Spring"
-    },
-    {
-        "suffix": "SPGS",
-        "description": "Springs"
-    },
-    {
-        "suffix": "SPUR",
-        "description": "Spur"
-    },
-    {
-        "suffix": "SPUR",
-        "description": "Spurs"
-    },
-    {
-        "suffix": "SQ",
-        "description": "Square"
-    },
-    {
-        "suffix": "SQS",
-        "description": "Squares"
-    },
-    {
-        "suffix": "STA",
-        "description": "Station"
-    },
-    {
-        "suffix": "STRA",
-        "description": "Stravenue"
-    },
-    {
-        "suffix": "STRM",
-        "description": "Stream"
-    },
-    {
-        "suffix": "ST",
-        "description": "Street"
-    },
-    {
-        "suffix": "STS",
-        "description": "Streets"
-    },
-    {
-        "suffix": "SMT",
-        "description": "Summit"
-    },
-    {
-        "suffix": "TER",
-        "description": "Terrace"
-    },
-    {
-        "suffix": "TRWY",
-        "description": "Throughway"
-    },
-    {
-        "suffix": "TRCE",
-        "description": "Trace"
-    },
-    {
-        "suffix": "TRAK",
-        "description": "Track"
-    },
-    {
-        "suffix": "TRFY",
-        "description": "Trafficway"
-    },
-    {
-        "suffix": "TRL",
-        "description": "Trail"
-    },
-    {
-        "suffix": "TRLR",
-        "description": "Trailer"
-    },
-    {
-        "suffix": "TUNL",
-        "description": "Tunnel"
-    },
-    {
-        "suffix": "TPKE",
-        "description": "Turnpike"
-    },
-    {
-        "suffix": "UPAS",
-        "description": "Underpass"
-    },
-    {
-        "suffix": "UN",
-        "description": "Union"
-    },
-    {
-        "suffix": "UNS",
-        "description": "Unions"
-    },
-    {
-        "suffix": "VLY",
-        "description": "Valley"
-    },
-    {
-        "suffix": "VLYS",
-        "description": "Valleys"
-    },
-    {
-        "suffix": "VIA",
-        "description": "Viaduct"
-    },
-    {
-        "suffix": "VW",
-        "description": "View"
-    },
-    {
-        "suffix": "VWS",
-        "description": "Views"
-    },
-    {
-        "suffix": "VLG",
-        "description": "Village"
-    },
-    {
-        "suffix": "VLGS",
-        "description": "Villages"
-    },
-    {
-        "suffix": "VL",
-        "description": "Ville"
-    },
-    {
-        "suffix": "VIS",
-        "description": "Vista"
-    },
-    {
-        "suffix": "WALK",
-        "description": "Walk"
-    },
-    {
-        "suffix": "WALK",
-        "description": "Walks"
-    },
-    {
-        "suffix": "WALL",
-        "description": "Wall"
-    },
-    {
-        "suffix": "WAY",
-        "description": "Way"
-    },
-    {
-        "suffix": "WAYS",
-        "description": "Ways"
-    },
-    {
-        "suffix": "WL",
-        "description": "Well"
-    },
-    {
-        "suffix": "WLS",
-        "description": "Wells"
-    }
-]
+{
+    "count": 205,
+    "list": [
+        {
+            "suffix": "ALY",
+            "description": "Alley"
+        },
+        {
+            "suffix": "ANX",
+            "description": "Anex"
+        },
+        {
+            "suffix": "ARC",
+            "description": "Arcade"
+        },
+        {
+            "suffix": "AVE",
+            "description": "Avenue"
+        },
+        {
+            "suffix": "BYU",
+            "description": "Bayou"
+        },
+        {
+            "suffix": "BCH",
+            "description": "Beach"
+        },
+        {
+            "suffix": "BND",
+            "description": "Bend"
+        },
+        {
+            "suffix": "BLF",
+            "description": "Bluff"
+        },
+        {
+            "suffix": "BLFS",
+            "description": "Bluffs"
+        },
+        {
+            "suffix": "BTM",
+            "description": "Bottom"
+        },
+        {
+            "suffix": "BLVD",
+            "description": "Boulevard"
+        },
+        {
+            "suffix": "BR",
+            "description": "Branch"
+        },
+        {
+            "suffix": "BRG",
+            "description": "Bridge"
+        },
+        {
+            "suffix": "BRK",
+            "description": "Brook"
+        },
+        {
+            "suffix": "BRKS",
+            "description": "Brooks"
+        },
+        {
+            "suffix": "BG",
+            "description": "Burg"
+        },
+        {
+            "suffix": "BGS",
+            "description": "Burgs"
+        },
+        {
+            "suffix": "BYP",
+            "description": "Bypass"
+        },
+        {
+            "suffix": "CP",
+            "description": "Camp"
+        },
+        {
+            "suffix": "CYN",
+            "description": "Canyon"
+        },
+        {
+            "suffix": "CPE",
+            "description": "Cape"
+        },
+        {
+            "suffix": "CSWY",
+            "description": "Causeway"
+        },
+        {
+            "suffix": "CTR",
+            "description": "Center"
+        },
+        {
+            "suffix": "CTRS",
+            "description": "Centers"
+        },
+        {
+            "suffix": "CIR",
+            "description": "Circle"
+        },
+        {
+            "suffix": "CIRS",
+            "description": "Circles"
+        },
+        {
+            "suffix": "CLF",
+            "description": "Cliff"
+        },
+        {
+            "suffix": "CLFS",
+            "description": "Cliffs"
+        },
+        {
+            "suffix": "CLB",
+            "description": "Club"
+        },
+        {
+            "suffix": "CMN",
+            "description": "Common"
+        },
+        {
+            "suffix": "CMNS",
+            "description": "Commons"
+        },
+        {
+            "suffix": "COR",
+            "description": "Corner"
+        },
+        {
+            "suffix": "CORS",
+            "description": "Corners"
+        },
+        {
+            "suffix": "CRSE",
+            "description": "Course"
+        },
+        {
+            "suffix": "CT",
+            "description": "Court"
+        },
+        {
+            "suffix": "CTS",
+            "description": "Courts"
+        },
+        {
+            "suffix": "CV",
+            "description": "Cove"
+        },
+        {
+            "suffix": "CVS",
+            "description": "Coves"
+        },
+        {
+            "suffix": "CRK",
+            "description": "Creek"
+        },
+        {
+            "suffix": "CRES",
+            "description": "Crescent"
+        },
+        {
+            "suffix": "CRST",
+            "description": "Crest"
+        },
+        {
+            "suffix": "XING",
+            "description": "Crossing"
+        },
+        {
+            "suffix": "XRD",
+            "description": "Crossroad"
+        },
+        {
+            "suffix": "XRDS",
+            "description": "Crossroads"
+        },
+        {
+            "suffix": "CURV",
+            "description": "Curve"
+        },
+        {
+            "suffix": "DL",
+            "description": "Dale"
+        },
+        {
+            "suffix": "DM",
+            "description": "Dam"
+        },
+        {
+            "suffix": "DV",
+            "description": "Divide"
+        },
+        {
+            "suffix": "DR",
+            "description": "Drive"
+        },
+        {
+            "suffix": "DRS",
+            "description": "Drives"
+        },
+        {
+            "suffix": "EST",
+            "description": "Estate"
+        },
+        {
+            "suffix": "ESTS",
+            "description": "Estates"
+        },
+        {
+            "suffix": "EXPY",
+            "description": "Expressway"
+        },
+        {
+            "suffix": "EXT",
+            "description": "Extension"
+        },
+        {
+            "suffix": "EXTS",
+            "description": "Extensions"
+        },
+        {
+            "suffix": "FALL",
+            "description": "Fall"
+        },
+        {
+            "suffix": "FLS",
+            "description": "Falls"
+        },
+        {
+            "suffix": "FRY",
+            "description": "Ferry"
+        },
+        {
+            "suffix": "FLD",
+            "description": "Field"
+        },
+        {
+            "suffix": "FLDS",
+            "description": "Fields"
+        },
+        {
+            "suffix": "FLT",
+            "description": "Flat"
+        },
+        {
+            "suffix": "FLTS",
+            "description": "Flats"
+        },
+        {
+            "suffix": "FRD",
+            "description": "Ford"
+        },
+        {
+            "suffix": "FRDS",
+            "description": "Fords"
+        },
+        {
+            "suffix": "FRST",
+            "description": "Forest"
+        },
+        {
+            "suffix": "FRG",
+            "description": "Forge"
+        },
+        {
+            "suffix": "FRGS",
+            "description": "Forges"
+        },
+        {
+            "suffix": "FRK",
+            "description": "Fork"
+        },
+        {
+            "suffix": "FRKS",
+            "description": "Forks"
+        },
+        {
+            "suffix": "FT",
+            "description": "Fort"
+        },
+        {
+            "suffix": "FWY",
+            "description": "Freeway"
+        },
+        {
+            "suffix": "GDN",
+            "description": "Garden"
+        },
+        {
+            "suffix": "GDNS",
+            "description": "Gardens"
+        },
+        {
+            "suffix": "GTWY",
+            "description": "Gateway"
+        },
+        {
+            "suffix": "GLN",
+            "description": "Glen"
+        },
+        {
+            "suffix": "GLNS",
+            "description": "Glens"
+        },
+        {
+            "suffix": "GRN",
+            "description": "Green"
+        },
+        {
+            "suffix": "GRNS",
+            "description": "Greens"
+        },
+        {
+            "suffix": "GRV",
+            "description": "Grove"
+        },
+        {
+            "suffix": "GRVS",
+            "description": "Groves"
+        },
+        {
+            "suffix": "HBR",
+            "description": "Harbor"
+        },
+        {
+            "suffix": "HBRS",
+            "description": "Harbors"
+        },
+        {
+            "suffix": "HVN",
+            "description": "Haven"
+        },
+        {
+            "suffix": "HTS",
+            "description": "Heights"
+        },
+        {
+            "suffix": "HWY",
+            "description": "Highway"
+        },
+        {
+            "suffix": "HL",
+            "description": "Hill"
+        },
+        {
+            "suffix": "HLS",
+            "description": "Hills"
+        },
+        {
+            "suffix": "HOLW",
+            "description": "Hollow"
+        },
+        {
+            "suffix": "INLT",
+            "description": "Inlet"
+        },
+        {
+            "suffix": "IS",
+            "description": "Island"
+        },
+        {
+            "suffix": "ISS",
+            "description": "Islands"
+        },
+        {
+            "suffix": "ISLE",
+            "description": "Isle"
+        },
+        {
+            "suffix": "JCT",
+            "description": "Junction"
+        },
+        {
+            "suffix": "JCTS",
+            "description": "Junctions"
+        },
+        {
+            "suffix": "KY",
+            "description": "Key"
+        },
+        {
+            "suffix": "KYS",
+            "description": "Keys"
+        },
+        {
+            "suffix": "KNL",
+            "description": "Knoll"
+        },
+        {
+            "suffix": "KNLS",
+            "description": "Knolls"
+        },
+        {
+            "suffix": "LK",
+            "description": "Lake"
+        },
+        {
+            "suffix": "LKS",
+            "description": "Lakes"
+        },
+        {
+            "suffix": "LAND",
+            "description": "Land"
+        },
+        {
+            "suffix": "LNDG",
+            "description": "Landing"
+        },
+        {
+            "suffix": "LN",
+            "description": "Lane"
+        },
+        {
+            "suffix": "LGT",
+            "description": "Light"
+        },
+        {
+            "suffix": "LGTS",
+            "description": "Lights"
+        },
+        {
+            "suffix": "LF",
+            "description": "Loaf"
+        },
+        {
+            "suffix": "LCK",
+            "description": "Lock"
+        },
+        {
+            "suffix": "LCKS",
+            "description": "Locks"
+        },
+        {
+            "suffix": "LDG",
+            "description": "Lodge"
+        },
+        {
+            "suffix": "LOOP",
+            "description": "Loop"
+        },
+        {
+            "suffix": "MALL",
+            "description": "Mall"
+        },
+        {
+            "suffix": "MNR",
+            "description": "Manor"
+        },
+        {
+            "suffix": "MNRS",
+            "description": "Manors"
+        },
+        {
+            "suffix": "MDW",
+            "description": "Meadow"
+        },
+        {
+            "suffix": "MDWS",
+            "description": "Meadows"
+        },
+        {
+            "suffix": "MEWS",
+            "description": "Mews"
+        },
+        {
+            "suffix": "ML",
+            "description": "Mill"
+        },
+        {
+            "suffix": "MLS",
+            "description": "Mills"
+        },
+        {
+            "suffix": "MSN",
+            "description": "Mission"
+        },
+        {
+            "suffix": "MTWY",
+            "description": "Motorway"
+        },
+        {
+            "suffix": "MT",
+            "description": "Mount"
+        },
+        {
+            "suffix": "MTN",
+            "description": "Mountain"
+        },
+        {
+            "suffix": "MTNS",
+            "description": "Mountains"
+        },
+        {
+            "suffix": "NCK",
+            "description": "Neck"
+        },
+        {
+            "suffix": "ORCH",
+            "description": "Orchard"
+        },
+        {
+            "suffix": "OVAL",
+            "description": "Oval"
+        },
+        {
+            "suffix": "OPAS",
+            "description": "Overpass"
+        },
+        {
+            "suffix": "PARK",
+            "description": "Park"
+        },
+        {
+            "suffix": "PARK",
+            "description": "Parks"
+        },
+        {
+            "suffix": "PKWY",
+            "description": "Parkway"
+        },
+        {
+            "suffix": "PKWY",
+            "description": "Parkways"
+        },
+        {
+            "suffix": "PASS",
+            "description": "Pass"
+        },
+        {
+            "suffix": "PSGE",
+            "description": "Passage"
+        },
+        {
+            "suffix": "PATH",
+            "description": "Path"
+        },
+        {
+            "suffix": "PIKE",
+            "description": "Pike"
+        },
+        {
+            "suffix": "PNE",
+            "description": "Pine"
+        },
+        {
+            "suffix": "PNES",
+            "description": "Pines"
+        },
+        {
+            "suffix": "PL",
+            "description": "Place"
+        },
+        {
+            "suffix": "PLN",
+            "description": "Plain"
+        },
+        {
+            "suffix": "PLNS",
+            "description": "Plains"
+        },
+        {
+            "suffix": "PLZ",
+            "description": "Plaza"
+        },
+        {
+            "suffix": "PT",
+            "description": "Point"
+        },
+        {
+            "suffix": "PTS",
+            "description": "Points"
+        },
+        {
+            "suffix": "PRT",
+            "description": "Port"
+        },
+        {
+            "suffix": "PRTS",
+            "description": "Ports"
+        },
+        {
+            "suffix": "PR",
+            "description": "Prairie"
+        },
+        {
+            "suffix": "RADL",
+            "description": "Radial"
+        },
+        {
+            "suffix": "RAMP",
+            "description": "Ramp"
+        },
+        {
+            "suffix": "RNCH",
+            "description": "Ranch"
+        },
+        {
+            "suffix": "RPD",
+            "description": "Rapid"
+        },
+        {
+            "suffix": "RPDS",
+            "description": "Rapids"
+        },
+        {
+            "suffix": "RST",
+            "description": "Rest"
+        },
+        {
+            "suffix": "RDG",
+            "description": "Ridge"
+        },
+        {
+            "suffix": "RDGS",
+            "description": "Ridges"
+        },
+        {
+            "suffix": "RIV",
+            "description": "River"
+        },
+        {
+            "suffix": "RD",
+            "description": "Road"
+        },
+        {
+            "suffix": "RDS",
+            "description": "Roads"
+        },
+        {
+            "suffix": "RTE",
+            "description": "Route"
+        },
+        {
+            "suffix": "ROW",
+            "description": "Row"
+        },
+        {
+            "suffix": "RUE",
+            "description": "Rue"
+        },
+        {
+            "suffix": "RUN",
+            "description": "Run"
+        },
+        {
+            "suffix": "SHL",
+            "description": "Shoal"
+        },
+        {
+            "suffix": "SHLS",
+            "description": "Shoals"
+        },
+        {
+            "suffix": "SHR",
+            "description": "Shore"
+        },
+        {
+            "suffix": "SHRS",
+            "description": "Shores"
+        },
+        {
+            "suffix": "SKWY",
+            "description": "Skyway"
+        },
+        {
+            "suffix": "SPG",
+            "description": "Spring"
+        },
+        {
+            "suffix": "SPGS",
+            "description": "Springs"
+        },
+        {
+            "suffix": "SPUR",
+            "description": "Spur"
+        },
+        {
+            "suffix": "SPUR",
+            "description": "Spurs"
+        },
+        {
+            "suffix": "SQ",
+            "description": "Square"
+        },
+        {
+            "suffix": "SQS",
+            "description": "Squares"
+        },
+        {
+            "suffix": "STA",
+            "description": "Station"
+        },
+        {
+            "suffix": "STRA",
+            "description": "Stravenue"
+        },
+        {
+            "suffix": "STRM",
+            "description": "Stream"
+        },
+        {
+            "suffix": "ST",
+            "description": "Street"
+        },
+        {
+            "suffix": "STS",
+            "description": "Streets"
+        },
+        {
+            "suffix": "SMT",
+            "description": "Summit"
+        },
+        {
+            "suffix": "TER",
+            "description": "Terrace"
+        },
+        {
+            "suffix": "TRWY",
+            "description": "Throughway"
+        },
+        {
+            "suffix": "TRCE",
+            "description": "Trace"
+        },
+        {
+            "suffix": "TRAK",
+            "description": "Track"
+        },
+        {
+            "suffix": "TRFY",
+            "description": "Trafficway"
+        },
+        {
+            "suffix": "TRL",
+            "description": "Trail"
+        },
+        {
+            "suffix": "TRLR",
+            "description": "Trailer"
+        },
+        {
+            "suffix": "TUNL",
+            "description": "Tunnel"
+        },
+        {
+            "suffix": "TPKE",
+            "description": "Turnpike"
+        },
+        {
+            "suffix": "UPAS",
+            "description": "Underpass"
+        },
+        {
+            "suffix": "UN",
+            "description": "Union"
+        },
+        {
+            "suffix": "UNS",
+            "description": "Unions"
+        },
+        {
+            "suffix": "VLY",
+            "description": "Valley"
+        },
+        {
+            "suffix": "VLYS",
+            "description": "Valleys"
+        },
+        {
+            "suffix": "VIA",
+            "description": "Viaduct"
+        },
+        {
+            "suffix": "VW",
+            "description": "View"
+        },
+        {
+            "suffix": "VWS",
+            "description": "Views"
+        },
+        {
+            "suffix": "VLG",
+            "description": "Village"
+        },
+        {
+            "suffix": "VLGS",
+            "description": "Villages"
+        },
+        {
+            "suffix": "VL",
+            "description": "Ville"
+        },
+        {
+            "suffix": "VIS",
+            "description": "Vista"
+        },
+        {
+            "suffix": "WALK",
+            "description": "Walk"
+        },
+        {
+            "suffix": "WALK",
+            "description": "Walks"
+        },
+        {
+            "suffix": "WALL",
+            "description": "Wall"
+        },
+        {
+            "suffix": "WAY",
+            "description": "Way"
+        },
+        {
+            "suffix": "WAYS",
+            "description": "Ways"
+        },
+        {
+            "suffix": "WL",
+            "description": "Well"
+        },
+        {
+            "suffix": "WLS",
+            "description": "Wells"
+        }
+    ]
+}

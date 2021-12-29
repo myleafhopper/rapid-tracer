@@ -1,10 +1,13 @@
-[
-    "Visa",
-    "MasterCard",
-    "Discover",
-    "Amex",
-    "Diners",
-    "EnRoute",
-    "JCB",
-    "Voyager"
-]
+{
+    "count": 7,
+    "list": [
+        "Visa",
+        "MasterCard",
+        "Discover",
+        "Amex",
+        "Diners",
+        "EnRoute",
+        "JCB",
+        "Voyager"
+    ]
+}

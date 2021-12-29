@@ -1,10 +1,13 @@
-[
-    "Sales",
-    "Marketing",
-    "Finance and Accounting",
-    "Customer Service",
-    "Human Resources",
-    "Research and Development",
-    "Production",
-    "Distribution"
-]
+{
+    "count": 7,
+    "list": [
+        "Sales",
+        "Marketing",
+        "Finance and Accounting",
+        "Customer Service",
+        "Human Resources",
+        "Research and Development",
+        "Production",
+        "Distribution"
+    ]
+}
