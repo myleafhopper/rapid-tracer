@@ -1,12 +1,298 @@
-[
-    {
-        "name": "App Name",
+{
+    "App Name": {
         "type": "predefined",
-        "dataFile": "app_name.json"
+        "keys": null,
+        "file": "app_names.json"
     },
-    {
-        "name": "City",
+    "App Version": {
+        "type": "custom",
+        "keys": null,
+        "file": null
+    },
+    "Boolean": {
+        "type": "custom",
+        "keys": null,
+        "file": null
+    },
+    "City": {
         "type": "predefined",
-        "dataFile": "city.json"
+        "keys": {
+            "City": "city",
+            "Country": "country"
+        },
+        "file": "cities.json"
+    },
+    "Color": {
+        "type": "predefined",
+        "keys": null,
+        "file": "colors.json"
+    },
+    "Color Code (Hex)": {
+        "type": "predefined",
+        "keys": {
+            "Color Code (Hex)": "hexCode",
+            "Color": ""
+        },
+        "file": "color_codes.json"
+    },
+    "Company Name": {
+        "type": "predefined",
+        "keys": null,
+        "file": "companies.json"
+    },
+    "Corporate Department": {
+        "type": "predefined",
+        "keys": null,
+        "file": "corporate_departments.json"
+    },
+    "Country": {
+        "type": "predefined",
+        "keys": null,
+        "file": "countries.json"
+    },
+    "Country Code (Phone)": {
+        "type": "predefined",
+        "keys": null,
+        "file": "countries.json"
+    },
+    "Country Currency": {
+        "type": "predefined",
+        "keys": null,
+        "file": "countries.json"
+    },
+    "Country Currency Code": {
+        "type": "predefined",
+        "keys": null,
+        "file": "countries.json"
+    },
+    "Credit Card Number": {
+        "type": "custom",
+        "keys": null,
+        "file": null
+    },
+    "Credit Card Type": {
+        "type": "predefined",
+        "keys": null,
+        "file": "credit_card_types.json"
+    },
+    "Custom List": {
+        "type": "custom",
+        "keys": null,
+        "file": null
+    },
+    "Date (MM/DD/YYYY)": {
+        "type": "custom",
+        "keys": null,
+        "file": null
+    },
+    "Date (DD/MM/YYYY)": {
+        "type": "custom",
+        "keys": null,
+        "file": null
+    },
+    "Email": {
+        "type": "custom",
+        "keys": null,
+        "file": null
+    },
+    "First Name (Female)": {
+        "type": "predefined",
+        "keys": null,
+        "file": "female_first_names.json"
+    },
+    "First Name (Male)": {
+        "type": "predefined",
+        "keys": null,
+        "file": "male_first_names.json"
+    },
+    "Full Name (Female)": {
+        "type": "custom",
+        "keys": null,
+        "file": null
+    },
+    "Full Name (Male)": {
+        "type": "custom",
+        "keys": null,
+        "file": null
+    },
+    "Gender": {
+        "type": "predefined",
+        "keys": null,
+        "file": "genders.json"
+    },
+    "Gender (Abbreviation)": {
+        "type": "predefined",
+        "keys": null,
+        "file": "genders.json"
+    },
+    "GUID": {
+        "type": "custom",
+        "keys": null,
+        "file": null
+    },
+    "Job Title": {
+        "type": "predefined",
+        "keys": null,
+        "file": "job_titles.json"
+    },
+    "Language": {
+        "type": "predefined",
+        "keys": null,
+        "file": "languages.json"
+    },
+    "Last Name": {
+        "type": "predefined",
+        "keys": null,
+        "file": "last_names.json"
+    },
+    "Latitude": {
+        "type": "custom",
+        "keys": null,
+        "file": null
+    },
+    "Longitude": {
+        "type": "custom",
+        "keys": null,
+        "file": null
+    },
+    "Movie Genre": {
+        "type": "predefined",
+        "keys": null,
+        "file": "movie_genres.json"
+    },
+    "Movie Rating": {
+        "type": "predefined",
+        "keys": null,
+        "file": "movie_ratings.json"
+    },
+    "Movie Rating (Description)": {
+        "type": "predefined",
+        "keys": null,
+        "file": "movie_ratings.json"
+    },
+    "Movie Title": {
+        "type": "predefined",
+        "keys": null,
+        "file": "movie_titles.json"
+    },
+    "Name Prefix": {
+        "type": "predefined",
+        "keys": null,
+        "file": "name_prefixes.json"
+    },
+    "Name Suffix": {
+        "type": "predefined",
+        "keys": null,
+        "file": "name_suffixes.json"
+    },
+    "Number": {
+        "type": "custom",
+        "keys": null,
+        "file": null
+    },
+    "Password": {
+        "type": "custom",
+        "keys": null,
+        "file": null
+    },
+    "Phone Number": {
+        "type": "custom",
+        "keys": null,
+        "file": null
+    },
+    "Postal Code (USA)": {
+        "type": "custom",
+        "keys": null,
+        "file": null
+    },
+    "Race": {
+        "type": "predefined",
+        "keys": null,
+        "file": "races.json"
+    },
+    "Shirt Size": {
+        "type": "predefined",
+        "keys": null,
+        "file": "shirt_sizes.json"
+    },
+    "Social Security Number (USA)": {
+        "type": "custom",
+        "keys": null,
+        "file": null
+    },
+    "Store Product": {
+        "type": "predefined",
+        "keys": null,
+        "file": "store_products.json"
+    },
+    "Street Name": {
+        "type": "predefined",
+        "keys": null,
+        "file": "street_names.json"
+    },
+    "Street Suffix": {
+        "type": "predefined",
+        "keys": null,
+        "file": "street_suffixes.json"
+    },
+    "Street Suffix (Description)": {
+        "type": "predefined",
+        "keys": null,
+        "file": "street_suffixes.json"
+    },
+    "Time (HH:MM)": {
+        "type": "custom",
+        "keys": null,
+        "file": null
+    },
+    "Time (HH:MM:SS)": {
+        "type": "custom",
+        "keys": null,
+        "file": null
+    },
+    "Time (HH:MM:SS.SSS)": {
+        "type": "custom",
+        "keys": null,
+        "file": null
+    },
+    "Timezone": {
+        "type": "predefined",
+        "keys": null,
+        "file": "timezones.json"
+    },
+    "TV Show Rating": {
+        "type": "predefined",
+        "keys": null,
+        "file": "tv_show_ratings.json"
+    },
+    "University": {
+        "type": "predefined",
+        "keys": null,
+        "file": "universities.json"
+    },
+    "USA State": {
+        "type": "predefined",
+        "keys": null,
+        "file": "usa_states.json"
+    },
+    "Username": {
+        "type": "custom",
+        "keys": null,
+        "file": null
+    },
+    "Vehicle Make": {
+        "type": "predefined",
+        "keys": null,
+        "file": "vehicles.json"
+    },
+    "Vehicle Model": {
+        "type": "predefined",
+        "keys": null,
+        "file": "vehicles.json"
+    },
+    "Vehicle Model Year": {
+        "type": "predefined",
+        "keys": null,
+        "file": "vehicles.json"
     }
-]
+}

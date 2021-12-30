@@ -5,14 +5,23 @@ EXPORTS
 module.exports.getRows = (body) => {
 
     const predefinedData = getPredefinedData();
+    loadColumnNames(body.columns);
+    const columns = body.columns;
     const rows = [];
 
     for (let i = 0; i < body.count; i++) {
-        rows.push(getRow(body, predefinedData));
+        rows.push(getRow(columns, predefinedData));
     }
 
     return rows;
 };
+
+/* --------------------------------------------------
+SETUP
+-------------------------------------------------- */
+
+const configuration = require('./configuration.json');
+const columnNames = [];
 
 /* --------------------------------------------------
 FUNCTIONS
@@ -20,30 +29,43 @@ FUNCTIONS
 
 const getPredefinedData = () => {
 
+    const directoryManager = new (require('../../core/system/DirectoryManager'));
     const fileManager = new (require('../../core/system/FileManager'));
-    const configuration = require('./configuration.json');
+    const files = directoryManager.getFiles('server/predefined_data');
     const predefinedData = {};
 
-    for (const item of configuration) {
-
-        const filePath = `server/predefined_data/${item.dataFile}`;
-        predefinedData[item.name] = fileManager.readJsonFile(filePath);
+    for (const file of files) {
+        const filePath = `server/predefined_data/${file}`;
+        predefinedData[file] = fileManager.readJsonFile(filePath);
     }
 
     return predefinedData;
 };
 
-const getRow = (body, predefinedData) => {
+const loadColumnNames = (columns) => {
+
+    columnNames.length = 0;
+
+    for (const column of columns) {
+        columnNames.push(column.columnName);
+    }
+};
+
+const getRow = (columns, predefinedDataCollection) => {
 
     const row = {};
 
-    for (const column of body.setup) {
+    for (const column of columns) {
 
-        if (column.type === 'predefined') {
+        if (column.dataType === 'predefined') {
 
-            const list = predefinedData[column.name];
-            const index = getRandomNumber(0, list.length - 1);
-            row[column.columnName] = list[index];
+            const dataConfiguration = configuration[column.columnName];
+            const predefinedData = predefinedDataCollection[dataConfiguration.file];
+            const index = getRandomNumber(0, predefinedData.count);
+            
+            row[column.columnName] = dataConfiguration.key === null ?
+                predefinedData.list[index] :
+                predefinedData.list[index][dataConfiguration.key];
 
         } else {
 
@@ -56,14 +78,14 @@ const getRow = (body, predefinedData) => {
 
 const getCustomDataValue = (column) => {
 
-    if (column.name === 'Number') {
+    if (column.columnName === 'Number') {
 
         return getRandomNumber(
             column.settings.minimum,
             column.settings.maximum
         );
 
-    } else if (column.name === 'Characters') {
+    } else if (column.columnName === 'Characters') {
 
         return getRandomString(column.settings);
     }

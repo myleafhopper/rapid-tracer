@@ -27,7 +27,7 @@ module.exports = class FileManager extends Base {
         }
     }
 
-    readJsonFile(relativeFilePath, json) {
+    readJsonFile(relativeFilePath) {
 
         const filePath = this.path.join(
             this.root,
