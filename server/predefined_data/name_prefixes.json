@@ -1,31 +1,83 @@
 {
     "count": 25,
     "list": [
-        "1st Lt",
-        "Adm",
-        "Atty",
-        "Brother",
-        "Capt",
-        "Chief",
-        "Cmdr",
-        "Col",
-        "Dean",
-        "Dr",
-        "Elder",
-        "Father",
-        "Gen",
-        "Gov",
-        "Hon",
-        "Lt Col",
-        "Maj",
-        "MSgt",
-        "Mr",
-        "Mrs",
-        "Ms",
-        "Prince",
-        "Prof",
-        "Rabbi",
-        "Rev",
-        "Sister"
+        {
+            "value": "1st Lt"
+        },
+        {
+            "value": "Adm"
+        },
+        {
+            "value": "Atty"
+        },
+        {
+            "value": "Brother"
+        },
+        {
+            "value": "Capt"
+        },
+        {
+            "value": "Chief"
+        },
+        {
+            "value": "Cmdr"
+        },
+        {
+            "value": "Col"
+        },
+        {
+            "value": "Dean"
+        },
+        {
+            "value": "Dr"
+        },
+        {
+            "value": "Elder"
+        },
+        {
+            "value": "Father"
+        },
+        {
+            "value": "Gen"
+        },
+        {
+            "value": "Gov"
+        },
+        {
+            "value": "Hon"
+        },
+        {
+            "value": "Lt Col"
+        },
+        {
+            "value": "Maj"
+        },
+        {
+            "value": "MSgt"
+        },
+        {
+            "value": "Mr"
+        },
+        {
+            "value": "Mrs"
+        },
+        {
+            "value": "Ms"
+        },
+        {
+            "value": "Prince"
+        },
+        {
+            "value": "Prof"
+        },
+        {
+            "value": "Rabbi"
+        },
+        {
+            "value": "Rev"
+        },
+        {
+            "value": "Sister"
+        }
     ]
 }

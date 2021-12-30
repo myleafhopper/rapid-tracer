@@ -1,29 +1,77 @@
 {
     "count": 23,
     "list": [
-        "Action",
-        "Adventure",
-        "Animation",
-        "Biography",
-        "Comedy",
-        "Crime",
-        "Documentary",
-        "Drama",
-        "Family",
-        "Fantasy",
-        "Film Noir",
-        "History",
-        "Horror",
-        "Music",
-        "Musical",
-        "Mystery",
-        "Romance",
-        "Sci-Fi",
-        "Short",
-        "Sport",
-        "Superhero",
-        "Thriller",
-        "War",
-        "Western"
+        {
+            "value": "Action"
+        },
+        {
+            "value": "Adventure"
+        },
+        {
+            "value": "Animation"
+        },
+        {
+            "value": "Biography"
+        },
+        {
+            "value": "Comedy"
+        },
+        {
+            "value": "Crime"
+        },
+        {
+            "value": "Documentary"
+        },
+        {
+            "value": "Drama"
+        },
+        {
+            "value": "Family"
+        },
+        {
+            "value": "Fantasy"
+        },
+        {
+            "value": "Film Noir"
+        },
+        {
+            "value": "History"
+        },
+        {
+            "value": "Horror"
+        },
+        {
+            "value": "Music"
+        },
+        {
+            "value": "Musical"
+        },
+        {
+            "value": "Mystery"
+        },
+        {
+            "value": "Romance"
+        },
+        {
+            "value": "Sci-Fi"
+        },
+        {
+            "value": "Short"
+        },
+        {
+            "value": "Sport"
+        },
+        {
+            "value": "Superhero"
+        },
+        {
+            "value": "Thriller"
+        },
+        {
+            "value": "War"
+        },
+        {
+            "value": "Western"
+        }
     ]
 }

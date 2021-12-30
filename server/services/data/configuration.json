@@ -1,7 +1,9 @@
 {
     "App Name": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "App Name": "value"
+        },
         "file": "app_names.json"
     },
     "App Version": {
@@ -43,12 +45,16 @@
     },
     "Company Name": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Company Name": "value"
+        },
         "file": "companies.json"
     },
     "Corporate Department": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Corporate Department": "value"
+        },
         "file": "corporate_departments.json"
     },
     "Country": {
@@ -102,7 +108,9 @@
     },
     "Credit Card Type": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Credit Card Type": "value"
+        },
         "file": "credit_card_types.json"
     },
     "Custom List": {
@@ -127,12 +135,16 @@
     },
     "First Name (Female)": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "First Name (Female)": "value"
+        },
         "file": "female_first_names.json"
     },
     "First Name (Male)": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "First Name (Male)": "value"
+        },
         "file": "male_first_names.json"
     },
     "Full Name (Female)": {
@@ -168,17 +180,23 @@
     },
     "Job Title": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Job Title": "value"
+        },
         "file": "job_titles.json"
     },
     "Language": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Language": "value"
+        },
         "file": "languages.json"
     },
     "Last Name": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Last Name": "value"
+        },
         "file": "last_names.json"
     },
     "Latitude": {
@@ -193,7 +211,9 @@
     },
     "Movie Genre": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Movie Genre": "value"
+        },
         "file": "movie_genres.json"
     },
     "Movie Rating": {
@@ -214,17 +234,23 @@
     },
     "Movie Title": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Movie Title": "value"
+        },
         "file": "movie_titles.json"
     },
     "Name Prefix": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Name Prefix": "value"
+        },
         "file": "name_prefixes.json"
     },
     "Name Suffix": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Name Suffix": "value"
+        },
         "file": "name_suffixes.json"
     },
     "Number": {
@@ -249,7 +275,9 @@
     },
     "Race": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Race": "value"
+        },
         "file": "races.json"
     },
     "Shirt Size": {
@@ -275,12 +303,16 @@
     },
     "Store Product": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Store Product": "value"
+        },
         "file": "store_products.json"
     },
     "Street Name": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Street Name": "value"
+        },
         "file": "street_names.json"
     },
     "Street Suffix": {

@@ -1,505 +1,1505 @@
 {
     "count": 499,
     "list": [
-        "ICBC",
-        "JPMorgan Chase",
-        "Berkshire Hathaway",
-        "China Construction Bank",
-        "Saudi Arabian Oil Company (Saudi Aramco)",
-        "Apple",
-        "Bank of America",
-        "Ping An Insurance Group",
-        "Agricultural Bank of China",
-        "Amazon",
-        "Samsung Electronics",
-        "Toyota Motor",
-        "Alphabet",
-        "Bank of China",
-        "Microsoft",
-        "Citigroup",
-        "Volkswagen Group",
-        "Walmart",
-        "Wells Fargo",
-        "Verizon Communications",
-        "UnitedHealth Group",
-        "China Merchants Bank",
-        "Alibaba Group",
-        "Allianz",
-        "Comcast",
-        "Goldman Sachs Group",
-        "Softbank",
-        "Postal Savings Bank Of China (PSBC)",
-        "Tencent Holdings",
-        "BNP Paribas",
-        "Morgan Stanley",
-        "China Mobile",
-        "Facebook",
-        "Johnson & Johnson",
-        "Sony",
-        "Intel",
-        "CVS Health",
-        "RBC",
-        "Nestlé",
-        "HSBC Holdings",
-        "Daimler",
-        "TD Bank Group",
-        "Nippon Telegraph & Tel",
-        "Deutsche Telekom",
-        "General Electric",
-        "Procter & Gamble",
-        "General Motors",
-        "Sinopec",
-        "China Life Insurance",
-        "Industrial Bank",
-        "Sberbank",
-        "Mitsubishi UFJ Financial",
-        "Cigna",
-        "AXA Group",
-        "AIA Group",
-        "Reliance Industries",
-        "Bank of Communications",
-        "Pfizer",
-        "IBM",
-        "Roche Holding",
-        "BMW Group",
-        "MetLife",
-        "PetroChina",
-        "LVMH Moët Hennessy Louis Vuitton",
-        "Novartis",
-        "Taiwan Semiconductor",
-        "Home Depot",
-        "Shanghai Pudong Development",
-        "Siemens",
-        "PepsiCo",
-        "Oracle",
-        "Sanofi",
-        "Enel",
-        "AbbVie",
-        "Cisco Systems",
-        "Zurich Insurance Group",
-        "Bank of Nova Scotia",
-        "Commonwealth Bank",
-        "BHP Group",
-        "UBS",
-        "British American Tobacco",
-        "Honda Motor",
-        "Intesa Sanpaolo",
-        "Merck & Co.",
-        "Sumitomo Mitsui Financial",
-        "Rio Tinto",
-        "Japan Post Holdings",
-        "US Bancorp",
-        "Anthem",
-        "Charter Communications",
-        "Unilever",
-        "Dell Technologies",
-        "Manulife",
-        "Hon Hai Precision",
-        "American Express",
-        "China Vanke",
-        "GlaxoSmithKline",
-        "Truist Financial",
-        "Rosneft",
-        "China State Construction Engineering",
-        "JD.com",
-        "Coca-Cola",
-        "Iberdrola",
-        "CITIC",
-        "Prudential",
-        "KDDI",
-        "Bank of Montreal",
-        "Costco Wholesale",
-        "Itaú Unibanco Holding",
-        "State Bank of India",
-        "Chubb",
-        "Mitsubishi",
-        "Vale",
-        "Capital One",
-        "PNC Financial Services",
-        "HDFC Bank",
-        "Credit Agricole",
-        "Itochu",
-        "FedEx",
-        "Vodafone",
-        "Abbott Laboratories",
-        "Visa",
-        "SAP",
-        "Thermo Fisher Scientific",
-        "China Pacific Insurance",
-        "Lowe's",
-        "BlackRock",
-        "China Citic Bank",
-        "Mizuho Financial",
-        "Deutsche Post",
-        "Medtronic",
-        "Caterpillar",
-        "Hitachi",
-        "Lockheed Martin",
-        "Generali Group",
-        "Target",
-        "Deere & Company",
-        "Honeywell International",
-        "SAIC Motor",
-        "Country Garden Holdings",
-        "ANZ",
-        "Charles Schwab",
-        "Barclays",
-        "Broadcom",
-        "Munich Re",
-        "Enbridge",
-        "ING Group",
-        "China Minsheng Bank",
-        "Linde",
-        "Amgen",
-        "Allstate",
-        "PayPal",
-        "Orange",
-        "Banco Bradesco",
-        "Hyundai Motor",
-        "Danaher",
-        "Westpac Banking Group",
-        "L'Oréal",
-        "Petrobras",
-        "NextEra Energy",
-        "AstraZeneca",
-        "China Everbright Bank",
-        "Salesforce.com",
-        "Oversea-Chinese Banking",
-        "Aviva",
-        "United Parcel Service",
-        "Progressive",
-        "NAB - National Australia Bank",
-        "Accenture",
-        "Southern Company",
-        "Canadian Imperial Bank",
-        "China Shenhua Energy",
-        "SK Hynix",
-        "Philip Morris International",
-        "VINCI",
-        "Mondelez International",
-        "Lloyds Banking Group",
-        "Mitsui",
-        "Union Pacific",
-        "3M",
-        "CK Hutchison",
-        "ICICI Bank",
-        "Midea Group",
-        "Exelon",
-        "Credit Suisse Group",
-        "Eli Lilly",
-        "CNOOC",
-        "Legal & General Group",
-        "Aflac",
-        "China Resources Land",
-        "BBVA-Banco Bilbao Vizcaya",
-        "HCA Healthcare",
-        "Duke Energy",
-        "América Móvil",
-        "Takeda Pharmaceutical",
-        "DBS",
-        "Bank of New York Mellon",
-        "Longfor Group Holdings",
-        "Schneider Electric",
-        "Travelers",
-        "McDonald's",
-        "Poly Developments & Holdings Group",
-        "Tokio Marine Holdings",
-        "China Telecom",
-        "Nike",
-        "Qualcomm",
-        "Centene",
-        "Micron Technology",
-        "Cathay Financial",
-        "EDF",
-        "Fubon Financial",
-        "Sun Life Financial",
-        "General Dynamics",
-        "Møller-Maersk",
-        "Volvo Group",
-        "Altria Group",
-        "Humana",
-        "Anglo American",
-        "Netflix",
-        "HDFC",
-        "Qatar National Bank",
-        "Xiaomi",
-        "Air Liquide",
-        "Nordea Bank",
-        "Northrop Grumman",
-        "ABB",
-        "China Evergrande Group",
-        "Seven & I Holdings",
-        "KB Financial Group",
-        "Sunac China Holdings",
-        "Kroger",
-        "EMD Group",
-        "E.ON",
-        "PTT",
-        "Telefónica",
-        "National Grid",
-        "HP",
-        "Danone",
-        "Panasonic",
-        "Power Corp of Canada",
-        "Mastercard",
-        "Baidu",
-        "PICC",
-        "Fortum",
-        "Fresenius",
-        "Dow",
-        "Archer Daniels Midland",
-        "Shinhan Financial Group",
-        "ASML Holding",
-        "American Electric",
-        "Becton Dickinson",
-        "Gree Electric Appliances",
-        "LafargeHolcim",
-        "China Railway Group",
-        "Automatic Data Processing",
-        "NVIDIA",
-        "KBC Group",
-        "Royal Ahold Delhaize N.V.",
-        "Sun Hung Kai Properties",
-        "Novo Nordisk",
-        "Investor AB",
-        "Tesla",
-        "Huaxia Bank",
-        "Kweichow Moutai",
-        "Citic Securities",
-        "KIA",
-        "Japan Tobacco",
-        "Dollar General",
-        "Posco",
-        "State Street",
-        "Tesco",
-        "Banco do Brasil",
-        "Baoshan Iron & Steel",
-        "Orix",
-        "Fiserv",
-        "China Unicom",
-        "Wilmar International",
-        "Sempra Energy",
-        "LG Electronics",
-        "NN Group",
-        "Mitsubishi Electric",
-        "Kering",
-        "Diageo",
-        "Reckitt Benckiser Group",
-        "Bank of Beijing",
-        "Poste Italiane",
-        "ViacomCBS",
-        "Nomura",
-        "BT Group",
-        "Henkel",
-        "Dai-ichi Life Insurance",
-        "Korea Electric Power",
-        "Ericsson",
-        "United Overseas Bank",
-        "TC Energy",
-        "Bank Of Shanghai",
-        "Adobe",
-        "Fannie Mae",
-        "CNP Assurances",
-        "Inditex",
-        "Applied Materials",
-        "BCE",
-        "Couche Tard",
-        "Saudi Telecom",
-        "Bank of Ningbo",
-        "CaixaBank",
-        "Macquarie Group",
-        "IntercontinentalExchange",
-        "Surgutneftegas",
-        "Deutsche Bank",
-        "AT&T",
-        "Tyson Foods",
-        "Marsh & McLennan",
-        "Ameriprise Financial",
-        "First Abu Dhabi Bank",
-        "Hartford Financial Services",
-        "ExxonMobil",
-        "Freddie Mac",
-        "Vivendi",
-        "The Saudi National Bank",
-        "CRH",
-        "Tata Consultancy Services",
-        "Philips",
-        "Royal Dutch Shell",
-        "Stryker",
-        "Etisalat",
-        "Mitsui Fudosan",
-        "Daiwa House Industry",
-        "Shin-Etsu Chemical",
-        "Daikin Industries",
-        "CSX",
-        "Lennar",
-        "LyondellBasell Industries",
-        "Swiss Life Holding",
-        "Chevron",
-        "General Mills",
-        "Newmont Mining",
-        "Barrick Gold",
-        "China Railway Construction",
-        "Haier Smart Home",
-        "Anhui Conch Cement",
-        "Discover Financial Services",
-        "Texas Instruments",
-        "DNB",
-        "Total",
-        "Nintendo",
-        "Fortescue Metals Group",
-        "China Yangtze Power",
-        "Cardinal Health",
-        "Canadian National Railway",
-        "BP",
-        "Walt Disney",
-        "Hyundai Mobis",
-        "Eaton",
-        "Principal Financial Group",
-        "New China Life Insurance",
-        "Johnson Controls International",
-        "Woolworths",
-        "RWE Group",
-        "Bank Of Jiangsu",
-        "Santander",
-        "Bank Rakyat Indonesia (BRI)",
-        "Fujitsu",
-        "Maybank",
-        "Toyota Industries",
-        "Larsen & Toubro",
-        "Gazprom",
-        "Norfolk Southern",
-        "Synchrony Financial",
-        "Keurig Dr Pepper",
-        "L3Harris Technologies",
-        "Greenland Holdings Group",
-        "BAE Systems",
-        "Waste Management",
-        "Brookfield Asset Management",
-        "Xcel Energy",
-        "Anheuser-Busch InBev",
-        "Raytheon Technologies",
-        "Emerson Electric",
-        "Al Rajhi Bank",
-        "Boeing",
-        "Sherwin-Williams",
-        "VMware",
-        "Ally Financial",
-        "China Merchants Shekou Industrial Zone Holdings",
-        "Imperial Brands",
-        "American Tower",
-        "Norilsk Nickel",
-        "China National Building",
-        "Samsung Life Insurance",
-        "Emirates NBD",
-        "Ford Motor",
-        "Starbucks",
-        "China Communications Construction",
-        "CTBC Financial",
-        "AIRBUS",
-        "Telecom Italia",
-        "Zijin Mining Group",
-        "National Bank of Canada",
-        "SEB AB",
-        "Sompo",
-        "Aon",
-        "Weichai Power",
-        "Carrier Global",
-        "Saint-Gobain",
-        "Murata Manufacturing",
-        "Hengli Petrochemical",
-        "Recruit Holdings",
-        "Cosco Shipping",
-        "Bristol Myers Squibb",
-        "Danske Bank",
-        "Cummins",
-        "OMV Group",
-        "Saudi Electricity",
-        "Glencore International",
-        "D.R. Horton",
-        "Best Buy",
-        "Prudential Financial",
-        "Stellantis",
-        "Suzuki Motor",
-        "BASF",
-        "Canon",
-        "Fast Retailing",
-        "Fifth Third Bank",
-        "CME Group",
-        "EnBW-Energie Baden",
-        "Samsung C&T",
-        "CRRC",
-        "Bayer",
-        "Toyota Tsusho",
-        "Public Service Enterprise Group",
-        "Phoenix Group Holdings",
-        "Consolidated Edison",
-        "Kimberly-Clark",
-        "Wesfarmers",
-        "Bank Central Asia",
-        "Kraft Heinz Company",
-        "Paccar",
-        "American International Group",
-        "Mitsubishi Estate",
-        "Equinor",
-        "DTE Energy",
-        "Lenovo Group",
-        "Fujifilm Holdings",
-        "Colgate-Palmolive",
-        "Hana Financial Group",
-        "Kotak Mahindra Bank",
-        "Telstra",
-        "Biogen",
-        "Talanx",
-        "Carrefour",
-        "Standard Chartered",
-        "Svenska Handelsbanken",
-        "Sumitomo Mitsui Trust",
-        "DISH Network",
-        "Meituan",
-        "Walgreens",
-        "BYD",
-        "Fosun International",
-        "ENGIE",
-        "Eni",
-        "Kubota",
-        "Shimao Property Holdings",
-        "CK Asset Holdings",
-        "Bank of Nanjing",
-        "Edp-energias De Portugal",
-        "LukOil",
-        "Sany Heavy Industry",
-        "Grupo Mexico",
-        "Michelin Group",
-        "Komatsu",
-        "NetEase",
-        "Asahi Group Holdings",
-        "SK Telecom",
-        "Air Products & Chemicals",
-        "Athene Holding",
-        "eBay",
-        "Freeport-McMoRan",
-        "Power Construction Corporation of China",
-        "LG Chem",
-        "Saudi Basic Industries",
-        "Bouygues",
-        "Citizens Bank (Rhode IsIand)",
-        "Capgemini",
-        "Edison International",
-        "Magna International",
-        "Dollar Tree",
-        "Telenor",
-        "China Zheshang Bank",
-        "Entergy",
-        "Lam Research",
-        "Infosys",
-        "The Estée Lauder Companies",
-        "China Tower Corp.",
-        "Corteva",
-        "CSL",
-        "Safran",
-        "Banorte",
-        "KeyCorp",
-        "Lufax Holding"
+        {
+            "value": "ICBC"
+        },
+        {
+            "value": "JPMorgan Chase"
+        },
+        {
+            "value": "Berkshire Hathaway"
+        },
+        {
+            "value": "China Construction Bank"
+        },
+        {
+            "value": "Saudi Arabian Oil Company (Saudi Aramco)"
+        },
+        {
+            "value": "Apple"
+        },
+        {
+            "value": "Bank of America"
+        },
+        {
+            "value": "Ping An Insurance Group"
+        },
+        {
+            "value": "Agricultural Bank of China"
+        },
+        {
+            "value": "Amazon"
+        },
+        {
+            "value": "Samsung Electronics"
+        },
+        {
+            "value": "Toyota Motor"
+        },
+        {
+            "value": "Alphabet"
+        },
+        {
+            "value": "Bank of China"
+        },
+        {
+            "value": "Microsoft"
+        },
+        {
+            "value": "Citigroup"
+        },
+        {
+            "value": "Volkswagen Group"
+        },
+        {
+            "value": "Walmart"
+        },
+        {
+            "value": "Wells Fargo"
+        },
+        {
+            "value": "Verizon Communications"
+        },
+        {
+            "value": "UnitedHealth Group"
+        },
+        {
+            "value": "China Merchants Bank"
+        },
+        {
+            "value": "Alibaba Group"
+        },
+        {
+            "value": "Allianz"
+        },
+        {
+            "value": "Comcast"
+        },
+        {
+            "value": "Goldman Sachs Group"
+        },
+        {
+            "value": "Softbank"
+        },
+        {
+            "value": "Postal Savings Bank Of China (PSBC)"
+        },
+        {
+            "value": "Tencent Holdings"
+        },
+        {
+            "value": "BNP Paribas"
+        },
+        {
+            "value": "Morgan Stanley"
+        },
+        {
+            "value": "China Mobile"
+        },
+        {
+            "value": "Facebook"
+        },
+        {
+            "value": "Johnson & Johnson"
+        },
+        {
+            "value": "Sony"
+        },
+        {
+            "value": "Intel"
+        },
+        {
+            "value": "CVS Health"
+        },
+        {
+            "value": "RBC"
+        },
+        {
+            "value": "Nestlé"
+        },
+        {
+            "value": "HSBC Holdings"
+        },
+        {
+            "value": "Daimler"
+        },
+        {
+            "value": "TD Bank Group"
+        },
+        {
+            "value": "Nippon Telegraph & Tel"
+        },
+        {
+            "value": "Deutsche Telekom"
+        },
+        {
+            "value": "General Electric"
+        },
+        {
+            "value": "Procter & Gamble"
+        },
+        {
+            "value": "General Motors"
+        },
+        {
+            "value": "Sinopec"
+        },
+        {
+            "value": "China Life Insurance"
+        },
+        {
+            "value": "Industrial Bank"
+        },
+        {
+            "value": "Sberbank"
+        },
+        {
+            "value": "Mitsubishi UFJ Financial"
+        },
+        {
+            "value": "Cigna"
+        },
+        {
+            "value": "AXA Group"
+        },
+        {
+            "value": "AIA Group"
+        },
+        {
+            "value": "Reliance Industries"
+        },
+        {
+            "value": "Bank of Communications"
+        },
+        {
+            "value": "Pfizer"
+        },
+        {
+            "value": "IBM"
+        },
+        {
+            "value": "Roche Holding"
+        },
+        {
+            "value": "BMW Group"
+        },
+        {
+            "value": "MetLife"
+        },
+        {
+            "value": "PetroChina"
+        },
+        {
+            "value": "LVMH Moët Hennessy Louis Vuitton"
+        },
+        {
+            "value": "Novartis"
+        },
+        {
+            "value": "Taiwan Semiconductor"
+        },
+        {
+            "value": "Home Depot"
+        },
+        {
+            "value": "Shanghai Pudong Development"
+        },
+        {
+            "value": "Siemens"
+        },
+        {
+            "value": "PepsiCo"
+        },
+        {
+            "value": "Oracle"
+        },
+        {
+            "value": "Sanofi"
+        },
+        {
+            "value": "Enel"
+        },
+        {
+            "value": "AbbVie"
+        },
+        {
+            "value": "Cisco Systems"
+        },
+        {
+            "value": "Zurich Insurance Group"
+        },
+        {
+            "value": "Bank of Nova Scotia"
+        },
+        {
+            "value": "Commonwealth Bank"
+        },
+        {
+            "value": "BHP Group"
+        },
+        {
+            "value": "UBS"
+        },
+        {
+            "value": "British American Tobacco"
+        },
+        {
+            "value": "Honda Motor"
+        },
+        {
+            "value": "Intesa Sanpaolo"
+        },
+        {
+            "value": "Merck & Co."
+        },
+        {
+            "value": "Sumitomo Mitsui Financial"
+        },
+        {
+            "value": "Rio Tinto"
+        },
+        {
+            "value": "Japan Post Holdings"
+        },
+        {
+            "value": "US Bancorp"
+        },
+        {
+            "value": "Anthem"
+        },
+        {
+            "value": "Charter Communications"
+        },
+        {
+            "value": "Unilever"
+        },
+        {
+            "value": "Dell Technologies"
+        },
+        {
+            "value": "Manulife"
+        },
+        {
+            "value": "Hon Hai Precision"
+        },
+        {
+            "value": "American Express"
+        },
+        {
+            "value": "China Vanke"
+        },
+        {
+            "value": "GlaxoSmithKline"
+        },
+        {
+            "value": "Truist Financial"
+        },
+        {
+            "value": "Rosneft"
+        },
+        {
+            "value": "China State Construction Engineering"
+        },
+        {
+            "value": "JD.com"
+        },
+        {
+            "value": "Coca-Cola"
+        },
+        {
+            "value": "Iberdrola"
+        },
+        {
+            "value": "CITIC"
+        },
+        {
+            "value": "Prudential"
+        },
+        {
+            "value": "KDDI"
+        },
+        {
+            "value": "Bank of Montreal"
+        },
+        {
+            "value": "Costco Wholesale"
+        },
+        {
+            "value": "Itaú Unibanco Holding"
+        },
+        {
+            "value": "State Bank of India"
+        },
+        {
+            "value": "Chubb"
+        },
+        {
+            "value": "Mitsubishi"
+        },
+        {
+            "value": "Vale"
+        },
+        {
+            "value": "Capital One"
+        },
+        {
+            "value": "PNC Financial Services"
+        },
+        {
+            "value": "HDFC Bank"
+        },
+        {
+            "value": "Credit Agricole"
+        },
+        {
+            "value": "Itochu"
+        },
+        {
+            "value": "FedEx"
+        },
+        {
+            "value": "Vodafone"
+        },
+        {
+            "value": "Abbott Laboratories"
+        },
+        {
+            "value": "Visa"
+        },
+        {
+            "value": "SAP"
+        },
+        {
+            "value": "Thermo Fisher Scientific"
+        },
+        {
+            "value": "China Pacific Insurance"
+        },
+        {
+            "value": "Lowe's"
+        },
+        {
+            "value": "BlackRock"
+        },
+        {
+            "value": "China Citic Bank"
+        },
+        {
+            "value": "Mizuho Financial"
+        },
+        {
+            "value": "Deutsche Post"
+        },
+        {
+            "value": "Medtronic"
+        },
+        {
+            "value": "Caterpillar"
+        },
+        {
+            "value": "Hitachi"
+        },
+        {
+            "value": "Lockheed Martin"
+        },
+        {
+            "value": "Generali Group"
+        },
+        {
+            "value": "Target"
+        },
+        {
+            "value": "Deere & Company"
+        },
+        {
+            "value": "Honeywell International"
+        },
+        {
+            "value": "SAIC Motor"
+        },
+        {
+            "value": "Country Garden Holdings"
+        },
+        {
+            "value": "ANZ"
+        },
+        {
+            "value": "Charles Schwab"
+        },
+        {
+            "value": "Barclays"
+        },
+        {
+            "value": "Broadcom"
+        },
+        {
+            "value": "Munich Re"
+        },
+        {
+            "value": "Enbridge"
+        },
+        {
+            "value": "ING Group"
+        },
+        {
+            "value": "China Minsheng Bank"
+        },
+        {
+            "value": "Linde"
+        },
+        {
+            "value": "Amgen"
+        },
+        {
+            "value": "Allstate"
+        },
+        {
+            "value": "PayPal"
+        },
+        {
+            "value": "Orange"
+        },
+        {
+            "value": "Banco Bradesco"
+        },
+        {
+            "value": "Hyundai Motor"
+        },
+        {
+            "value": "Danaher"
+        },
+        {
+            "value": "Westpac Banking Group"
+        },
+        {
+            "value": "L'Oréal"
+        },
+        {
+            "value": "Petrobras"
+        },
+        {
+            "value": "NextEra Energy"
+        },
+        {
+            "value": "AstraZeneca"
+        },
+        {
+            "value": "China Everbright Bank"
+        },
+        {
+            "value": "Salesforce.com"
+        },
+        {
+            "value": "Oversea-Chinese Banking"
+        },
+        {
+            "value": "Aviva"
+        },
+        {
+            "value": "United Parcel Service"
+        },
+        {
+            "value": "Progressive"
+        },
+        {
+            "value": "NAB - National Australia Bank"
+        },
+        {
+            "value": "Accenture"
+        },
+        {
+            "value": "Southern Company"
+        },
+        {
+            "value": "Canadian Imperial Bank"
+        },
+        {
+            "value": "China Shenhua Energy"
+        },
+        {
+            "value": "SK Hynix"
+        },
+        {
+            "value": "Philip Morris International"
+        },
+        {
+            "value": "VINCI"
+        },
+        {
+            "value": "Mondelez International"
+        },
+        {
+            "value": "Lloyds Banking Group"
+        },
+        {
+            "value": "Mitsui"
+        },
+        {
+            "value": "Union Pacific"
+        },
+        {
+            "value": "3M"
+        },
+        {
+            "value": "CK Hutchison"
+        },
+        {
+            "value": "ICICI Bank"
+        },
+        {
+            "value": "Midea Group"
+        },
+        {
+            "value": "Exelon"
+        },
+        {
+            "value": "Credit Suisse Group"
+        },
+        {
+            "value": "Eli Lilly"
+        },
+        {
+            "value": "CNOOC"
+        },
+        {
+            "value": "Legal & General Group"
+        },
+        {
+            "value": "Aflac"
+        },
+        {
+            "value": "China Resources Land"
+        },
+        {
+            "value": "BBVA-Banco Bilbao Vizcaya"
+        },
+        {
+            "value": "HCA Healthcare"
+        },
+        {
+            "value": "Duke Energy"
+        },
+        {
+            "value": "América Móvil"
+        },
+        {
+            "value": "Takeda Pharmaceutical"
+        },
+        {
+            "value": "DBS"
+        },
+        {
+            "value": "Bank of New York Mellon"
+        },
+        {
+            "value": "Longfor Group Holdings"
+        },
+        {
+            "value": "Schneider Electric"
+        },
+        {
+            "value": "Travelers"
+        },
+        {
+            "value": "McDonald's"
+        },
+        {
+            "value": "Poly Developments & Holdings Group"
+        },
+        {
+            "value": "Tokio Marine Holdings"
+        },
+        {
+            "value": "China Telecom"
+        },
+        {
+            "value": "Nike"
+        },
+        {
+            "value": "Qualcomm"
+        },
+        {
+            "value": "Centene"
+        },
+        {
+            "value": "Micron Technology"
+        },
+        {
+            "value": "Cathay Financial"
+        },
+        {
+            "value": "EDF"
+        },
+        {
+            "value": "Fubon Financial"
+        },
+        {
+            "value": "Sun Life Financial"
+        },
+        {
+            "value": "General Dynamics"
+        },
+        {
+            "value": "Møller-Maersk"
+        },
+        {
+            "value": "Volvo Group"
+        },
+        {
+            "value": "Altria Group"
+        },
+        {
+            "value": "Humana"
+        },
+        {
+            "value": "Anglo American"
+        },
+        {
+            "value": "Netflix"
+        },
+        {
+            "value": "HDFC"
+        },
+        {
+            "value": "Qatar National Bank"
+        },
+        {
+            "value": "Xiaomi"
+        },
+        {
+            "value": "Air Liquide"
+        },
+        {
+            "value": "Nordea Bank"
+        },
+        {
+            "value": "Northrop Grumman"
+        },
+        {
+            "value": "ABB"
+        },
+        {
+            "value": "China Evergrande Group"
+        },
+        {
+            "value": "Seven & I Holdings"
+        },
+        {
+            "value": "KB Financial Group"
+        },
+        {
+            "value": "Sunac China Holdings"
+        },
+        {
+            "value": "Kroger"
+        },
+        {
+            "value": "EMD Group"
+        },
+        {
+            "value": "E.ON"
+        },
+        {
+            "value": "PTT"
+        },
+        {
+            "value": "Telefónica"
+        },
+        {
+            "value": "National Grid"
+        },
+        {
+            "value": "HP"
+        },
+        {
+            "value": "Danone"
+        },
+        {
+            "value": "Panasonic"
+        },
+        {
+            "value": "Power Corp of Canada"
+        },
+        {
+            "value": "Mastercard"
+        },
+        {
+            "value": "Baidu"
+        },
+        {
+            "value": "PICC"
+        },
+        {
+            "value": "Fortum"
+        },
+        {
+            "value": "Fresenius"
+        },
+        {
+            "value": "Dow"
+        },
+        {
+            "value": "Archer Daniels Midland"
+        },
+        {
+            "value": "Shinhan Financial Group"
+        },
+        {
+            "value": "ASML Holding"
+        },
+        {
+            "value": "American Electric"
+        },
+        {
+            "value": "Becton Dickinson"
+        },
+        {
+            "value": "Gree Electric Appliances"
+        },
+        {
+            "value": "LafargeHolcim"
+        },
+        {
+            "value": "China Railway Group"
+        },
+        {
+            "value": "Automatic Data Processing"
+        },
+        {
+            "value": "NVIDIA"
+        },
+        {
+            "value": "KBC Group"
+        },
+        {
+            "value": "Royal Ahold Delhaize N.V."
+        },
+        {
+            "value": "Sun Hung Kai Properties"
+        },
+        {
+            "value": "Novo Nordisk"
+        },
+        {
+            "value": "Investor AB"
+        },
+        {
+            "value": "Tesla"
+        },
+        {
+            "value": "Huaxia Bank"
+        },
+        {
+            "value": "Kweichow Moutai"
+        },
+        {
+            "value": "Citic Securities"
+        },
+        {
+            "value": "KIA"
+        },
+        {
+            "value": "Japan Tobacco"
+        },
+        {
+            "value": "Dollar General"
+        },
+        {
+            "value": "Posco"
+        },
+        {
+            "value": "State Street"
+        },
+        {
+            "value": "Tesco"
+        },
+        {
+            "value": "Banco do Brasil"
+        },
+        {
+            "value": "Baoshan Iron & Steel"
+        },
+        {
+            "value": "Orix"
+        },
+        {
+            "value": "Fiserv"
+        },
+        {
+            "value": "China Unicom"
+        },
+        {
+            "value": "Wilmar International"
+        },
+        {
+            "value": "Sempra Energy"
+        },
+        {
+            "value": "LG Electronics"
+        },
+        {
+            "value": "NN Group"
+        },
+        {
+            "value": "Mitsubishi Electric"
+        },
+        {
+            "value": "Kering"
+        },
+        {
+            "value": "Diageo"
+        },
+        {
+            "value": "Reckitt Benckiser Group"
+        },
+        {
+            "value": "Bank of Beijing"
+        },
+        {
+            "value": "Poste Italiane"
+        },
+        {
+            "value": "ViacomCBS"
+        },
+        {
+            "value": "Nomura"
+        },
+        {
+            "value": "BT Group"
+        },
+        {
+            "value": "Henkel"
+        },
+        {
+            "value": "Dai-ichi Life Insurance"
+        },
+        {
+            "value": "Korea Electric Power"
+        },
+        {
+            "value": "Ericsson"
+        },
+        {
+            "value": "United Overseas Bank"
+        },
+        {
+            "value": "TC Energy"
+        },
+        {
+            "value": "Bank Of Shanghai"
+        },
+        {
+            "value": "Adobe"
+        },
+        {
+            "value": "Fannie Mae"
+        },
+        {
+            "value": "CNP Assurances"
+        },
+        {
+            "value": "Inditex"
+        },
+        {
+            "value": "Applied Materials"
+        },
+        {
+            "value": "BCE"
+        },
+        {
+            "value": "Couche Tard"
+        },
+        {
+            "value": "Saudi Telecom"
+        },
+        {
+            "value": "Bank of Ningbo"
+        },
+        {
+            "value": "CaixaBank"
+        },
+        {
+            "value": "Macquarie Group"
+        },
+        {
+            "value": "IntercontinentalExchange"
+        },
+        {
+            "value": "Surgutneftegas"
+        },
+        {
+            "value": "Deutsche Bank"
+        },
+        {
+            "value": "AT&T"
+        },
+        {
+            "value": "Tyson Foods"
+        },
+        {
+            "value": "Marsh & McLennan"
+        },
+        {
+            "value": "Ameriprise Financial"
+        },
+        {
+            "value": "First Abu Dhabi Bank"
+        },
+        {
+            "value": "Hartford Financial Services"
+        },
+        {
+            "value": "ExxonMobil"
+        },
+        {
+            "value": "Freddie Mac"
+        },
+        {
+            "value": "Vivendi"
+        },
+        {
+            "value": "The Saudi National Bank"
+        },
+        {
+            "value": "CRH"
+        },
+        {
+            "value": "Tata Consultancy Services"
+        },
+        {
+            "value": "Philips"
+        },
+        {
+            "value": "Royal Dutch Shell"
+        },
+        {
+            "value": "Stryker"
+        },
+        {
+            "value": "Etisalat"
+        },
+        {
+            "value": "Mitsui Fudosan"
+        },
+        {
+            "value": "Daiwa House Industry"
+        },
+        {
+            "value": "Shin-Etsu Chemical"
+        },
+        {
+            "value": "Daikin Industries"
+        },
+        {
+            "value": "CSX"
+        },
+        {
+            "value": "Lennar"
+        },
+        {
+            "value": "LyondellBasell Industries"
+        },
+        {
+            "value": "Swiss Life Holding"
+        },
+        {
+            "value": "Chevron"
+        },
+        {
+            "value": "General Mills"
+        },
+        {
+            "value": "Newmont Mining"
+        },
+        {
+            "value": "Barrick Gold"
+        },
+        {
+            "value": "China Railway Construction"
+        },
+        {
+            "value": "Haier Smart Home"
+        },
+        {
+            "value": "Anhui Conch Cement"
+        },
+        {
+            "value": "Discover Financial Services"
+        },
+        {
+            "value": "Texas Instruments"
+        },
+        {
+            "value": "DNB"
+        },
+        {
+            "value": "Total"
+        },
+        {
+            "value": "Nintendo"
+        },
+        {
+            "value": "Fortescue Metals Group"
+        },
+        {
+            "value": "China Yangtze Power"
+        },
+        {
+            "value": "Cardinal Health"
+        },
+        {
+            "value": "Canadian National Railway"
+        },
+        {
+            "value": "BP"
+        },
+        {
+            "value": "Walt Disney"
+        },
+        {
+            "value": "Hyundai Mobis"
+        },
+        {
+            "value": "Eaton"
+        },
+        {
+            "value": "Principal Financial Group"
+        },
+        {
+            "value": "New China Life Insurance"
+        },
+        {
+            "value": "Johnson Controls International"
+        },
+        {
+            "value": "Woolworths"
+        },
+        {
+            "value": "RWE Group"
+        },
+        {
+            "value": "Bank Of Jiangsu"
+        },
+        {
+            "value": "Santander"
+        },
+        {
+            "value": "Bank Rakyat Indonesia (BRI)"
+        },
+        {
+            "value": "Fujitsu"
+        },
+        {
+            "value": "Maybank"
+        },
+        {
+            "value": "Toyota Industries"
+        },
+        {
+            "value": "Larsen & Toubro"
+        },
+        {
+            "value": "Gazprom"
+        },
+        {
+            "value": "Norfolk Southern"
+        },
+        {
+            "value": "Synchrony Financial"
+        },
+        {
+            "value": "Keurig Dr Pepper"
+        },
+        {
+            "value": "L3Harris Technologies"
+        },
+        {
+            "value": "Greenland Holdings Group"
+        },
+        {
+            "value": "BAE Systems"
+        },
+        {
+            "value": "Waste Management"
+        },
+        {
+            "value": "Brookfield Asset Management"
+        },
+        {
+            "value": "Xcel Energy"
+        },
+        {
+            "value": "Anheuser-Busch InBev"
+        },
+        {
+            "value": "Raytheon Technologies"
+        },
+        {
+            "value": "Emerson Electric"
+        },
+        {
+            "value": "Al Rajhi Bank"
+        },
+        {
+            "value": "Boeing"
+        },
+        {
+            "value": "Sherwin-Williams"
+        },
+        {
+            "value": "VMware"
+        },
+        {
+            "value": "Ally Financial"
+        },
+        {
+            "value": "China Merchants Shekou Industrial Zone Holdings"
+        },
+        {
+            "value": "Imperial Brands"
+        },
+        {
+            "value": "American Tower"
+        },
+        {
+            "value": "Norilsk Nickel"
+        },
+        {
+            "value": "China National Building"
+        },
+        {
+            "value": "Samsung Life Insurance"
+        },
+        {
+            "value": "Emirates NBD"
+        },
+        {
+            "value": "Ford Motor"
+        },
+        {
+            "value": "Starbucks"
+        },
+        {
+            "value": "China Communications Construction"
+        },
+        {
+            "value": "CTBC Financial"
+        },
+        {
+            "value": "AIRBUS"
+        },
+        {
+            "value": "Telecom Italia"
+        },
+        {
+            "value": "Zijin Mining Group"
+        },
+        {
+            "value": "National Bank of Canada"
+        },
+        {
+            "value": "SEB AB"
+        },
+        {
+            "value": "Sompo"
+        },
+        {
+            "value": "Aon"
+        },
+        {
+            "value": "Weichai Power"
+        },
+        {
+            "value": "Carrier Global"
+        },
+        {
+            "value": "Saint-Gobain"
+        },
+        {
+            "value": "Murata Manufacturing"
+        },
+        {
+            "value": "Hengli Petrochemical"
+        },
+        {
+            "value": "Recruit Holdings"
+        },
+        {
+            "value": "Cosco Shipping"
+        },
+        {
+            "value": "Bristol Myers Squibb"
+        },
+        {
+            "value": "Danske Bank"
+        },
+        {
+            "value": "Cummins"
+        },
+        {
+            "value": "OMV Group"
+        },
+        {
+            "value": "Saudi Electricity"
+        },
+        {
+            "value": "Glencore International"
+        },
+        {
+            "value": "D.R. Horton"
+        },
+        {
+            "value": "Best Buy"
+        },
+        {
+            "value": "Prudential Financial"
+        },
+        {
+            "value": "Stellantis"
+        },
+        {
+            "value": "Suzuki Motor"
+        },
+        {
+            "value": "BASF"
+        },
+        {
+            "value": "Canon"
+        },
+        {
+            "value": "Fast Retailing"
+        },
+        {
+            "value": "Fifth Third Bank"
+        },
+        {
+            "value": "CME Group"
+        },
+        {
+            "value": "EnBW-Energie Baden"
+        },
+        {
+            "value": "Samsung C&T"
+        },
+        {
+            "value": "CRRC"
+        },
+        {
+            "value": "Bayer"
+        },
+        {
+            "value": "Toyota Tsusho"
+        },
+        {
+            "value": "Public Service Enterprise Group"
+        },
+        {
+            "value": "Phoenix Group Holdings"
+        },
+        {
+            "value": "Consolidated Edison"
+        },
+        {
+            "value": "Kimberly-Clark"
+        },
+        {
+            "value": "Wesfarmers"
+        },
+        {
+            "value": "Bank Central Asia"
+        },
+        {
+            "value": "Kraft Heinz Company"
+        },
+        {
+            "value": "Paccar"
+        },
+        {
+            "value": "American International Group"
+        },
+        {
+            "value": "Mitsubishi Estate"
+        },
+        {
+            "value": "Equinor"
+        },
+        {
+            "value": "DTE Energy"
+        },
+        {
+            "value": "Lenovo Group"
+        },
+        {
+            "value": "Fujifilm Holdings"
+        },
+        {
+            "value": "Colgate-Palmolive"
+        },
+        {
+            "value": "Hana Financial Group"
+        },
+        {
+            "value": "Kotak Mahindra Bank"
+        },
+        {
+            "value": "Telstra"
+        },
+        {
+            "value": "Biogen"
+        },
+        {
+            "value": "Talanx"
+        },
+        {
+            "value": "Carrefour"
+        },
+        {
+            "value": "Standard Chartered"
+        },
+        {
+            "value": "Svenska Handelsbanken"
+        },
+        {
+            "value": "Sumitomo Mitsui Trust"
+        },
+        {
+            "value": "DISH Network"
+        },
+        {
+            "value": "Meituan"
+        },
+        {
+            "value": "Walgreens"
+        },
+        {
+            "value": "BYD"
+        },
+        {
+            "value": "Fosun International"
+        },
+        {
+            "value": "ENGIE"
+        },
+        {
+            "value": "Eni"
+        },
+        {
+            "value": "Kubota"
+        },
+        {
+            "value": "Shimao Property Holdings"
+        },
+        {
+            "value": "CK Asset Holdings"
+        },
+        {
+            "value": "Bank of Nanjing"
+        },
+        {
+            "value": "Edp-energias De Portugal"
+        },
+        {
+            "value": "LukOil"
+        },
+        {
+            "value": "Sany Heavy Industry"
+        },
+        {
+            "value": "Grupo Mexico"
+        },
+        {
+            "value": "Michelin Group"
+        },
+        {
+            "value": "Komatsu"
+        },
+        {
+            "value": "NetEase"
+        },
+        {
+            "value": "Asahi Group Holdings"
+        },
+        {
+            "value": "SK Telecom"
+        },
+        {
+            "value": "Air Products & Chemicals"
+        },
+        {
+            "value": "Athene Holding"
+        },
+        {
+            "value": "eBay"
+        },
+        {
+            "value": "Freeport-McMoRan"
+        },
+        {
+            "value": "Power Construction Corporation of China"
+        },
+        {
+            "value": "LG Chem"
+        },
+        {
+            "value": "Saudi Basic Industries"
+        },
+        {
+            "value": "Bouygues"
+        },
+        {
+            "value": "Citizens Bank (Rhode IsIand)"
+        },
+        {
+            "value": "Capgemini"
+        },
+        {
+            "value": "Edison International"
+        },
+        {
+            "value": "Magna International"
+        },
+        {
+            "value": "Dollar Tree"
+        },
+        {
+            "value": "Telenor"
+        },
+        {
+            "value": "China Zheshang Bank"
+        },
+        {
+            "value": "Entergy"
+        },
+        {
+            "value": "Lam Research"
+        },
+        {
+            "value": "Infosys"
+        },
+        {
+            "value": "The Estée Lauder Companies"
+        },
+        {
+            "value": "China Tower Corp."
+        },
+        {
+            "value": "Corteva"
+        },
+        {
+            "value": "CSL"
+        },
+        {
+            "value": "Safran"
+        },
+        {
+            "value": "Banorte"
+        },
+        {
+            "value": "KeyCorp"
+        },
+        {
+            "value": "Lufax Holding"
+        }
     ]
 }

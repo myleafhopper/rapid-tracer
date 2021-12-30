@@ -1,13 +1,29 @@
 {
     "count": 7,
     "list": [
-        "Visa",
-        "MasterCard",
-        "Discover",
-        "Amex",
-        "Diners",
-        "EnRoute",
-        "JCB",
-        "Voyager"
+        {
+            "value": "Visa"
+        },
+        {
+            "value": "MasterCard"
+        },
+        {
+            "value": "Discover"
+        },
+        {
+            "value": "Amex"
+        },
+        {
+            "value": "Diners"
+        },
+        {
+            "value": "EnRoute"
+        },
+        {
+            "value": "JCB"
+        },
+        {
+            "value": "Voyager"
+        }
     ]
 }

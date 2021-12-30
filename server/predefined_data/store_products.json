@@ -1,163 +1,479 @@
 {
     "count": 157,
     "list": [
-        "Tropical Fruit",
-        "Whole Milk",
-        "Pip Fruit",
-        "Other Vegetables",
-        "Pot Plants",
-        "Citrus Fruit",
-        "Beef",
-        "Frankfurter",
-        "Chicken",
-        "Butter",
-        "Chocolate",
-        "Specialty Bar",
-        "Butter Milk",
-        "Bottled Water",
-        "Yogurt",
-        "Sausage",
-        "Brown Bread",
-        "Hamburger Meat",
-        "Root Vegetables",
-        "Pork",
-        "Pastry",
-        "Canned Beer",
-        "Berries",
-        "Coffee",
-        "Misc. Beverages",
-        "Ham",
-        "Turkey",
-        "Curd Cheese",
-        "Frozen Potato Products",
-        "Flour",
-        "Sugar",
-        "Frozen Meals",
-        "Herbs",
-        "Soda",
-        "Detergent",
-        "Grapes",
-        "Processed Cheese",
-        "Fish",
-        "Sparkling Wine",
-        "Newspapers",
-        "Curd",
-        "Pasta",
-        "Popcorn",
-        "Finished Products",
-        "Beverages",
-        "Bottled Beer",
-        "Dessert",
-        "Dog Food",
-        "Specialty Chocolate",
-        "Condensed Milk",
-        "Cleaner",
-        "White Wine",
-        "Meat",
-        "Ice Cream",
-        "Hard Cheese",
-        "Cream Cheese",
-        "Liquor",
-        "Pickled Vegetables",
-        "Liquor (appetizer)",
-        "UHT-milk",
-        "Candy",
-        "Onions",
-        "Hair Spray",
-        "Domestic Eggs",
-        "Margarine",
-        "Shopping Bags",
-        "Salt",
-        "Oil",
-        "Frozen Vegetables",
-        "Sliced Cheese",
-        "Dish Cleaner",
-        "Baking Powder",
-        "Specialty Cheese",
-        "Salty Snack",
-        "Instant Food Products",
-        "Pet Care",
-        "White Bread",
-        "Female Sanitary Products",
-        "Soap",
-        "Frozen Chicken",
-        "House Keeping Products",
-        "Spread Cheese",
-        "Decalcifier",
-        "Frozen Dessert",
-        "Vinegar",
-        "Potato Products",
-        "Frozen Fish",
-        "Hygiene Articles",
-        "Artif. Sweetener",
-        "Light Bulbs",
-        "Canned Vegetables",
-        "Chewing Gum",
-        "Canned Fish",
-        "Cookware",
-        "Semi-finished Bread",
-        "Cat Food",
-        "Bathroom Cleaner",
-        "Prosecco",
-        "Liver Loaf",
-        "Zwieback",
-        "Canned Fruit",
-        "Frozen Fruits",
-        "Brandy",
-        "Baby Cosmetics",
-        "Spices",
-        "Napkins",
-        "Waffles",
-        "Sauces",
-        "Rum",
-        "Chocolate Marshmallow",
-        "Long Life Bakery Product",
-        "Bags",
-        "Sweet Spreads",
-        "Soups",
-        "Mustard",
-        "Specialty Fat",
-        "Instant Coffee",
-        "Snack Products",
-        "Organic Sausage",
-        "Soft Cheese",
-        "Mayonnaise",
-        "Dental Care",
-        "Roll Products",
-        "Kitchen Towels",
-        "Cereals",
-        "Meat Spreads",
-        "Dishes",
-        "Male Cosmetics",
-        "Candles",
-        "Whisky",
-        "Tidbits",
-        "Cooking Chocolate",
-        "Seasonal Products",
-        "Liqueur",
-        "Abrasive Cleaner",
-        "Syrup",
-        "Ketchup",
-        "Cream",
-        "Skin Care",
-        "Rubbing Alcohol",
-        "Nut Snack",
-        "Cocoa Drinks",
-        "Softener",
-        "Organic Products",
-        "Cake Bar",
-        "Honey",
-        "Jam",
-        "Kitchen Utensil",
-        "Flower (seeds)",
-        "Rice",
-        "Tea",
-        "Salad Dressing",
-        "Specialty Vegetables",
-        "Pudding Powder",
-        "Ready Soups",
-        "Make Up Remover",
-        "Toilet Cleaner",
-        "Preservation Products"
+        {
+            "value": "Tropical Fruit"
+        },
+        {
+            "value": "Whole Milk"
+        },
+        {
+            "value": "Pip Fruit"
+        },
+        {
+            "value": "Other Vegetables"
+        },
+        {
+            "value": "Pot Plants"
+        },
+        {
+            "value": "Citrus Fruit"
+        },
+        {
+            "value": "Beef"
+        },
+        {
+            "value": "Frankfurter"
+        },
+        {
+            "value": "Chicken"
+        },
+        {
+            "value": "Butter"
+        },
+        {
+            "value": "Chocolate"
+        },
+        {
+            "value": "Specialty Bar"
+        },
+        {
+            "value": "Butter Milk"
+        },
+        {
+            "value": "Bottled Water"
+        },
+        {
+            "value": "Yogurt"
+        },
+        {
+            "value": "Sausage"
+        },
+        {
+            "value": "Brown Bread"
+        },
+        {
+            "value": "Hamburger Meat"
+        },
+        {
+            "value": "Root Vegetables"
+        },
+        {
+            "value": "Pork"
+        },
+        {
+            "value": "Pastry"
+        },
+        {
+            "value": "Canned Beer"
+        },
+        {
+            "value": "Berries"
+        },
+        {
+            "value": "Coffee"
+        },
+        {
+            "value": "Misc. Beverages"
+        },
+        {
+            "value": "Ham"
+        },
+        {
+            "value": "Turkey"
+        },
+        {
+            "value": "Curd Cheese"
+        },
+        {
+            "value": "Frozen Potato Products"
+        },
+        {
+            "value": "Flour"
+        },
+        {
+            "value": "Sugar"
+        },
+        {
+            "value": "Frozen Meals"
+        },
+        {
+            "value": "Herbs"
+        },
+        {
+            "value": "Soda"
+        },
+        {
+            "value": "Detergent"
+        },
+        {
+            "value": "Grapes"
+        },
+        {
+            "value": "Processed Cheese"
+        },
+        {
+            "value": "Fish"
+        },
+        {
+            "value": "Sparkling Wine"
+        },
+        {
+            "value": "Newspapers"
+        },
+        {
+            "value": "Curd"
+        },
+        {
+            "value": "Pasta"
+        },
+        {
+            "value": "Popcorn"
+        },
+        {
+            "value": "Finished Products"
+        },
+        {
+            "value": "Beverages"
+        },
+        {
+            "value": "Bottled Beer"
+        },
+        {
+            "value": "Dessert"
+        },
+        {
+            "value": "Dog Food"
+        },
+        {
+            "value": "Specialty Chocolate"
+        },
+        {
+            "value": "Condensed Milk"
+        },
+        {
+            "value": "Cleaner"
+        },
+        {
+            "value": "White Wine"
+        },
+        {
+            "value": "Meat"
+        },
+        {
+            "value": "Ice Cream"
+        },
+        {
+            "value": "Hard Cheese"
+        },
+        {
+            "value": "Cream Cheese"
+        },
+        {
+            "value": "Liquor"
+        },
+        {
+            "value": "Pickled Vegetables"
+        },
+        {
+            "value": "Liquor (appetizer)"
+        },
+        {
+            "value": "UHT-milk"
+        },
+        {
+            "value": "Candy"
+        },
+        {
+            "value": "Onions"
+        },
+        {
+            "value": "Hair Spray"
+        },
+        {
+            "value": "Domestic Eggs"
+        },
+        {
+            "value": "Margarine"
+        },
+        {
+            "value": "Shopping Bags"
+        },
+        {
+            "value": "Salt"
+        },
+        {
+            "value": "Oil"
+        },
+        {
+            "value": "Frozen Vegetables"
+        },
+        {
+            "value": "Sliced Cheese"
+        },
+        {
+            "value": "Dish Cleaner"
+        },
+        {
+            "value": "Baking Powder"
+        },
+        {
+            "value": "Specialty Cheese"
+        },
+        {
+            "value": "Salty Snack"
+        },
+        {
+            "value": "Instant Food Products"
+        },
+        {
+            "value": "Pet Care"
+        },
+        {
+            "value": "White Bread"
+        },
+        {
+            "value": "Female Sanitary Products"
+        },
+        {
+            "value": "Soap"
+        },
+        {
+            "value": "Frozen Chicken"
+        },
+        {
+            "value": "House Keeping Products"
+        },
+        {
+            "value": "Spread Cheese"
+        },
+        {
+            "value": "Decalcifier"
+        },
+        {
+            "value": "Frozen Dessert"
+        },
+        {
+            "value": "Vinegar"
+        },
+        {
+            "value": "Potato Products"
+        },
+        {
+            "value": "Frozen Fish"
+        },
+        {
+            "value": "Hygiene Articles"
+        },
+        {
+            "value": "Artif. Sweetener"
+        },
+        {
+            "value": "Light Bulbs"
+        },
+        {
+            "value": "Canned Vegetables"
+        },
+        {
+            "value": "Chewing Gum"
+        },
+        {
+            "value": "Canned Fish"
+        },
+        {
+            "value": "Cookware"
+        },
+        {
+            "value": "Semi-finished Bread"
+        },
+        {
+            "value": "Cat Food"
+        },
+        {
+            "value": "Bathroom Cleaner"
+        },
+        {
+            "value": "Prosecco"
+        },
+        {
+            "value": "Liver Loaf"
+        },
+        {
+            "value": "Zwieback"
+        },
+        {
+            "value": "Canned Fruit"
+        },
+        {
+            "value": "Frozen Fruits"
+        },
+        {
+            "value": "Brandy"
+        },
+        {
+            "value": "Baby Cosmetics"
+        },
+        {
+            "value": "Spices"
+        },
+        {
+            "value": "Napkins"
+        },
+        {
+            "value": "Waffles"
+        },
+        {
+            "value": "Sauces"
+        },
+        {
+            "value": "Rum"
+        },
+        {
+            "value": "Chocolate Marshmallow"
+        },
+        {
+            "value": "Long Life Bakery Product"
+        },
+        {
+            "value": "Bags"
+        },
+        {
+            "value": "Sweet Spreads"
+        },
+        {
+            "value": "Soups"
+        },
+        {
+            "value": "Mustard"
+        },
+        {
+            "value": "Specialty Fat"
+        },
+        {
+            "value": "Instant Coffee"
+        },
+        {
+            "value": "Snack Products"
+        },
+        {
+            "value": "Organic Sausage"
+        },
+        {
+            "value": "Soft Cheese"
+        },
+        {
+            "value": "Mayonnaise"
+        },
+        {
+            "value": "Dental Care"
+        },
+        {
+            "value": "Roll Products"
+        },
+        {
+            "value": "Kitchen Towels"
+        },
+        {
+            "value": "Cereals"
+        },
+        {
+            "value": "Meat Spreads"
+        },
+        {
+            "value": "Dishes"
+        },
+        {
+            "value": "Male Cosmetics"
+        },
+        {
+            "value": "Candles"
+        },
+        {
+            "value": "Whisky"
+        },
+        {
+            "value": "Tidbits"
+        },
+        {
+            "value": "Cooking Chocolate"
+        },
+        {
+            "value": "Seasonal Products"
+        },
+        {
+            "value": "Liqueur"
+        },
+        {
+            "value": "Abrasive Cleaner"
+        },
+        {
+            "value": "Syrup"
+        },
+        {
+            "value": "Ketchup"
+        },
+        {
+            "value": "Cream"
+        },
+        {
+            "value": "Skin Care"
+        },
+        {
+            "value": "Rubbing Alcohol"
+        },
+        {
+            "value": "Nut Snack"
+        },
+        {
+            "value": "Cocoa Drinks"
+        },
+        {
+            "value": "Softener"
+        },
+        {
+            "value": "Organic Products"
+        },
+        {
+            "value": "Cake Bar"
+        },
+        {
+            "value": "Honey"
+        },
+        {
+            "value": "Jam"
+        },
+        {
+            "value": "Kitchen Utensil"
+        },
+        {
+            "value": "Flower (seeds)"
+        },
+        {
+            "value": "Rice"
+        },
+        {
+            "value": "Tea"
+        },
+        {
+            "value": "Salad Dressing"
+        },
+        {
+            "value": "Specialty Vegetables"
+        },
+        {
+            "value": "Pudding Powder"
+        },
+        {
+            "value": "Ready Soups"
+        },
+        {
+            "value": "Make Up Remover"
+        },
+        {
+            "value": "Toilet Cleaner"
+        },
+        {
+            "value": "Preservation Products"
+        }
     ]
 }

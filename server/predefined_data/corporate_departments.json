@@ -1,13 +1,29 @@
 {
     "count": 7,
     "list": [
-        "Sales",
-        "Marketing",
-        "Finance and Accounting",
-        "Customer Service",
-        "Human Resources",
-        "Research and Development",
-        "Production",
-        "Distribution"
+        {
+            "value": "Sales"
+        },
+        {
+            "value": "Marketing"
+        },
+        {
+            "value": "Finance and Accounting"
+        },
+        {
+            "value": "Customer Service"
+        },
+        {
+            "value": "Human Resources"
+        },
+        {
+            "value": "Research and Development"
+        },
+        {
+            "value": "Production"
+        },
+        {
+            "value": "Distribution"
+        }
     ]
 }

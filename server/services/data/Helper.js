@@ -40,9 +40,10 @@ const getPredefinedData = () => {
     const fileManager = new (require('../../core/system/FileManager'));
 
     for (const key in configuration) {
-        if (configuration[key].file !== null) {
+        if (configuration[key].file !== null &&
+            !predefinedData.hasOwnProperty(configuration[key].file)) {
             const filePath = `server/predefined_data/${configuration[key].file}`;
-            predefinedData[key] = fileManager.readJsonFile(filePath);
+            predefinedData[configuration[key].file] = fileManager.readJsonFile(filePath);
         }
     }
 };
@@ -91,24 +92,30 @@ const getDataValues = () => {
 
 const setPredefinedDataValue = (data, column) => {
 
-    const index = getRandomNumber(0, predefinedData[column.dataName].count);
+    const file = configuration[column.dataName].file;
+    const keys = configuration[column.dataName].keys;
+    const index = getRandomNumber(0, predefinedData[file].count);
+    const row = predefinedData[file].list[index];
 
-    if (configuration[column.dataName].keys !== null) {
-
-        const randomDataRow = predefinedData[column.dataName].list[index];
-
-        for (const dataName in configuration[column.dataName].keys) {
-            data[dataName] = randomDataRow[configuration[column.dataName].keys[dataName]];
+    for (const dataName in keys) {
+        if (!data.hasOwnProperty(dataName)) {
+            data[dataName] = row[keys[dataName]];
         }
-
-    } else if (!data.hasOwnProperty(column.dataName)) {
-        data[column.dataName] = predefinedData[column.dataName].list[index];
     }
 }
 
 const setCustomDataValue = (data, column) => {
 
-    if (column.dataName === 'Number') {
+    if (column.dataName === 'App Version') {
+
+        data[column.dataName] = getRandomNumber(1, 9) + '.' +
+        getRandomNumber(1, 20) + '.' + getRandomNumber(1, 200);
+
+    } else if (column.dataName === 'Boolean') {
+
+        data[column.dataName] = getRandomValueFromList([false, true]);
+
+    } else if (column.dataName === 'Number') {
 
         data[column.dataName] = getRandomNumber(
             column.settings.minimum,
@@ -119,6 +126,10 @@ const setCustomDataValue = (data, column) => {
 
         data[column.dataName] = getRandomString(column.settings);
     }
+};
+
+const getRandomValueFromList = (list) => {
+    return list[getRandomNumber(0, list.length - 1)];
 };
 
 const getRandomNumber = (minimum, maximum) => {

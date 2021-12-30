@@ -1,10 +1,20 @@
 {
     "count": 4,
     "list": [
-        "American Indian or Alaska Native",
-        "Asian",
-        "Black or African American",
-        "Native Hawaiian or Other Pacific Islander",
-        "White"
+        {
+            "value": "American Indian or Alaska Native"
+        },
+        {
+            "value": "Asian"
+        },
+        {
+            "value": "Black or African American"
+        },
+        {
+            "value": "Native Hawaiian or Other Pacific Islander"
+        },
+        {
+            "value": "White"
+        }
     ]
 }

@@ -1,20 +1,50 @@
 {
     "count": 14,
     "list": [
-        "II",
-        "III",
-        "IV",
-        "CPA",
-        "DDS",
-        "Esq",
-        "JD",
-        "Jr",
-        "LLD",
-        "MD",
-        "PhD",
-        "Ret",
-        "RN",
-        "Sr",
-        "DO"
+        {
+            "value": "II"
+        },
+        {
+            "value": "III"
+        },
+        {
+            "value": "IV"
+        },
+        {
+            "value": "CPA"
+        },
+        {
+            "value": "DDS"
+        },
+        {
+            "value": "Esq"
+        },
+        {
+            "value": "JD"
+        },
+        {
+            "value": "Jr"
+        },
+        {
+            "value": "LLD"
+        },
+        {
+            "value": "MD"
+        },
+        {
+            "value": "PhD"
+        },
+        {
+            "value": "Ret"
+        },
+        {
+            "value": "RN"
+        },
+        {
+            "value": "Sr"
+        },
+        {
+            "value": "DO"
+        }
     ]
 }

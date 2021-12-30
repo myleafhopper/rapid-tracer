@@ -1,1191 +1,3563 @@
 {
     "count": 1185,
     "list": [
-        "Able Seamen",
-        "Account Manager",
-        "Accountant",
-        "Actor",
-        "Actuary",
-        "Adjustment Clerk",
-        "Admin",
-        "Administrative Law Judge",
-        "Administrative Services Manager",
-        "Administrative Support Supervisors",
-        "Advertising Manager OR Promotions Manager",
-        "Advertising Sales Agent",
-        "Aerospace Engineer",
-        "Agricultural Crop Farm Manager",
-        "Agricultural Crop Worker",
-        "Agricultural Engineer",
-        "Agricultural Equipment Operator",
-        "Agricultural Inspector",
-        "Agricultural Manager",
-        "Agricultural Product Grader Sorter",
-        "Agricultural Sales Representative",
-        "Agricultural Science Technician",
-        "Agricultural Sciences Teacher",
-        "Agricultural Technician",
-        "Agricultural Worker",
-        "Air Crew Member",
-        "Air Crew Officer",
-        "Air Traffic Controller",
-        "Aircraft Assembler",
-        "Aircraft Body Repairer",
-        "Aircraft Cargo Handling Supervisor",
-        "Aircraft Engine Specialist",
-        "Aircraft Launch and Recovery Officer",
-        "Aircraft Launch Specialist",
-        "Aircraft Mechanics OR Aircraft Service Technician",
-        "Aircraft Rigging Assembler",
-        "Aircraft Structure Assemblers",
-        "Airfield Operations Specialist",
-        "Airframe Mechanic",
-        "Airline Pilot OR Copilot OR Flight Engineer",
-        "Algorithm Developer",
-        "Alteration Tailor",
-        "Ambulance Driver",
-        "Amusement Attendant",
-        "Anesthesiologist",
-        "Animal Breeder",
-        "Animal Care Workers",
-        "Animal Control Worker",
-        "Animal Husbandry Worker",
-        "Animal Scientist",
-        "Animal Trainer",
-        "Annealing Machine Operator",
-        "Announcer",
-        "Answering Service",
-        "Anthropologist",
-        "Anthropologist OR Archeologist",
-        "Anthropology Teacher",
-        "Appliance Repairer",
-        "Arbitrator",
-        "Archeologist",
-        "Architect",
-        "Architectural Drafter",
-        "Architectural Drafter OR Civil Drafter",
-        "Architecture Teacher",
-        "Archivist",
-        "Armored Assault Vehicle Crew Member",
-        "Armored Assault Vehicle Officer",
-        "Art Director",
-        "Art Teacher",
-        "Artillery Officer",
-        "Artillery Crew Member",
-        "Artist",
-        "Assembler",
-        "Assessor",
-        "Astronomer",
-        "Athletes and Sports Competitor",
-        "Athletic Trainer",
-        "Atmospheric and Space Scientist",
-        "Audio and Video Equipment Technician",
-        "Audiologist",
-        "Audio-Visual Collections Specialist",
-        "Auditor",
-        "Auditor",
-        "Automatic Teller Machine Servicer",
-        "Automotive Body Repairer",
-        "Automotive Glass Installers",
-        "Automotive Master Mechanic",
-        "Automotive Mechanic",
-        "Automotive Specialty Technician",
-        "Automotive Technician",
-        "Auxiliary Equipment Operator",
-        "Aviation Inspector",
-        "Avionics Technician",
-        "Bailiff",
-        "Baker",
-        "Barber",
-        "Bartender",
-        "Bartender Helper",
-        "Battery Repairer",
-        "Bellhop",
-        "Bench Jeweler",
-        "Benefits Specialist",
-        "Bicycle Repairer",
-        "Bill and Account Collector",
-        "Bindery Machine Operator",
-        "Bindery Worker",
-        "Biochemist",
-        "Biochemist or Biophysicist",
-        "Biological Science Teacher",
-        "Biological Scientist",
-        "Biological Technician",
-        "Biologist",
-        "Biomedical Engineer",
-        "Biophysicist",
-        "Board Of Directors",
-        "Boat Builder and Shipwright",
-        "Boiler Operator",
-        "Boilermaker",
-        "Bookbinder",
-        "Bookkeeper",
-        "Brake Machine Setter",
-        "Brattice Builder",
-        "Brazer",
-        "Brazing Machine Operator",
-        "Brickmason",
-        "Bridge Tender OR Lock Tender",
-        "Broadcast News Analyst",
-        "Broadcast Technician",
-        "Brokerage Clerk",
-        "Budget Analyst",
-        "Buffing and Polishing Operator",
-        "Building Cleaning Worker",
-        "Building Inspector",
-        "Bulldozer Operator",
-        "Bus Driver",
-        "Business Development Manager",
-        "Business Manager",
-        "Business Operations Specialist",
-        "Business Teacher",
-        "Butcher",
-        "Buyer",
-        "Cabinetmaker",
-        "Cafeteria Cook",
-        "Calibration Technician OR Instrumentation Technician",
-        "Camera Operator",
-        "Camera Repairer",
-        "Captain",
-        "Caption Writer",
-        "Cardiovascular Technologist",
-        "Career Counselor",
-        "Carpenter",
-        "Carpenter Assembler and Repairer",
-        "Carpet Installer",
-        "Cartographer",
-        "Cartoonist",
-        "Carver",
-        "Cashier",
-        "Casting Machine Operator",
-        "Casting Machine Set-Up Operator",
-        "ccc",
-        "Ceiling Tile Installer",
-        "Cement Mason and Concrete Finisher",
-        "Central Office",
-        "Central Office and PBX Installers",
-        "Central Office Operator",
-        "CEO",
-        "CFO",
-        "Chef",
-        "Chemical Engineer",
-        "Chemical Equipment Controller",
-        "Chemical Equipment Operator",
-        "Chemical Equipment Tender",
-        "Chemical Plant Operator",
-        "Chemical Technician",
-        "Chemist",
-        "Chemistry Teacher",
-        "Child Care",
-        "Child Care Worker",
-        "Chiropractor",
-        "Choreographer",
-        "City",
-        "City Planning Aide",
-        "Civil Drafter",
-        "Civil Engineer",
-        "Civil Engineering Technician",
-        "Claims Adjuster",
-        "Claims Examiner",
-        "Claims Taker",
-        "Cleaners of Vehicles",
-        "Clergy",
-        "Clerk",
-        "Clinical Laboratory Technician",
-        "Clinical Psychologist",
-        "Clinical School Psychologist",
-        "Coaches and Scout",
-        "Coating Machine Operator",
-        "Coil Winders",
-        "Command Control Center Officer",
-        "Command Control Center Specialist",
-        "Commercial and Industrial Designer",
-        "Commercial Diver",
-        "Commercial Pilot",
-        "Communication Equipment Repairer",
-        "Communication Equipment Worker",
-        "Communications Equipment Operator",
-        "Communications Teacher",
-        "Community Service Manager",
-        "Compacting Machine Operator",
-        "Compensation and Benefits Manager",
-        "Compliance Officers",
-        "Composer",
-        "Computer",
-        "Computer Hardware Engineer",
-        "Computer Operator",
-        "Computer Programmer",
-        "Computer Repairer",
-        "Computer Science Teacher",
-        "Computer Scientist",
-        "Computer Security Specialist",
-        "Computer Software Engineer",
-        "Computer Specialist",
-        "Computer Support Specialist",
-        "Computer Systems Analyst",
-        "Computer-Controlled Machine Tool Operator",
-        "Concierge",
-        "Conservation Scientist",
-        "Construction",
-        "Construction Carpenter",
-        "Construction Driller",
-        "Construction Equipment Operator",
-        "Construction Laborer",
-        "Construction Manager",
-        "Continuous Mining Machine Operator",
-        "Control Valve Installer",
-        "Conveyor Operator",
-        "Cook",
-        "Cooling and Freezing Equipment Operator",
-        "Copy Machine Operator",
-        "Copy Writer",
-        "Coremaking Machine Operator",
-        "Coroner",
-        "Corporate Trainer",
-        "Correctional Officer",
-        "Correspondence Clerk",
-        "Cost Estimator",
-        "Costume Attendant",
-        "Counseling Psychologist",
-        "Counselor",
-        "Counsil",
-        "Courier",
-        "Court Clerk",
-        "Court Reporter",
-        "Craft Artist",
-        "Crane and Tower Operator",
-        "Creative Writer",
-        "Credit Checkers Clerk",
-        "Credit Analyst",
-        "Credit Authorizer",
-        "Credit Checker",
-        "Criminal Investigator",
-        "Crossing Guard",
-        "Crushing Grinding Machine Operator",
-        "CSI",
-        "CTO",
-        "Cultural Studies Teacher",
-        "Curator",
-        "Custom Tailor",
-        "Customer Service Representative",
-        "Cutting Machine Operator",
-        "Cutting Machine Operator",
-        "Dancer",
-        "Data Entry Operator",
-        "Data Processing Equipment Repairer",
-        "Database Administrator",
-        "Database Manager",
-        "Deburring Machine Operator",
-        "Decorator",
-        "Dental Assistant",
-        "Dental Hygienist",
-        "Dental Laboratory Technician",
-        "Dentist",
-        "Designer",
-        "Desktop Publisher",
-        "Detective",
-        "Diagnostic Medical Sonographer",
-        "Diamond Worker",
-        "Diesel Engine Specialist",
-        "Dietetic Technician",
-        "Director Of Business Development",
-        "Director Of Marketing",
-        "Director Of Social Media Marketing",
-        "Director Of Talent Acquisition",
-        "Director Religious Activities",
-        "Directory Assistance Operator",
-        "Dishwasher",
-        "Dispatcher",
-        "Distribution Manager",
-        "Door To Door Sales",
-        "Dot Etcher",
-        "Drafter",
-        "Dragline Operator",
-        "Dredge Operator",
-        "Drilling and Boring Machine Tool Setter",
-        "Driver-Sales Worker",
-        "Drycleaning Machine Operator",
-        "Drywall Ceiling Tile Installer",
-        "Drywall Installer",
-        "Earth Driller",
-        "Economics Teacher",
-        "Economist",
-        "Editor",
-        "Education Administrator",
-        "Education Teacher",
-        "Educational Counselor OR Vocationall Counselor",
-        "Educational Psychologist",
-        "Electric Meter Installer",
-        "Electric Motor Repairer",
-        "Electrical and Electronic Inspector and Tester",
-        "Electrical and Electronics Drafter",
-        "Electrical Drafter",
-        "Electrical Engineer",
-        "Electrical Engineering Technician",
-        "Electrical Parts Reconditioner",
-        "Electrical Power-Line Installer",
-        "Electrical Sales Representative",
-        "Electrician",
-        "Electrician",
-        "Electrolytic Plating Machine Operator",
-        "Electromechanical Equipment Assembler",
-        "Electro-Mechanical Technician",
-        "Electronic Drafter",
-        "Electronic Engineering Technician",
-        "Electronic Equipment Assembler",
-        "Electronic Masking System Operator",
-        "Electronics Engineer",
-        "Electronics Engineering Technician",
-        "Electrotyper",
-        "Elementary and Secondary School Administrators",
-        "Elementary School Teacher",
-        "Elevator Installer and Repairer",
-        "Eligibility Interviewer",
-        "Embalmer",
-        "Embossing Machine Operator",
-        "Emergency Management Specialist",
-        "Emergency Medical Technician and Paramedic",
-        "Employment Interviewer",
-        "Engine Assembler",
-        "Engineer",
-        "Engineering",
-        "Engineering Manager",
-        "Engineering Teacher",
-        "Engineering Technician",
-        "English Language Teacher",
-        "Engraver",
-        "Entertainer and Performer",
-        "Entertainment Attendant",
-        "Environmental Compliance Inspector",
-        "Environmental Engineer",
-        "Environmental Engineering Technician",
-        "Environmental Science Teacher",
-        "Environmental Science Technician",
-        "Environmental Scientist",
-        "Epidemiologist",
-        "Equal Opportunity Representative",
-        "Etcher",
-        "Etcher and Engraver",
-        "Event Planner",
-        "Excavating Machine Operator",
-        "Executive Secretary",
-        "Exhibit Designer",
-        "Explosives Expert",
-        "Extraction Worker",
-        "Extruding and Drawing Machine Operator",
-        "Extruding Machine Operator",
-        "Fabric Mender",
-        "Fabric Pressers",
-        "Farm and Home Management Advisor",
-        "Farm Equipment Mechanic",
-        "Farm Labor Contractor",
-        "Farmer",
-        "Farmworker",
-        "Fashion Designer",
-        "Fashion Model",
-        "Fast Food Cook",
-        "Fence Erector",
-        "Fiber Product Cutting Machine Operator",
-        "Fiberglass Laminator and Fabricator",
-        "File Clerk",
-        "Film Laboratory Technician",
-        "Financial Analyst",
-        "Financial Examiner",
-        "Financial Manager",
-        "Financial Services Sales Agent",
-        "Financial Specialist",
-        "Fire Fighter",
-        "Fire Inspector",
-        "Fire Investigator",
-        "Fire-Prevention Engineer",
-        "First-Line Supervisor-Manager of Landscaping, Lawn Service, and Groundskeeping Worker",
-        "Fish Game Warden",
-        "Fish Hatchery Manager",
-        "Fishery Worker",
-        "Fishing OR Forestry Supervisor",
-        "Fitness Trainer",
-        "Fitter",
-        "Flight Attendant",
-        "Floor Finisher",
-        "Floor Layer",
-        "Floral Designer",
-        "Food Batchmaker",
-        "Food Cooking Machine Operators",
-        "Food Preparation",
-        "Food Preparation and Serving Worker",
-        "Food Preparation Worker",
-        "Food Science Technician",
-        "Food Scientists and Technologist",
-        "Food Servers",
-        "Food Service Manager",
-        "Food Tobacco Roasting",
-        "Foreign Language Teacher",
-        "Forensic Investigator",
-        "Forensic Science Technician",
-        "Forest and Conservation Technician",
-        "Forest and Conservation Worker",
-        "Forest Fire Fighter",
-        "Forest Fire Fighting Supervisor",
-        "Forest Fire Inspector",
-        "Forester",
-        "Forestry Conservation Science Teacher",
-        "Forging Machine Setter",
-        "Forming Machine Operator",
-        "Forming Machine Operator",
-        "Foundry Mold and Coremaker",
-        "Fraud Investigator",
-        "Freight Agent",
-        "Freight and Material Mover",
-        "Freight Inspector",
-        "Funeral Attendant",
-        "Funeral Director",
-        "Furnace Operator",
-        "Furniture Finisher",
-        "Gaming Cage Worker",
-        "Gaming Dealer",
-        "Gaming Manager",
-        "Gaming Service Worker",
-        "Gaming Supervisor",
-        "Gaming Surveillance Officer",
-        "Garment",
-        "Gas Appliance Repairer",
-        "Gas Compressor Operator",
-        "Gas Distribution Plant Operator",
-        "Gas Plant Operator",
-        "Gas Processing Plant Operator",
-        "Gas Pumping Station Operator",
-        "Gas Pumping Station Operator",
-        "Gauger",
-        "GED Teacher",
-        "General Farmworker",
-        "General Manager",
-        "General Practitioner",
-        "Geographer",
-        "Geography Teacher",
-        "Geological Data Technician",
-        "Geological Sample Test Technician",
-        "Geologist",
-        "Geoscientists",
-        "Glass Blower",
-        "Glass Cutting Machine Operator",
-        "Glazier",
-        "Gluing Machine Operator",
-        "Government",
-        "Government Property Inspector",
-        "Government Service Executive",
-        "Graduate Teaching Assistant",
-        "Graphic Designer",
-        "Grinder OR Polisher",
-        "Grinding Machine Operator",
-        "Grips",
-        "Grounds Maintenance Worker",
-        "Hairdresser OR Cosmetologist",
-        "Hand Trimmer",
-        "Hand Presser",
-        "Hand Sewer",
-        "Hazardous Materials Removal Worker",
-        "Head Nurse",
-        "Health Educator",
-        "Health Practitioner",
-        "Health Services Manager",
-        "Health Specialties Teacher",
-        "Health Technologist",
-        "Healthcare",
-        "Healthcare Practitioner",
-        "Healthcare Support Worker",
-        "Heat Treating Equipment Operator",
-        "Heaters",
-        "Heating and Air Conditioning Mechanic",
-        "Heating Equipment Operator",
-        "Heavy Equipment Mechanic",
-        "Highway Maintenance Worker",
-        "Highway Patrol Pilot",
-        "Historian",
-        "History Teacher",
-        "Hoist and Winch Operator",
-        "Home",
-        "Home Appliance Installer",
-        "Home Appliance Repairer",
-        "Home Economics Teacher",
-        "Home Entertainment Equipment Installer",
-        "Home Health Aide",
-        "Homeland Security",
-        "Horticultural Worker",
-        "Host and Hostess",
-        "Hotel Desk Clerk",
-        "House Cleaner",
-        "Housekeeper",
-        "Housekeeping Supervisor",
-        "HR Manager",
-        "HR Specialist",
-        "Human Resource Director",
-        "Human Resource Manager",
-        "Human Resources Assistant",
-        "Human Resources Manager",
-        "Human Resources Specialist",
-        "Hunter and Trapper",
-        "HVAC Mechanic",
-        "Hydrologist",
-        "Illustrator",
-        "Immigration Inspector OR Customs Inspector",
-        "Industrial Engineer",
-        "Industrial Engineering Technician",
-        "Industrial Equipment Maintenance",
-        "Industrial Machinery Mechanic",
-        "Industrial Production Manager",
-        "Industrial Safety Engineer",
-        "Industrial-Organizational Psychologist",
-        "Infantry",
-        "Infantry Officer",
-        "Information Systems Manager",
-        "Inspector",
-        "Installation and Repair Technician",
-        "Instructional Coordinator",
-        "Instrument Sales Representative",
-        "Insulation Installer",
-        "Insulation Worker",
-        "Insurance Investigator",
-        "Insurance Appraiser",
-        "Insurance Claims Clerk",
-        "Insurance Policy Processing Clerk",
-        "Insurance Sales Agent",
-        "Insurance Underwriter",
-        "Interaction Designer",
-        "Interior Designer",
-        "Internist",
-        "Interpreter OR Translator",
-        "Interviewer",
-        "Irradiated-Fuel Handler",
-        "Janitor",
-        "Janitorial Supervisor",
-        "Jeweler",
-        "Jewelry Model OR Mold Makers",
-        "Job Printer",
-        "Judge",
-        "Keyboard Instrument Repairer and Tuner",
-        "Kindergarten Teacher",
-        "Landscape Architect",
-        "Landscape Artist",
-        "Landscaper",
-        "Landscaping",
-        "Lathe Operator",
-        "Laundry OR Dry-Cleaning Worker",
-        "Law Clerk",
-        "Law Enforcement Teacher",
-        "Law Teacher",
-        "Lawn Service Manager",
-        "Lawyer",
-        "Lay-Out Worker",
-        "Legal Secretary",
-        "Legal Support Worker",
-        "Legislator",
-        "Letterpress Setters Operator",
-        "Librarian",
-        "Library Assistant",
-        "Library Science Teacher",
-        "Library Technician",
-        "Library Worker",
-        "License Clerk",
-        "Licensed Practical Nurse",
-        "Licensing Examiner and Inspector",
-        "Life Science Technician",
-        "Life Scientists",
-        "Lifeguard",
-        "Loading Machine Operator",
-        "Loan Counselor",
-        "Loan Interviewer",
-        "Loan Officer",
-        "Locker Room Attendant",
-        "Locksmith",
-        "Locomotive Engineer",
-        "Locomotive Firer",
-        "Lodging Manager",
-        "Log Grader and Scaler",
-        "Logging Equipment Operator",
-        "Logging Supervisor",
-        "Logging Tractor Operator",
-        "Logging Worker",
-        "Logistician",
-        "Machine Feeder",
-        "Machine Operator",
-        "Machine Tool Operator",
-        "Machinery Maintenance",
-        "Machinist",
-        "Maid",
-        "Mail Clerk",
-        "Mail Machine Operator",
-        "Maintenance and Repair Worker",
-        "Maintenance Equipment Operator",
-        "Maintenance Supervisor",
-        "Maintenance Worker",
-        "Makeup Artists",
-        "Management Analyst",
-        "Manager",
-        "Manager of Air Crew",
-        "Manager of Food Preparation",
-        "Manager of Weapons Specialists",
-        "Manager Tactical Operations",
-        "Manicurists",
-        "Manufactured Building Installer",
-        "Manufacturing Sales Representative",
-        "Mapping Technician",
-        "MARCOM Director",
-        "MARCOM Manager",
-        "Marine Architect",
-        "Marine Cargo Inspector",
-        "Marine Engineer",
-        "Marine Oiler",
-        "Market Research Analyst",
-        "Marketing Manager",
-        "Marketing VP",
-        "Marking Clerk",
-        "Marking Machine Operator",
-        "Marriage and Family Therapist",
-        "Massage Therapist",
-        "Material Movers",
-        "Material Moving Worker",
-        "Materials Engineer",
-        "Materials Inspector",
-        "Materials Scientist",
-        "Mathematical Science Teacher",
-        "Mathematical Scientist",
-        "Mathematical Technician",
-        "Mathematician",
-        "Meat Packer",
-        "Mechanical Door Repairer",
-        "Mechanical Drafter",
-        "Mechanical Engineer",
-        "Mechanical Engineering Technician",
-        "Mechanical Equipment Sales Representative",
-        "Mechanical Inspector",
-        "Media and Communication Worker",
-        "Medical Appliance Technician",
-        "Medical Assistant",
-        "Medical Equipment Preparer",
-        "Medical Equipment Repairer",
-        "Medical Laboratory Technologist",
-        "Medical Records Technician",
-        "Medical Sales Representative",
-        "Medical Scientists",
-        "Medical Secretary",
-        "Medical Technician",
-        "Medical Transcriptionist",
-        "Mental Health Counselor",
-        "Merchandise Displayer OR Window Trimmer",
-        "Metal Fabricator",
-        "Metal Molding Operator",
-        "Metal Pourer and Caster",
-        "Metal Worker",
-        "Metal-Refining Furnace Operator",
-        "Meter Mechanic",
-        "Microbiologist",
-        "Middle School Teacher",
-        "Military Officer",
-        "Milling Machine Operator",
-        "Millwright",
-        "Mine Cutting Machine Operator",
-        "Mining Engineer OR Geological Engineer",
-        "Mining Machine Operator",
-        "Mixing and Blending Machine Operator",
-        "Model Maker",
-        "Mold Maker",
-        "Molder",
-        "Molding and Casting Worker",
-        "Molding Machine Operator",
-        "Motion Picture Projectionist",
-        "Motor Vehicle Inspector",
-        "Motor Vehicle Operator",
-        "Motorboat Mechanic",
-        "Motorboat Operator",
-        "Motorcycle Mechanic",
-        "Movers",
-        "Movie Director oR Theatre Director",
-        "Multi-Media Artist",
-        "Multiple Machine Tool Setter",
-        "Municipal Clerk",
-        "Municipal Court Clerk",
-        "Municipal Fire Fighter",
-        "Municipal Fire Fighting Supervisor",
-        "Museum Conservator",
-        "Music Arranger and Orchestrator",
-        "Music Composer",
-        "Music Director",
-        "Musical Instrument Tuner",
-        "Musician",
-        "Musician OR Singer",
-        "Natural Sciences Manager",
-        "Naval Architects",
-        "Network Admin OR Computer Systems Administrator",
-        "Network Systems Analyst",
-        "New Accounts Clerk",
-        "Night Security Guard",
-        "Night Shift",
-        "Nonfarm Animal Caretaker",
-        "Nuclear Engineer",
-        "Nuclear Equipment Operation Technician",
-        "Nuclear Medicine Technologist",
-        "Nuclear Monitoring Technician",
-        "Nuclear Power Reactor Operator",
-        "Nuclear Technician",
-        "Numerical Control Machine Tool Operator",
-        "Numerical Tool Programmer OR Process Control Programmer",
-        "Nursery Manager",
-        "Nursery Worker",
-        "Nursing Aide",
-        "Nursing Instructor",
-        "Nutritionist",
-        "Obstetrician",
-        "Occupational Health Safety Specialist",
-        "Occupational Health Safety Technician",
-        "Occupational Therapist",
-        "Occupational Therapist Aide",
-        "Occupational Therapist Assistant",
-        "Office and Administrative Support Worker",
-        "Office Clerk",
-        "Office Machine and Cash Register Servicer",
-        "Office Machine Operator",
-        "Offset Lithographic Press Operator",
-        "Oil and gas Operator",
-        "Oil Service Unit Operator",
-        "Online Marketing Analyst",
-        "Operating Engineer",
-        "Operations Research Analyst",
-        "Ophthalmic Laboratory Technician",
-        "Optical Instrument Assembler",
-        "Opticians",
-        "Optometrist",
-        "Oral Surgeon",
-        "Order Clerk",
-        "Order Filler",
-        "Order Filler OR Stock Clerk",
-        "Organizational Development Manager",
-        "Orthodontist",
-        "Orthotist OR Prosthetist",
-        "Outdoor Power Equipment Mechanic",
-        "Packaging Machine Operator",
-        "Packer and Packager",
-        "Painter",
-        "Painter and Illustrator",
-        "Painting Machine Operator",
-        "Pantograph Engraver",
-        "Paper Goods Machine Operator",
-        "Paperhanger",
-        "Paralegal",
-        "Park Naturalist",
-        "Parking Enforcement Worker",
-        "Parking Lot Attendant",
-        "Parts Salesperson",
-        "Paste-Up Worker",
-        "Pastry Chef",
-        "Patrol Officer",
-        "Patternmaker",
-        "Paving Equipment Operator",
-        "Payroll Clerk",
-        "Pediatricians",
-        "Percussion Instrument Repairer",
-        "Personal Care Worker",
-        "Personal Financial Advisor",
-        "Personal Home Care Aide",
-        "Personal Service Worker",
-        "Personal Trainer",
-        "Personnel Recruiter",
-        "Pest Control Worker",
-        "Pesticide Sprayer",
-        "Petroleum Engineer",
-        "Petroleum Pump Operator",
-        "Petroleum Pump System Operator",
-        "Petroleum Technician",
-        "Pewter Caster",
-        "Pharmaceutical Sales Representative",
-        "Pharmacist",
-        "Pharmacy Aide",
-        "Pharmacy Technician",
-        "Philosophy and Religion Teacher",
-        "Photoengraver",
-        "Photoengraving Machine Operator",
-        "Photographer",
-        "Photographic Restorer",
-        "Photographic Developer",
-        "Photographic Process Worker",
-        "Photographic Processing Machine Operator",
-        "Photographic Reproduction Technician",
-        "Physical Scientist",
-        "Physical Therapist",
-        "Physical Therapist Aide",
-        "Physical Therapist Assistant",
-        "Physician",
-        "Physician Assistant",
-        "Physicist",
-        "Physics Teacher",
-        "Pile-Driver Operator",
-        "Pipe Fitter",
-        "Pipefitter",
-        "Pipelayer",
-        "Pipelaying Fitter",
-        "Plant and System Operator",
-        "Plant Scientist",
-        "Plasterer OR Stucco Mason",
-        "Plastic Molding Machine Operator",
-        "Plate Finisher",
-        "Platemaker",
-        "Plating Machine Operator",
-        "Plating Operator",
-        "Plating Operator OR Coating Machine Operator",
-        "Plumber",
-        "Plumber OR Pipefitter OR Steamfitter",
-        "Podiatrist",
-        "Poet OR Lyricist",
-        "Police and Sheriffs Patrol Officer",
-        "Police Detective",
-        "Police Identification OR Records Officer",
-        "Political Science Teacher",
-        "Political Scientist",
-        "Portable Power Tool Repairer",
-        "Postal Clerk",
-        "Postal Service Clerk",
-        "Postal Service Mail Carrier",
-        "Postal Service Mail Sorter",
-        "Postmasters",
-        "Postsecondary Education Administrators",
-        "Postsecondary Teacher",
-        "Potter",
-        "Poultry Cutter",
-        "Power Distributors OR Dispatcher",
-        "Power Generating Plant Operator",
-        "Power Plant Operator",
-        "PR Manager",
-        "Precious Stone Worker",
-        "Precision Aircraft Systems Assemblers",
-        "Precision Devices Inspector",
-        "Precision Dyer",
-        "Precision Etcher and Engraver",
-        "Precision Instrument Repairer",
-        "Precision Lens Grinders and Polisher",
-        "Precision Mold and Pattern Caster",
-        "Precision Pattern and Die Caster",
-        "Precision Printing Worker",
-        "Prepress Technician",
-        "Preschool Education Administrators",
-        "Preschool Teacher",
-        "Press Machine Setter, Operator",
-        "Pressing Machine Operator",
-        "Pressure Vessel Inspector",
-        "Printing Machine Operator",
-        "Printing Press Machine Operator",
-        "Private Detective and Investigator",
-        "Private Household Cook",
-        "Private Sector Executive",
-        "Probation Officers and Correctional Treatment Specialist",
-        "Procurement Clerk",
-        "Producer",
-        "Producers and Director",
-        "Product Management Leader",
-        "Product Promoter",
-        "Product Safety Engineer",
-        "Product Specialist",
-        "Production Control Manager",
-        "Production Helper",
-        "Production Inspector",
-        "Production Laborer",
-        "Production Manager",
-        "Production Planner",
-        "Production Planning",
-        "Production Worker",
-        "Professional Photographer",
-        "Professor",
-        "Program Director",
-        "Project Manager",
-        "Proofreaders and Copy Marker",
-        "Prosthodontist",
-        "Protective Service Worker",
-        "Protective Service Worker",
-        "Psychiatric Aide",
-        "Psychiatric Technician",
-        "Psychiatrist",
-        "Psychologist",
-        "Psychology Teacher",
-        "Public Health Social Worker",
-        "Public Relations Manager",
-        "Public Relations Specialist",
-        "Public Transportation Inspector",
-        "Pump Operators",
-        "Punching Machine Setters",
-        "Purchasing Agent",
-        "Purchasing Manager",
-        "Radar Technician",
-        "Radiation Therapist",
-        "Radio and Television Announcer",
-        "Radio Mechanic",
-        "Radio Operator",
-        "Radiologic Technician",
-        "Radiologic Technologist",
-        "Radiologic Technologist and Technician",
-        "Rail Car Repairer",
-        "Rail Transportation Worker",
-        "Rail Yard Engineer",
-        "Railroad Conductors",
-        "Railroad Inspector",
-        "Railroad Switch Operator",
-        "Railroad Yard Worker",
-        "Range Manager",
-        "Real Estate Appraiser",
-        "Real Estate Association Manager",
-        "Real Estate Broker",
-        "Real Estate Sales Agent",
-        "Receptionist and Information Clerk",
-        "Record Clerk",
-        "Recordkeeping Clerk",
-        "Recreation and Fitness Studies Teacher",
-        "Recreation Worker",
-        "Recreational Therapist",
-        "Recreational Vehicle Service Technician",
-        "Recruiter",
-        "Recyclable Material Collector",
-        "Refinery Operator",
-        "Refractory Materials Repairer",
-        "Refrigeration Mechanic",
-        "Registered Nurse",
-        "Rehabilitation Counselor",
-        "Religious Worker",
-        "Rental Clerk",
-        "Reporters OR Correspondent",
-        "Reservation Agent OR Transportation Ticket Agent",
-        "Residential Advisor",
-        "Respiratory Therapist",
-        "Respiratory Therapy Technician",
-        "Restaurant Cook",
-        "Retail Sales person",
-        "Retail Salesperson",
-        "Rigger",
-        "RN",
-        "Rock Splitter",
-        "Rolling Machine Setter",
-        "Roof Bolters Mining",
-        "Roofer",
-        "Rotary Drill Operator",
-        "Rough Carpenter",
-        "Roustabouts",
-        "Safety Engineer",
-        "Sailor",
-        "Sales and Related Workers",
-        "Sales Engineer",
-        "Sales Manager",
-        "Sales Person",
-        "Sales Representative",
-        "Sawing Machine Operator",
-        "Sawing Machine Setter",
-        "Sawing Machine Tool Setter",
-        "Scanner Operator",
-        "School Bus Driver",
-        "School Social Worker",
-        "Scientific Photographer",
-        "Screen Printing Machine Operator",
-        "Sculptor",
-        "Secondary School Teacher",
-        "Secretary",
-        "Securities Sales Agent",
-        "Security Guard",
-        "Security Systems Installer OR Fire Alarm Systems Installer",
-        "Segmental Paver",
-        "Self-Enrichment Education Teacher",
-        "Semiconductor Processor",
-        "Separating Machine Operators",
-        "Septic Tank Servicer",
-        "Service Station Attendant",
-        "Set and Exhibit Designer",
-        "Set Designer",
-        "Sewing Machine Operator",
-        "Shampooer",
-        "Shear Machine Set-Up Operator",
-        "Sheet Metal Worker",
-        "Sheriff",
-        "Ship Captain",
-        "Ship Carpenter and Joiner",
-        "Ship Engineer",
-        "Ship Mates",
-        "Ship Pilot",
-        "Shipping and Receiving Clerk",
-        "Shoe and Leather Repairer",
-        "Shoe Machine Operators",
-        "Short Order Cook",
-        "Shuttle Car Operator",
-        "Signal Repairer OR Track Switch Repairer",
-        "Silversmith",
-        "Singer",
-        "Sketch Artist",
-        "Skin Care Specialist",
-        "Slot Key Person",
-        "Social and Human Service Assistant",
-        "Social Media Marketing Manager",
-        "Social Science Research Assistant",
-        "Social Sciences Teacher",
-        "Social Scientists",
-        "Social Service Specialists",
-        "Social Work Teacher",
-        "Social Worker",
-        "Sociologist",
-        "Sociology Teacher",
-        "Software Engineer",
-        "Soil Conservationist",
-        "Soil Scientist",
-        "Soil Scientist OR Plant Scientist",
-        "Solderer",
-        "Soldering Machine Setter",
-        "Sound Engineering Technician",
-        "Space Sciences Teacher",
-        "Special Education Teacher",
-        "Special Force",
-        "Special Forces Officer",
-        "Speech-Language Pathologist",
-        "Sports Book Writer",
-        "Spotters",
-        "Spraying Machine Operator",
-        "Staff Psychologist",
-        "State",
-        "Statement Clerk",
-        "Stationary Engineer",
-        "Stationary Engineer OR Boiler Operator",
-        "Statistical Assistant",
-        "Statistician",
-        "Steel Worker",
-        "Stevedore",
-        "Stock Broker",
-        "Stock Clerk",
-        "Stone Cutter",
-        "Stone Sawyer",
-        "Stonemason",
-        "Stonemason",
-        "Storage Manager OR Distribution Manager",
-        "Streetcar Operator",
-        "Stringed Instrument Repairer and Tuner",
-        "Stripper",
-        "Structural Iron and Steel Worker",
-        "Structural Metal Fabricator",
-        "Substance Abuse Counselor",
-        "Substance Abuse Social Worker",
-        "Substation Maintenance",
-        "Supervisor Correctional Officer",
-        "Supervisor Fire Fighting Worker",
-        "Supervisor of Customer Service",
-        "Supervisor of Police",
-        "Surgeon",
-        "Surgical Technologist",
-        "Survey Researcher",
-        "Surveying and Mapping Technician",
-        "Surveying Technician",
-        "Surveyor",
-        "Sys Admin",
-        "System Administrator",
-        "Tailor",
-        "Talent Acquisition Manager",
-        "Talent Director",
-        "Tank Car",
-        "Taper",
-        "Tax Examiner",
-        "Tax Preparer",
-        "Taxi Drivers and Chauffeur",
-        "Teacher",
-        "Teacher Assistant",
-        "Team Assembler",
-        "Technical Director",
-        "Technical Program Manager",
-        "Technical Specialist",
-        "Technical Writer",
-        "Telecommunications Equipment Installer",
-        "Telecommunications Facility Examiner",
-        "Telecommunications Line Installer",
-        "Telemarketer",
-        "Telephone Operator",
-        "Telephone Station Installer and Repairer",
-        "Teller",
-        "Terrazzo Workes and Finisher",
-        "Textile Cutting Machine Operator",
-        "Textile Dyeing Machine Operator",
-        "Textile Knitting Machine Operator",
-        "Textile Machine Operator",
-        "Textile Worker",
-        "Therapist",
-        "Ticket Agent",
-        "Tile Setter OR Marble Setter",
-        "Timing Device Assemblers",
-        "Tire Builder",
-        "Tire Changer",
-        "Title Abstractor",
-        "Title Examiner",
-        "Title Searcher",
-        "Tool and Die Maker",
-        "Tool Set-Up Operator",
-        "Tool Sharpener",
-        "Tour Guide",
-        "Tractor Operator",
-        "Tractor-Trailer Truck Driver",
-        "Traffic Technician",
-        "Train Crew",
-        "Trainer",
-        "Training Manager OR Development Manager",
-        "Transformer Repairer",
-        "Transit Police OR Railroad Police",
-        "Transportation and Material-Moving",
-        "Transportation Attendant",
-        "Transportation Equipment Maintenance",
-        "Transportation Equipment Painters",
-        "Transportation Inspector",
-        "Transportation Manager",
-        "Transportation Worker",
-        "Travel Agent",
-        "Travel Clerk",
-        "Travel Guide",
-        "Tree Trimmer",
-        "Truck Driver",
-        "TSA",
-        "Typesetter",
-        "Typesetting Machine Operator",
-        "Umpire and Referee",
-        "Underground Mining",
-        "University",
-        "Upholsterer",
-        "Urban Planner",
-        "User Experience Manager",
-        "User Experience Researcher",
-        "Usher",
-        "Utility Meter Reader",
-        "Valve Repairer OR Regulator Repairer",
-        "Vending Machine Servicer",
-        "Veterinarian",
-        "Veterinary Assistant OR Laboratory Animal Caretaker",
-        "Veterinary Technician",
-        "Vice President Of Human Resources",
-        "Vice President Of Marketing",
-        "Video Editor",
-        "Visual Designer",
-        "Vocational Education Teacher",
-        "Waiter",
-        "Waitress",
-        "Warehouse",
-        "Washing Equipment Operator",
-        "Waste Treatment Plant Operator",
-        "Watch Repairer",
-        "Weapons Specialists",
-        "Web Developer",
-        "Webmaster",
-        "Welder",
-        "Welder",
-        "Welder and Cutter",
-        "Welder-Fitter",
-        "Welding Machine Tender",
-        "Welding Machine Operator",
-        "Welding Machine Setter",
-        "Welfare Eligibility Clerk",
-        "Well and Core Drill Operator",
-        "Wellhead Pumper",
-        "Wholesale Buyer",
-        "Wind Instrument Repairer",
-        "Woodworker",
-        "Woodworking Machine Operator",
-        "Woodworking Machine Setter",
-        "Word Processors and Typist",
-        "Writer OR Author",
-        "Zoologists OR Wildlife Biologist"
+        {
+            "value": "Able Seamen"
+        },
+        {
+            "value": "Account Manager"
+        },
+        {
+            "value": "Accountant"
+        },
+        {
+            "value": "Actor"
+        },
+        {
+            "value": "Actuary"
+        },
+        {
+            "value": "Adjustment Clerk"
+        },
+        {
+            "value": "Admin"
+        },
+        {
+            "value": "Administrative Law Judge"
+        },
+        {
+            "value": "Administrative Services Manager"
+        },
+        {
+            "value": "Administrative Support Supervisors"
+        },
+        {
+            "value": "Advertising Manager OR Promotions Manager"
+        },
+        {
+            "value": "Advertising Sales Agent"
+        },
+        {
+            "value": "Aerospace Engineer"
+        },
+        {
+            "value": "Agricultural Crop Farm Manager"
+        },
+        {
+            "value": "Agricultural Crop Worker"
+        },
+        {
+            "value": "Agricultural Engineer"
+        },
+        {
+            "value": "Agricultural Equipment Operator"
+        },
+        {
+            "value": "Agricultural Inspector"
+        },
+        {
+            "value": "Agricultural Manager"
+        },
+        {
+            "value": "Agricultural Product Grader Sorter"
+        },
+        {
+            "value": "Agricultural Sales Representative"
+        },
+        {
+            "value": "Agricultural Science Technician"
+        },
+        {
+            "value": "Agricultural Sciences Teacher"
+        },
+        {
+            "value": "Agricultural Technician"
+        },
+        {
+            "value": "Agricultural Worker"
+        },
+        {
+            "value": "Air Crew Member"
+        },
+        {
+            "value": "Air Crew Officer"
+        },
+        {
+            "value": "Air Traffic Controller"
+        },
+        {
+            "value": "Aircraft Assembler"
+        },
+        {
+            "value": "Aircraft Body Repairer"
+        },
+        {
+            "value": "Aircraft Cargo Handling Supervisor"
+        },
+        {
+            "value": "Aircraft Engine Specialist"
+        },
+        {
+            "value": "Aircraft Launch and Recovery Officer"
+        },
+        {
+            "value": "Aircraft Launch Specialist"
+        },
+        {
+            "value": "Aircraft Mechanics OR Aircraft Service Technician"
+        },
+        {
+            "value": "Aircraft Rigging Assembler"
+        },
+        {
+            "value": "Aircraft Structure Assemblers"
+        },
+        {
+            "value": "Airfield Operations Specialist"
+        },
+        {
+            "value": "Airframe Mechanic"
+        },
+        {
+            "value": "Airline Pilot OR Copilot OR Flight Engineer"
+        },
+        {
+            "value": "Algorithm Developer"
+        },
+        {
+            "value": "Alteration Tailor"
+        },
+        {
+            "value": "Ambulance Driver"
+        },
+        {
+            "value": "Amusement Attendant"
+        },
+        {
+            "value": "Anesthesiologist"
+        },
+        {
+            "value": "Animal Breeder"
+        },
+        {
+            "value": "Animal Care Workers"
+        },
+        {
+            "value": "Animal Control Worker"
+        },
+        {
+            "value": "Animal Husbandry Worker"
+        },
+        {
+            "value": "Animal Scientist"
+        },
+        {
+            "value": "Animal Trainer"
+        },
+        {
+            "value": "Annealing Machine Operator"
+        },
+        {
+            "value": "Announcer"
+        },
+        {
+            "value": "Answering Service"
+        },
+        {
+            "value": "Anthropologist"
+        },
+        {
+            "value": "Anthropologist OR Archeologist"
+        },
+        {
+            "value": "Anthropology Teacher"
+        },
+        {
+            "value": "Appliance Repairer"
+        },
+        {
+            "value": "Arbitrator"
+        },
+        {
+            "value": "Archeologist"
+        },
+        {
+            "value": "Architect"
+        },
+        {
+            "value": "Architectural Drafter"
+        },
+        {
+            "value": "Architectural Drafter OR Civil Drafter"
+        },
+        {
+            "value": "Architecture Teacher"
+        },
+        {
+            "value": "Archivist"
+        },
+        {
+            "value": "Armored Assault Vehicle Crew Member"
+        },
+        {
+            "value": "Armored Assault Vehicle Officer"
+        },
+        {
+            "value": "Art Director"
+        },
+        {
+            "value": "Art Teacher"
+        },
+        {
+            "value": "Artillery Officer"
+        },
+        {
+            "value": "Artillery Crew Member"
+        },
+        {
+            "value": "Artist"
+        },
+        {
+            "value": "Assembler"
+        },
+        {
+            "value": "Assessor"
+        },
+        {
+            "value": "Astronomer"
+        },
+        {
+            "value": "Athletes and Sports Competitor"
+        },
+        {
+            "value": "Athletic Trainer"
+        },
+        {
+            "value": "Atmospheric and Space Scientist"
+        },
+        {
+            "value": "Audio and Video Equipment Technician"
+        },
+        {
+            "value": "Audiologist"
+        },
+        {
+            "value": "Audio-Visual Collections Specialist"
+        },
+        {
+            "value": "Auditor"
+        },
+        {
+            "value": "Auditor"
+        },
+        {
+            "value": "Automatic Teller Machine Servicer"
+        },
+        {
+            "value": "Automotive Body Repairer"
+        },
+        {
+            "value": "Automotive Glass Installers"
+        },
+        {
+            "value": "Automotive Master Mechanic"
+        },
+        {
+            "value": "Automotive Mechanic"
+        },
+        {
+            "value": "Automotive Specialty Technician"
+        },
+        {
+            "value": "Automotive Technician"
+        },
+        {
+            "value": "Auxiliary Equipment Operator"
+        },
+        {
+            "value": "Aviation Inspector"
+        },
+        {
+            "value": "Avionics Technician"
+        },
+        {
+            "value": "Bailiff"
+        },
+        {
+            "value": "Baker"
+        },
+        {
+            "value": "Barber"
+        },
+        {
+            "value": "Bartender"
+        },
+        {
+            "value": "Bartender Helper"
+        },
+        {
+            "value": "Battery Repairer"
+        },
+        {
+            "value": "Bellhop"
+        },
+        {
+            "value": "Bench Jeweler"
+        },
+        {
+            "value": "Benefits Specialist"
+        },
+        {
+            "value": "Bicycle Repairer"
+        },
+        {
+            "value": "Bill and Account Collector"
+        },
+        {
+            "value": "Bindery Machine Operator"
+        },
+        {
+            "value": "Bindery Worker"
+        },
+        {
+            "value": "Biochemist"
+        },
+        {
+            "value": "Biochemist or Biophysicist"
+        },
+        {
+            "value": "Biological Science Teacher"
+        },
+        {
+            "value": "Biological Scientist"
+        },
+        {
+            "value": "Biological Technician"
+        },
+        {
+            "value": "Biologist"
+        },
+        {
+            "value": "Biomedical Engineer"
+        },
+        {
+            "value": "Biophysicist"
+        },
+        {
+            "value": "Board Of Directors"
+        },
+        {
+            "value": "Boat Builder and Shipwright"
+        },
+        {
+            "value": "Boiler Operator"
+        },
+        {
+            "value": "Boilermaker"
+        },
+        {
+            "value": "Bookbinder"
+        },
+        {
+            "value": "Bookkeeper"
+        },
+        {
+            "value": "Brake Machine Setter"
+        },
+        {
+            "value": "Brattice Builder"
+        },
+        {
+            "value": "Brazer"
+        },
+        {
+            "value": "Brazing Machine Operator"
+        },
+        {
+            "value": "Brickmason"
+        },
+        {
+            "value": "Bridge Tender OR Lock Tender"
+        },
+        {
+            "value": "Broadcast News Analyst"
+        },
+        {
+            "value": "Broadcast Technician"
+        },
+        {
+            "value": "Brokerage Clerk"
+        },
+        {
+            "value": "Budget Analyst"
+        },
+        {
+            "value": "Buffing and Polishing Operator"
+        },
+        {
+            "value": "Building Cleaning Worker"
+        },
+        {
+            "value": "Building Inspector"
+        },
+        {
+            "value": "Bulldozer Operator"
+        },
+        {
+            "value": "Bus Driver"
+        },
+        {
+            "value": "Business Development Manager"
+        },
+        {
+            "value": "Business Manager"
+        },
+        {
+            "value": "Business Operations Specialist"
+        },
+        {
+            "value": "Business Teacher"
+        },
+        {
+            "value": "Butcher"
+        },
+        {
+            "value": "Buyer"
+        },
+        {
+            "value": "Cabinetmaker"
+        },
+        {
+            "value": "Cafeteria Cook"
+        },
+        {
+            "value": "Calibration Technician OR Instrumentation Technician"
+        },
+        {
+            "value": "Camera Operator"
+        },
+        {
+            "value": "Camera Repairer"
+        },
+        {
+            "value": "Captain"
+        },
+        {
+            "value": "Caption Writer"
+        },
+        {
+            "value": "Cardiovascular Technologist"
+        },
+        {
+            "value": "Career Counselor"
+        },
+        {
+            "value": "Carpenter"
+        },
+        {
+            "value": "Carpenter Assembler and Repairer"
+        },
+        {
+            "value": "Carpet Installer"
+        },
+        {
+            "value": "Cartographer"
+        },
+        {
+            "value": "Cartoonist"
+        },
+        {
+            "value": "Carver"
+        },
+        {
+            "value": "Cashier"
+        },
+        {
+            "value": "Casting Machine Operator"
+        },
+        {
+            "value": "Casting Machine Set-Up Operator"
+        },
+        {
+            "value": "ccc"
+        },
+        {
+            "value": "Ceiling Tile Installer"
+        },
+        {
+            "value": "Cement Mason and Concrete Finisher"
+        },
+        {
+            "value": "Central Office"
+        },
+        {
+            "value": "Central Office and PBX Installers"
+        },
+        {
+            "value": "Central Office Operator"
+        },
+        {
+            "value": "CEO"
+        },
+        {
+            "value": "CFO"
+        },
+        {
+            "value": "Chef"
+        },
+        {
+            "value": "Chemical Engineer"
+        },
+        {
+            "value": "Chemical Equipment Controller"
+        },
+        {
+            "value": "Chemical Equipment Operator"
+        },
+        {
+            "value": "Chemical Equipment Tender"
+        },
+        {
+            "value": "Chemical Plant Operator"
+        },
+        {
+            "value": "Chemical Technician"
+        },
+        {
+            "value": "Chemist"
+        },
+        {
+            "value": "Chemistry Teacher"
+        },
+        {
+            "value": "Child Care"
+        },
+        {
+            "value": "Child Care Worker"
+        },
+        {
+            "value": "Chiropractor"
+        },
+        {
+            "value": "Choreographer"
+        },
+        {
+            "value": "City"
+        },
+        {
+            "value": "City Planning Aide"
+        },
+        {
+            "value": "Civil Drafter"
+        },
+        {
+            "value": "Civil Engineer"
+        },
+        {
+            "value": "Civil Engineering Technician"
+        },
+        {
+            "value": "Claims Adjuster"
+        },
+        {
+            "value": "Claims Examiner"
+        },
+        {
+            "value": "Claims Taker"
+        },
+        {
+            "value": "Cleaners of Vehicles"
+        },
+        {
+            "value": "Clergy"
+        },
+        {
+            "value": "Clerk"
+        },
+        {
+            "value": "Clinical Laboratory Technician"
+        },
+        {
+            "value": "Clinical Psychologist"
+        },
+        {
+            "value": "Clinical School Psychologist"
+        },
+        {
+            "value": "Coaches and Scout"
+        },
+        {
+            "value": "Coating Machine Operator"
+        },
+        {
+            "value": "Coil Winders"
+        },
+        {
+            "value": "Command Control Center Officer"
+        },
+        {
+            "value": "Command Control Center Specialist"
+        },
+        {
+            "value": "Commercial and Industrial Designer"
+        },
+        {
+            "value": "Commercial Diver"
+        },
+        {
+            "value": "Commercial Pilot"
+        },
+        {
+            "value": "Communication Equipment Repairer"
+        },
+        {
+            "value": "Communication Equipment Worker"
+        },
+        {
+            "value": "Communications Equipment Operator"
+        },
+        {
+            "value": "Communications Teacher"
+        },
+        {
+            "value": "Community Service Manager"
+        },
+        {
+            "value": "Compacting Machine Operator"
+        },
+        {
+            "value": "Compensation and Benefits Manager"
+        },
+        {
+            "value": "Compliance Officers"
+        },
+        {
+            "value": "Composer"
+        },
+        {
+            "value": "Computer"
+        },
+        {
+            "value": "Computer Hardware Engineer"
+        },
+        {
+            "value": "Computer Operator"
+        },
+        {
+            "value": "Computer Programmer"
+        },
+        {
+            "value": "Computer Repairer"
+        },
+        {
+            "value": "Computer Science Teacher"
+        },
+        {
+            "value": "Computer Scientist"
+        },
+        {
+            "value": "Computer Security Specialist"
+        },
+        {
+            "value": "Computer Software Engineer"
+        },
+        {
+            "value": "Computer Specialist"
+        },
+        {
+            "value": "Computer Support Specialist"
+        },
+        {
+            "value": "Computer Systems Analyst"
+        },
+        {
+            "value": "Computer-Controlled Machine Tool Operator"
+        },
+        {
+            "value": "Concierge"
+        },
+        {
+            "value": "Conservation Scientist"
+        },
+        {
+            "value": "Construction"
+        },
+        {
+            "value": "Construction Carpenter"
+        },
+        {
+            "value": "Construction Driller"
+        },
+        {
+            "value": "Construction Equipment Operator"
+        },
+        {
+            "value": "Construction Laborer"
+        },
+        {
+            "value": "Construction Manager"
+        },
+        {
+            "value": "Continuous Mining Machine Operator"
+        },
+        {
+            "value": "Control Valve Installer"
+        },
+        {
+            "value": "Conveyor Operator"
+        },
+        {
+            "value": "Cook"
+        },
+        {
+            "value": "Cooling and Freezing Equipment Operator"
+        },
+        {
+            "value": "Copy Machine Operator"
+        },
+        {
+            "value": "Copy Writer"
+        },
+        {
+            "value": "Coremaking Machine Operator"
+        },
+        {
+            "value": "Coroner"
+        },
+        {
+            "value": "Corporate Trainer"
+        },
+        {
+            "value": "Correctional Officer"
+        },
+        {
+            "value": "Correspondence Clerk"
+        },
+        {
+            "value": "Cost Estimator"
+        },
+        {
+            "value": "Costume Attendant"
+        },
+        {
+            "value": "Counseling Psychologist"
+        },
+        {
+            "value": "Counselor"
+        },
+        {
+            "value": "Counsil"
+        },
+        {
+            "value": "Courier"
+        },
+        {
+            "value": "Court Clerk"
+        },
+        {
+            "value": "Court Reporter"
+        },
+        {
+            "value": "Craft Artist"
+        },
+        {
+            "value": "Crane and Tower Operator"
+        },
+        {
+            "value": "Creative Writer"
+        },
+        {
+            "value": "Credit Checkers Clerk"
+        },
+        {
+            "value": "Credit Analyst"
+        },
+        {
+            "value": "Credit Authorizer"
+        },
+        {
+            "value": "Credit Checker"
+        },
+        {
+            "value": "Criminal Investigator"
+        },
+        {
+            "value": "Crossing Guard"
+        },
+        {
+            "value": "Crushing Grinding Machine Operator"
+        },
+        {
+            "value": "CSI"
+        },
+        {
+            "value": "CTO"
+        },
+        {
+            "value": "Cultural Studies Teacher"
+        },
+        {
+            "value": "Curator"
+        },
+        {
+            "value": "Custom Tailor"
+        },
+        {
+            "value": "Customer Service Representative"
+        },
+        {
+            "value": "Cutting Machine Operator"
+        },
+        {
+            "value": "Cutting Machine Operator"
+        },
+        {
+            "value": "Dancer"
+        },
+        {
+            "value": "Data Entry Operator"
+        },
+        {
+            "value": "Data Processing Equipment Repairer"
+        },
+        {
+            "value": "Database Administrator"
+        },
+        {
+            "value": "Database Manager"
+        },
+        {
+            "value": "Deburring Machine Operator"
+        },
+        {
+            "value": "Decorator"
+        },
+        {
+            "value": "Dental Assistant"
+        },
+        {
+            "value": "Dental Hygienist"
+        },
+        {
+            "value": "Dental Laboratory Technician"
+        },
+        {
+            "value": "Dentist"
+        },
+        {
+            "value": "Designer"
+        },
+        {
+            "value": "Desktop Publisher"
+        },
+        {
+            "value": "Detective"
+        },
+        {
+            "value": "Diagnostic Medical Sonographer"
+        },
+        {
+            "value": "Diamond Worker"
+        },
+        {
+            "value": "Diesel Engine Specialist"
+        },
+        {
+            "value": "Dietetic Technician"
+        },
+        {
+            "value": "Director Of Business Development"
+        },
+        {
+            "value": "Director Of Marketing"
+        },
+        {
+            "value": "Director Of Social Media Marketing"
+        },
+        {
+            "value": "Director Of Talent Acquisition"
+        },
+        {
+            "value": "Director Religious Activities"
+        },
+        {
+            "value": "Directory Assistance Operator"
+        },
+        {
+            "value": "Dishwasher"
+        },
+        {
+            "value": "Dispatcher"
+        },
+        {
+            "value": "Distribution Manager"
+        },
+        {
+            "value": "Door To Door Sales"
+        },
+        {
+            "value": "Dot Etcher"
+        },
+        {
+            "value": "Drafter"
+        },
+        {
+            "value": "Dragline Operator"
+        },
+        {
+            "value": "Dredge Operator"
+        },
+        {
+            "value": "Drilling and Boring Machine Tool Setter"
+        },
+        {
+            "value": "Driver-Sales Worker"
+        },
+        {
+            "value": "Drycleaning Machine Operator"
+        },
+        {
+            "value": "Drywall Ceiling Tile Installer"
+        },
+        {
+            "value": "Drywall Installer"
+        },
+        {
+            "value": "Earth Driller"
+        },
+        {
+            "value": "Economics Teacher"
+        },
+        {
+            "value": "Economist"
+        },
+        {
+            "value": "Editor"
+        },
+        {
+            "value": "Education Administrator"
+        },
+        {
+            "value": "Education Teacher"
+        },
+        {
+            "value": "Educational Counselor OR Vocationall Counselor"
+        },
+        {
+            "value": "Educational Psychologist"
+        },
+        {
+            "value": "Electric Meter Installer"
+        },
+        {
+            "value": "Electric Motor Repairer"
+        },
+        {
+            "value": "Electrical and Electronic Inspector and Tester"
+        },
+        {
+            "value": "Electrical and Electronics Drafter"
+        },
+        {
+            "value": "Electrical Drafter"
+        },
+        {
+            "value": "Electrical Engineer"
+        },
+        {
+            "value": "Electrical Engineering Technician"
+        },
+        {
+            "value": "Electrical Parts Reconditioner"
+        },
+        {
+            "value": "Electrical Power-Line Installer"
+        },
+        {
+            "value": "Electrical Sales Representative"
+        },
+        {
+            "value": "Electrician"
+        },
+        {
+            "value": "Electrician"
+        },
+        {
+            "value": "Electrolytic Plating Machine Operator"
+        },
+        {
+            "value": "Electromechanical Equipment Assembler"
+        },
+        {
+            "value": "Electro-Mechanical Technician"
+        },
+        {
+            "value": "Electronic Drafter"
+        },
+        {
+            "value": "Electronic Engineering Technician"
+        },
+        {
+            "value": "Electronic Equipment Assembler"
+        },
+        {
+            "value": "Electronic Masking System Operator"
+        },
+        {
+            "value": "Electronics Engineer"
+        },
+        {
+            "value": "Electronics Engineering Technician"
+        },
+        {
+            "value": "Electrotyper"
+        },
+        {
+            "value": "Elementary and Secondary School Administrators"
+        },
+        {
+            "value": "Elementary School Teacher"
+        },
+        {
+            "value": "Elevator Installer and Repairer"
+        },
+        {
+            "value": "Eligibility Interviewer"
+        },
+        {
+            "value": "Embalmer"
+        },
+        {
+            "value": "Embossing Machine Operator"
+        },
+        {
+            "value": "Emergency Management Specialist"
+        },
+        {
+            "value": "Emergency Medical Technician and Paramedic"
+        },
+        {
+            "value": "Employment Interviewer"
+        },
+        {
+            "value": "Engine Assembler"
+        },
+        {
+            "value": "Engineer"
+        },
+        {
+            "value": "Engineering"
+        },
+        {
+            "value": "Engineering Manager"
+        },
+        {
+            "value": "Engineering Teacher"
+        },
+        {
+            "value": "Engineering Technician"
+        },
+        {
+            "value": "English Language Teacher"
+        },
+        {
+            "value": "Engraver"
+        },
+        {
+            "value": "Entertainer and Performer"
+        },
+        {
+            "value": "Entertainment Attendant"
+        },
+        {
+            "value": "Environmental Compliance Inspector"
+        },
+        {
+            "value": "Environmental Engineer"
+        },
+        {
+            "value": "Environmental Engineering Technician"
+        },
+        {
+            "value": "Environmental Science Teacher"
+        },
+        {
+            "value": "Environmental Science Technician"
+        },
+        {
+            "value": "Environmental Scientist"
+        },
+        {
+            "value": "Epidemiologist"
+        },
+        {
+            "value": "Equal Opportunity Representative"
+        },
+        {
+            "value": "Etcher"
+        },
+        {
+            "value": "Etcher and Engraver"
+        },
+        {
+            "value": "Event Planner"
+        },
+        {
+            "value": "Excavating Machine Operator"
+        },
+        {
+            "value": "Executive Secretary"
+        },
+        {
+            "value": "Exhibit Designer"
+        },
+        {
+            "value": "Explosives Expert"
+        },
+        {
+            "value": "Extraction Worker"
+        },
+        {
+            "value": "Extruding and Drawing Machine Operator"
+        },
+        {
+            "value": "Extruding Machine Operator"
+        },
+        {
+            "value": "Fabric Mender"
+        },
+        {
+            "value": "Fabric Pressers"
+        },
+        {
+            "value": "Farm and Home Management Advisor"
+        },
+        {
+            "value": "Farm Equipment Mechanic"
+        },
+        {
+            "value": "Farm Labor Contractor"
+        },
+        {
+            "value": "Farmer"
+        },
+        {
+            "value": "Farmworker"
+        },
+        {
+            "value": "Fashion Designer"
+        },
+        {
+            "value": "Fashion Model"
+        },
+        {
+            "value": "Fast Food Cook"
+        },
+        {
+            "value": "Fence Erector"
+        },
+        {
+            "value": "Fiber Product Cutting Machine Operator"
+        },
+        {
+            "value": "Fiberglass Laminator and Fabricator"
+        },
+        {
+            "value": "File Clerk"
+        },
+        {
+            "value": "Film Laboratory Technician"
+        },
+        {
+            "value": "Financial Analyst"
+        },
+        {
+            "value": "Financial Examiner"
+        },
+        {
+            "value": "Financial Manager"
+        },
+        {
+            "value": "Financial Services Sales Agent"
+        },
+        {
+            "value": "Financial Specialist"
+        },
+        {
+            "value": "Fire Fighter"
+        },
+        {
+            "value": "Fire Inspector"
+        },
+        {
+            "value": "Fire Investigator"
+        },
+        {
+            "value": "Fire-Prevention Engineer"
+        },
+        {
+            "value": "First-Line Supervisor-Manager of Landscaping, Lawn Service, and Groundskeeping Worker"
+        },
+        {
+            "value": "Fish Game Warden"
+        },
+        {
+            "value": "Fish Hatchery Manager"
+        },
+        {
+            "value": "Fishery Worker"
+        },
+        {
+            "value": "Fishing OR Forestry Supervisor"
+        },
+        {
+            "value": "Fitness Trainer"
+        },
+        {
+            "value": "Fitter"
+        },
+        {
+            "value": "Flight Attendant"
+        },
+        {
+            "value": "Floor Finisher"
+        },
+        {
+            "value": "Floor Layer"
+        },
+        {
+            "value": "Floral Designer"
+        },
+        {
+            "value": "Food Batchmaker"
+        },
+        {
+            "value": "Food Cooking Machine Operators"
+        },
+        {
+            "value": "Food Preparation"
+        },
+        {
+            "value": "Food Preparation and Serving Worker"
+        },
+        {
+            "value": "Food Preparation Worker"
+        },
+        {
+            "value": "Food Science Technician"
+        },
+        {
+            "value": "Food Scientists and Technologist"
+        },
+        {
+            "value": "Food Servers"
+        },
+        {
+            "value": "Food Service Manager"
+        },
+        {
+            "value": "Food Tobacco Roasting"
+        },
+        {
+            "value": "Foreign Language Teacher"
+        },
+        {
+            "value": "Forensic Investigator"
+        },
+        {
+            "value": "Forensic Science Technician"
+        },
+        {
+            "value": "Forest and Conservation Technician"
+        },
+        {
+            "value": "Forest and Conservation Worker"
+        },
+        {
+            "value": "Forest Fire Fighter"
+        },
+        {
+            "value": "Forest Fire Fighting Supervisor"
+        },
+        {
+            "value": "Forest Fire Inspector"
+        },
+        {
+            "value": "Forester"
+        },
+        {
+            "value": "Forestry Conservation Science Teacher"
+        },
+        {
+            "value": "Forging Machine Setter"
+        },
+        {
+            "value": "Forming Machine Operator"
+        },
+        {
+            "value": "Forming Machine Operator"
+        },
+        {
+            "value": "Foundry Mold and Coremaker"
+        },
+        {
+            "value": "Fraud Investigator"
+        },
+        {
+            "value": "Freight Agent"
+        },
+        {
+            "value": "Freight and Material Mover"
+        },
+        {
+            "value": "Freight Inspector"
+        },
+        {
+            "value": "Funeral Attendant"
+        },
+        {
+            "value": "Funeral Director"
+        },
+        {
+            "value": "Furnace Operator"
+        },
+        {
+            "value": "Furniture Finisher"
+        },
+        {
+            "value": "Gaming Cage Worker"
+        },
+        {
+            "value": "Gaming Dealer"
+        },
+        {
+            "value": "Gaming Manager"
+        },
+        {
+            "value": "Gaming Service Worker"
+        },
+        {
+            "value": "Gaming Supervisor"
+        },
+        {
+            "value": "Gaming Surveillance Officer"
+        },
+        {
+            "value": "Garment"
+        },
+        {
+            "value": "Gas Appliance Repairer"
+        },
+        {
+            "value": "Gas Compressor Operator"
+        },
+        {
+            "value": "Gas Distribution Plant Operator"
+        },
+        {
+            "value": "Gas Plant Operator"
+        },
+        {
+            "value": "Gas Processing Plant Operator"
+        },
+        {
+            "value": "Gas Pumping Station Operator"
+        },
+        {
+            "value": "Gas Pumping Station Operator"
+        },
+        {
+            "value": "Gauger"
+        },
+        {
+            "value": "GED Teacher"
+        },
+        {
+            "value": "General Farmworker"
+        },
+        {
+            "value": "General Manager"
+        },
+        {
+            "value": "General Practitioner"
+        },
+        {
+            "value": "Geographer"
+        },
+        {
+            "value": "Geography Teacher"
+        },
+        {
+            "value": "Geological Data Technician"
+        },
+        {
+            "value": "Geological Sample Test Technician"
+        },
+        {
+            "value": "Geologist"
+        },
+        {
+            "value": "Geoscientists"
+        },
+        {
+            "value": "Glass Blower"
+        },
+        {
+            "value": "Glass Cutting Machine Operator"
+        },
+        {
+            "value": "Glazier"
+        },
+        {
+            "value": "Gluing Machine Operator"
+        },
+        {
+            "value": "Government"
+        },
+        {
+            "value": "Government Property Inspector"
+        },
+        {
+            "value": "Government Service Executive"
+        },
+        {
+            "value": "Graduate Teaching Assistant"
+        },
+        {
+            "value": "Graphic Designer"
+        },
+        {
+            "value": "Grinder OR Polisher"
+        },
+        {
+            "value": "Grinding Machine Operator"
+        },
+        {
+            "value": "Grips"
+        },
+        {
+            "value": "Grounds Maintenance Worker"
+        },
+        {
+            "value": "Hairdresser OR Cosmetologist"
+        },
+        {
+            "value": "Hand Trimmer"
+        },
+        {
+            "value": "Hand Presser"
+        },
+        {
+            "value": "Hand Sewer"
+        },
+        {
+            "value": "Hazardous Materials Removal Worker"
+        },
+        {
+            "value": "Head Nurse"
+        },
+        {
+            "value": "Health Educator"
+        },
+        {
+            "value": "Health Practitioner"
+        },
+        {
+            "value": "Health Services Manager"
+        },
+        {
+            "value": "Health Specialties Teacher"
+        },
+        {
+            "value": "Health Technologist"
+        },
+        {
+            "value": "Healthcare"
+        },
+        {
+            "value": "Healthcare Practitioner"
+        },
+        {
+            "value": "Healthcare Support Worker"
+        },
+        {
+            "value": "Heat Treating Equipment Operator"
+        },
+        {
+            "value": "Heaters"
+        },
+        {
+            "value": "Heating and Air Conditioning Mechanic"
+        },
+        {
+            "value": "Heating Equipment Operator"
+        },
+        {
+            "value": "Heavy Equipment Mechanic"
+        },
+        {
+            "value": "Highway Maintenance Worker"
+        },
+        {
+            "value": "Highway Patrol Pilot"
+        },
+        {
+            "value": "Historian"
+        },
+        {
+            "value": "History Teacher"
+        },
+        {
+            "value": "Hoist and Winch Operator"
+        },
+        {
+            "value": "Home"
+        },
+        {
+            "value": "Home Appliance Installer"
+        },
+        {
+            "value": "Home Appliance Repairer"
+        },
+        {
+            "value": "Home Economics Teacher"
+        },
+        {
+            "value": "Home Entertainment Equipment Installer"
+        },
+        {
+            "value": "Home Health Aide"
+        },
+        {
+            "value": "Homeland Security"
+        },
+        {
+            "value": "Horticultural Worker"
+        },
+        {
+            "value": "Host and Hostess"
+        },
+        {
+            "value": "Hotel Desk Clerk"
+        },
+        {
+            "value": "House Cleaner"
+        },
+        {
+            "value": "Housekeeper"
+        },
+        {
+            "value": "Housekeeping Supervisor"
+        },
+        {
+            "value": "HR Manager"
+        },
+        {
+            "value": "HR Specialist"
+        },
+        {
+            "value": "Human Resource Director"
+        },
+        {
+            "value": "Human Resource Manager"
+        },
+        {
+            "value": "Human Resources Assistant"
+        },
+        {
+            "value": "Human Resources Manager"
+        },
+        {
+            "value": "Human Resources Specialist"
+        },
+        {
+            "value": "Hunter and Trapper"
+        },
+        {
+            "value": "HVAC Mechanic"
+        },
+        {
+            "value": "Hydrologist"
+        },
+        {
+            "value": "Illustrator"
+        },
+        {
+            "value": "Immigration Inspector OR Customs Inspector"
+        },
+        {
+            "value": "Industrial Engineer"
+        },
+        {
+            "value": "Industrial Engineering Technician"
+        },
+        {
+            "value": "Industrial Equipment Maintenance"
+        },
+        {
+            "value": "Industrial Machinery Mechanic"
+        },
+        {
+            "value": "Industrial Production Manager"
+        },
+        {
+            "value": "Industrial Safety Engineer"
+        },
+        {
+            "value": "Industrial-Organizational Psychologist"
+        },
+        {
+            "value": "Infantry"
+        },
+        {
+            "value": "Infantry Officer"
+        },
+        {
+            "value": "Information Systems Manager"
+        },
+        {
+            "value": "Inspector"
+        },
+        {
+            "value": "Installation and Repair Technician"
+        },
+        {
+            "value": "Instructional Coordinator"
+        },
+        {
+            "value": "Instrument Sales Representative"
+        },
+        {
+            "value": "Insulation Installer"
+        },
+        {
+            "value": "Insulation Worker"
+        },
+        {
+            "value": "Insurance Investigator"
+        },
+        {
+            "value": "Insurance Appraiser"
+        },
+        {
+            "value": "Insurance Claims Clerk"
+        },
+        {
+            "value": "Insurance Policy Processing Clerk"
+        },
+        {
+            "value": "Insurance Sales Agent"
+        },
+        {
+            "value": "Insurance Underwriter"
+        },
+        {
+            "value": "Interaction Designer"
+        },
+        {
+            "value": "Interior Designer"
+        },
+        {
+            "value": "Internist"
+        },
+        {
+            "value": "Interpreter OR Translator"
+        },
+        {
+            "value": "Interviewer"
+        },
+        {
+            "value": "Irradiated-Fuel Handler"
+        },
+        {
+            "value": "Janitor"
+        },
+        {
+            "value": "Janitorial Supervisor"
+        },
+        {
+            "value": "Jeweler"
+        },
+        {
+            "value": "Jewelry Model OR Mold Makers"
+        },
+        {
+            "value": "Job Printer"
+        },
+        {
+            "value": "Judge"
+        },
+        {
+            "value": "Keyboard Instrument Repairer and Tuner"
+        },
+        {
+            "value": "Kindergarten Teacher"
+        },
+        {
+            "value": "Landscape Architect"
+        },
+        {
+            "value": "Landscape Artist"
+        },
+        {
+            "value": "Landscaper"
+        },
+        {
+            "value": "Landscaping"
+        },
+        {
+            "value": "Lathe Operator"
+        },
+        {
+            "value": "Laundry OR Dry-Cleaning Worker"
+        },
+        {
+            "value": "Law Clerk"
+        },
+        {
+            "value": "Law Enforcement Teacher"
+        },
+        {
+            "value": "Law Teacher"
+        },
+        {
+            "value": "Lawn Service Manager"
+        },
+        {
+            "value": "Lawyer"
+        },
+        {
+            "value": "Lay-Out Worker"
+        },
+        {
+            "value": "Legal Secretary"
+        },
+        {
+            "value": "Legal Support Worker"
+        },
+        {
+            "value": "Legislator"
+        },
+        {
+            "value": "Letterpress Setters Operator"
+        },
+        {
+            "value": "Librarian"
+        },
+        {
+            "value": "Library Assistant"
+        },
+        {
+            "value": "Library Science Teacher"
+        },
+        {
+            "value": "Library Technician"
+        },
+        {
+            "value": "Library Worker"
+        },
+        {
+            "value": "License Clerk"
+        },
+        {
+            "value": "Licensed Practical Nurse"
+        },
+        {
+            "value": "Licensing Examiner and Inspector"
+        },
+        {
+            "value": "Life Science Technician"
+        },
+        {
+            "value": "Life Scientists"
+        },
+        {
+            "value": "Lifeguard"
+        },
+        {
+            "value": "Loading Machine Operator"
+        },
+        {
+            "value": "Loan Counselor"
+        },
+        {
+            "value": "Loan Interviewer"
+        },
+        {
+            "value": "Loan Officer"
+        },
+        {
+            "value": "Locker Room Attendant"
+        },
+        {
+            "value": "Locksmith"
+        },
+        {
+            "value": "Locomotive Engineer"
+        },
+        {
+            "value": "Locomotive Firer"
+        },
+        {
+            "value": "Lodging Manager"
+        },
+        {
+            "value": "Log Grader and Scaler"
+        },
+        {
+            "value": "Logging Equipment Operator"
+        },
+        {
+            "value": "Logging Supervisor"
+        },
+        {
+            "value": "Logging Tractor Operator"
+        },
+        {
+            "value": "Logging Worker"
+        },
+        {
+            "value": "Logistician"
+        },
+        {
+            "value": "Machine Feeder"
+        },
+        {
+            "value": "Machine Operator"
+        },
+        {
+            "value": "Machine Tool Operator"
+        },
+        {
+            "value": "Machinery Maintenance"
+        },
+        {
+            "value": "Machinist"
+        },
+        {
+            "value": "Maid"
+        },
+        {
+            "value": "Mail Clerk"
+        },
+        {
+            "value": "Mail Machine Operator"
+        },
+        {
+            "value": "Maintenance and Repair Worker"
+        },
+        {
+            "value": "Maintenance Equipment Operator"
+        },
+        {
+            "value": "Maintenance Supervisor"
+        },
+        {
+            "value": "Maintenance Worker"
+        },
+        {
+            "value": "Makeup Artists"
+        },
+        {
+            "value": "Management Analyst"
+        },
+        {
+            "value": "Manager"
+        },
+        {
+            "value": "Manager of Air Crew"
+        },
+        {
+            "value": "Manager of Food Preparation"
+        },
+        {
+            "value": "Manager of Weapons Specialists"
+        },
+        {
+            "value": "Manager Tactical Operations"
+        },
+        {
+            "value": "Manicurists"
+        },
+        {
+            "value": "Manufactured Building Installer"
+        },
+        {
+            "value": "Manufacturing Sales Representative"
+        },
+        {
+            "value": "Mapping Technician"
+        },
+        {
+            "value": "MARCOM Director"
+        },
+        {
+            "value": "MARCOM Manager"
+        },
+        {
+            "value": "Marine Architect"
+        },
+        {
+            "value": "Marine Cargo Inspector"
+        },
+        {
+            "value": "Marine Engineer"
+        },
+        {
+            "value": "Marine Oiler"
+        },
+        {
+            "value": "Market Research Analyst"
+        },
+        {
+            "value": "Marketing Manager"
+        },
+        {
+            "value": "Marketing VP"
+        },
+        {
+            "value": "Marking Clerk"
+        },
+        {
+            "value": "Marking Machine Operator"
+        },
+        {
+            "value": "Marriage and Family Therapist"
+        },
+        {
+            "value": "Massage Therapist"
+        },
+        {
+            "value": "Material Movers"
+        },
+        {
+            "value": "Material Moving Worker"
+        },
+        {
+            "value": "Materials Engineer"
+        },
+        {
+            "value": "Materials Inspector"
+        },
+        {
+            "value": "Materials Scientist"
+        },
+        {
+            "value": "Mathematical Science Teacher"
+        },
+        {
+            "value": "Mathematical Scientist"
+        },
+        {
+            "value": "Mathematical Technician"
+        },
+        {
+            "value": "Mathematician"
+        },
+        {
+            "value": "Meat Packer"
+        },
+        {
+            "value": "Mechanical Door Repairer"
+        },
+        {
+            "value": "Mechanical Drafter"
+        },
+        {
+            "value": "Mechanical Engineer"
+        },
+        {
+            "value": "Mechanical Engineering Technician"
+        },
+        {
+            "value": "Mechanical Equipment Sales Representative"
+        },
+        {
+            "value": "Mechanical Inspector"
+        },
+        {
+            "value": "Media and Communication Worker"
+        },
+        {
+            "value": "Medical Appliance Technician"
+        },
+        {
+            "value": "Medical Assistant"
+        },
+        {
+            "value": "Medical Equipment Preparer"
+        },
+        {
+            "value": "Medical Equipment Repairer"
+        },
+        {
+            "value": "Medical Laboratory Technologist"
+        },
+        {
+            "value": "Medical Records Technician"
+        },
+        {
+            "value": "Medical Sales Representative"
+        },
+        {
+            "value": "Medical Scientists"
+        },
+        {
+            "value": "Medical Secretary"
+        },
+        {
+            "value": "Medical Technician"
+        },
+        {
+            "value": "Medical Transcriptionist"
+        },
+        {
+            "value": "Mental Health Counselor"
+        },
+        {
+            "value": "Merchandise Displayer OR Window Trimmer"
+        },
+        {
+            "value": "Metal Fabricator"
+        },
+        {
+            "value": "Metal Molding Operator"
+        },
+        {
+            "value": "Metal Pourer and Caster"
+        },
+        {
+            "value": "Metal Worker"
+        },
+        {
+            "value": "Metal-Refining Furnace Operator"
+        },
+        {
+            "value": "Meter Mechanic"
+        },
+        {
+            "value": "Microbiologist"
+        },
+        {
+            "value": "Middle School Teacher"
+        },
+        {
+            "value": "Military Officer"
+        },
+        {
+            "value": "Milling Machine Operator"
+        },
+        {
+            "value": "Millwright"
+        },
+        {
+            "value": "Mine Cutting Machine Operator"
+        },
+        {
+            "value": "Mining Engineer OR Geological Engineer"
+        },
+        {
+            "value": "Mining Machine Operator"
+        },
+        {
+            "value": "Mixing and Blending Machine Operator"
+        },
+        {
+            "value": "Model Maker"
+        },
+        {
+            "value": "Mold Maker"
+        },
+        {
+            "value": "Molder"
+        },
+        {
+            "value": "Molding and Casting Worker"
+        },
+        {
+            "value": "Molding Machine Operator"
+        },
+        {
+            "value": "Motion Picture Projectionist"
+        },
+        {
+            "value": "Motor Vehicle Inspector"
+        },
+        {
+            "value": "Motor Vehicle Operator"
+        },
+        {
+            "value": "Motorboat Mechanic"
+        },
+        {
+            "value": "Motorboat Operator"
+        },
+        {
+            "value": "Motorcycle Mechanic"
+        },
+        {
+            "value": "Movers"
+        },
+        {
+            "value": "Movie Director oR Theatre Director"
+        },
+        {
+            "value": "Multi-Media Artist"
+        },
+        {
+            "value": "Multiple Machine Tool Setter"
+        },
+        {
+            "value": "Municipal Clerk"
+        },
+        {
+            "value": "Municipal Court Clerk"
+        },
+        {
+            "value": "Municipal Fire Fighter"
+        },
+        {
+            "value": "Municipal Fire Fighting Supervisor"
+        },
+        {
+            "value": "Museum Conservator"
+        },
+        {
+            "value": "Music Arranger and Orchestrator"
+        },
+        {
+            "value": "Music Composer"
+        },
+        {
+            "value": "Music Director"
+        },
+        {
+            "value": "Musical Instrument Tuner"
+        },
+        {
+            "value": "Musician"
+        },
+        {
+            "value": "Musician OR Singer"
+        },
+        {
+            "value": "Natural Sciences Manager"
+        },
+        {
+            "value": "Naval Architects"
+        },
+        {
+            "value": "Network Admin OR Computer Systems Administrator"
+        },
+        {
+            "value": "Network Systems Analyst"
+        },
+        {
+            "value": "New Accounts Clerk"
+        },
+        {
+            "value": "Night Security Guard"
+        },
+        {
+            "value": "Night Shift"
+        },
+        {
+            "value": "Nonfarm Animal Caretaker"
+        },
+        {
+            "value": "Nuclear Engineer"
+        },
+        {
+            "value": "Nuclear Equipment Operation Technician"
+        },
+        {
+            "value": "Nuclear Medicine Technologist"
+        },
+        {
+            "value": "Nuclear Monitoring Technician"
+        },
+        {
+            "value": "Nuclear Power Reactor Operator"
+        },
+        {
+            "value": "Nuclear Technician"
+        },
+        {
+            "value": "Numerical Control Machine Tool Operator"
+        },
+        {
+            "value": "Numerical Tool Programmer OR Process Control Programmer"
+        },
+        {
+            "value": "Nursery Manager"
+        },
+        {
+            "value": "Nursery Worker"
+        },
+        {
+            "value": "Nursing Aide"
+        },
+        {
+            "value": "Nursing Instructor"
+        },
+        {
+            "value": "Nutritionist"
+        },
+        {
+            "value": "Obstetrician"
+        },
+        {
+            "value": "Occupational Health Safety Specialist"
+        },
+        {
+            "value": "Occupational Health Safety Technician"
+        },
+        {
+            "value": "Occupational Therapist"
+        },
+        {
+            "value": "Occupational Therapist Aide"
+        },
+        {
+            "value": "Occupational Therapist Assistant"
+        },
+        {
+            "value": "Office and Administrative Support Worker"
+        },
+        {
+            "value": "Office Clerk"
+        },
+        {
+            "value": "Office Machine and Cash Register Servicer"
+        },
+        {
+            "value": "Office Machine Operator"
+        },
+        {
+            "value": "Offset Lithographic Press Operator"
+        },
+        {
+            "value": "Oil and gas Operator"
+        },
+        {
+            "value": "Oil Service Unit Operator"
+        },
+        {
+            "value": "Online Marketing Analyst"
+        },
+        {
+            "value": "Operating Engineer"
+        },
+        {
+            "value": "Operations Research Analyst"
+        },
+        {
+            "value": "Ophthalmic Laboratory Technician"
+        },
+        {
+            "value": "Optical Instrument Assembler"
+        },
+        {
+            "value": "Opticians"
+        },
+        {
+            "value": "Optometrist"
+        },
+        {
+            "value": "Oral Surgeon"
+        },
+        {
+            "value": "Order Clerk"
+        },
+        {
+            "value": "Order Filler"
+        },
+        {
+            "value": "Order Filler OR Stock Clerk"
+        },
+        {
+            "value": "Organizational Development Manager"
+        },
+        {
+            "value": "Orthodontist"
+        },
+        {
+            "value": "Orthotist OR Prosthetist"
+        },
+        {
+            "value": "Outdoor Power Equipment Mechanic"
+        },
+        {
+            "value": "Packaging Machine Operator"
+        },
+        {
+            "value": "Packer and Packager"
+        },
+        {
+            "value": "Painter"
+        },
+        {
+            "value": "Painter and Illustrator"
+        },
+        {
+            "value": "Painting Machine Operator"
+        },
+        {
+            "value": "Pantograph Engraver"
+        },
+        {
+            "value": "Paper Goods Machine Operator"
+        },
+        {
+            "value": "Paperhanger"
+        },
+        {
+            "value": "Paralegal"
+        },
+        {
+            "value": "Park Naturalist"
+        },
+        {
+            "value": "Parking Enforcement Worker"
+        },
+        {
+            "value": "Parking Lot Attendant"
+        },
+        {
+            "value": "Parts Salesperson"
+        },
+        {
+            "value": "Paste-Up Worker"
+        },
+        {
+            "value": "Pastry Chef"
+        },
+        {
+            "value": "Patrol Officer"
+        },
+        {
+            "value": "Patternmaker"
+        },
+        {
+            "value": "Paving Equipment Operator"
+        },
+        {
+            "value": "Payroll Clerk"
+        },
+        {
+            "value": "Pediatricians"
+        },
+        {
+            "value": "Percussion Instrument Repairer"
+        },
+        {
+            "value": "Personal Care Worker"
+        },
+        {
+            "value": "Personal Financial Advisor"
+        },
+        {
+            "value": "Personal Home Care Aide"
+        },
+        {
+            "value": "Personal Service Worker"
+        },
+        {
+            "value": "Personal Trainer"
+        },
+        {
+            "value": "Personnel Recruiter"
+        },
+        {
+            "value": "Pest Control Worker"
+        },
+        {
+            "value": "Pesticide Sprayer"
+        },
+        {
+            "value": "Petroleum Engineer"
+        },
+        {
+            "value": "Petroleum Pump Operator"
+        },
+        {
+            "value": "Petroleum Pump System Operator"
+        },
+        {
+            "value": "Petroleum Technician"
+        },
+        {
+            "value": "Pewter Caster"
+        },
+        {
+            "value": "Pharmaceutical Sales Representative"
+        },
+        {
+            "value": "Pharmacist"
+        },
+        {
+            "value": "Pharmacy Aide"
+        },
+        {
+            "value": "Pharmacy Technician"
+        },
+        {
+            "value": "Philosophy and Religion Teacher"
+        },
+        {
+            "value": "Photoengraver"
+        },
+        {
+            "value": "Photoengraving Machine Operator"
+        },
+        {
+            "value": "Photographer"
+        },
+        {
+            "value": "Photographic Restorer"
+        },
+        {
+            "value": "Photographic Developer"
+        },
+        {
+            "value": "Photographic Process Worker"
+        },
+        {
+            "value": "Photographic Processing Machine Operator"
+        },
+        {
+            "value": "Photographic Reproduction Technician"
+        },
+        {
+            "value": "Physical Scientist"
+        },
+        {
+            "value": "Physical Therapist"
+        },
+        {
+            "value": "Physical Therapist Aide"
+        },
+        {
+            "value": "Physical Therapist Assistant"
+        },
+        {
+            "value": "Physician"
+        },
+        {
+            "value": "Physician Assistant"
+        },
+        {
+            "value": "Physicist"
+        },
+        {
+            "value": "Physics Teacher"
+        },
+        {
+            "value": "Pile-Driver Operator"
+        },
+        {
+            "value": "Pipe Fitter"
+        },
+        {
+            "value": "Pipefitter"
+        },
+        {
+            "value": "Pipelayer"
+        },
+        {
+            "value": "Pipelaying Fitter"
+        },
+        {
+            "value": "Plant and System Operator"
+        },
+        {
+            "value": "Plant Scientist"
+        },
+        {
+            "value": "Plasterer OR Stucco Mason"
+        },
+        {
+            "value": "Plastic Molding Machine Operator"
+        },
+        {
+            "value": "Plate Finisher"
+        },
+        {
+            "value": "Platemaker"
+        },
+        {
+            "value": "Plating Machine Operator"
+        },
+        {
+            "value": "Plating Operator"
+        },
+        {
+            "value": "Plating Operator OR Coating Machine Operator"
+        },
+        {
+            "value": "Plumber"
+        },
+        {
+            "value": "Plumber OR Pipefitter OR Steamfitter"
+        },
+        {
+            "value": "Podiatrist"
+        },
+        {
+            "value": "Poet OR Lyricist"
+        },
+        {
+            "value": "Police and Sheriffs Patrol Officer"
+        },
+        {
+            "value": "Police Detective"
+        },
+        {
+            "value": "Police Identification OR Records Officer"
+        },
+        {
+            "value": "Political Science Teacher"
+        },
+        {
+            "value": "Political Scientist"
+        },
+        {
+            "value": "Portable Power Tool Repairer"
+        },
+        {
+            "value": "Postal Clerk"
+        },
+        {
+            "value": "Postal Service Clerk"
+        },
+        {
+            "value": "Postal Service Mail Carrier"
+        },
+        {
+            "value": "Postal Service Mail Sorter"
+        },
+        {
+            "value": "Postmasters"
+        },
+        {
+            "value": "Postsecondary Education Administrators"
+        },
+        {
+            "value": "Postsecondary Teacher"
+        },
+        {
+            "value": "Potter"
+        },
+        {
+            "value": "Poultry Cutter"
+        },
+        {
+            "value": "Power Distributors OR Dispatcher"
+        },
+        {
+            "value": "Power Generating Plant Operator"
+        },
+        {
+            "value": "Power Plant Operator"
+        },
+        {
+            "value": "PR Manager"
+        },
+        {
+            "value": "Precious Stone Worker"
+        },
+        {
+            "value": "Precision Aircraft Systems Assemblers"
+        },
+        {
+            "value": "Precision Devices Inspector"
+        },
+        {
+            "value": "Precision Dyer"
+        },
+        {
+            "value": "Precision Etcher and Engraver"
+        },
+        {
+            "value": "Precision Instrument Repairer"
+        },
+        {
+            "value": "Precision Lens Grinders and Polisher"
+        },
+        {
+            "value": "Precision Mold and Pattern Caster"
+        },
+        {
+            "value": "Precision Pattern and Die Caster"
+        },
+        {
+            "value": "Precision Printing Worker"
+        },
+        {
+            "value": "Prepress Technician"
+        },
+        {
+            "value": "Preschool Education Administrators"
+        },
+        {
+            "value": "Preschool Teacher"
+        },
+        {
+            "value": "Press Machine Setter, Operator"
+        },
+        {
+            "value": "Pressing Machine Operator"
+        },
+        {
+            "value": "Pressure Vessel Inspector"
+        },
+        {
+            "value": "Printing Machine Operator"
+        },
+        {
+            "value": "Printing Press Machine Operator"
+        },
+        {
+            "value": "Private Detective and Investigator"
+        },
+        {
+            "value": "Private Household Cook"
+        },
+        {
+            "value": "Private Sector Executive"
+        },
+        {
+            "value": "Probation Officers and Correctional Treatment Specialist"
+        },
+        {
+            "value": "Procurement Clerk"
+        },
+        {
+            "value": "Producer"
+        },
+        {
+            "value": "Producers and Director"
+        },
+        {
+            "value": "Product Management Leader"
+        },
+        {
+            "value": "Product Promoter"
+        },
+        {
+            "value": "Product Safety Engineer"
+        },
+        {
+            "value": "Product Specialist"
+        },
+        {
+            "value": "Production Control Manager"
+        },
+        {
+            "value": "Production Helper"
+        },
+        {
+            "value": "Production Inspector"
+        },
+        {
+            "value": "Production Laborer"
+        },
+        {
+            "value": "Production Manager"
+        },
+        {
+            "value": "Production Planner"
+        },
+        {
+            "value": "Production Planning"
+        },
+        {
+            "value": "Production Worker"
+        },
+        {
+            "value": "Professional Photographer"
+        },
+        {
+            "value": "Professor"
+        },
+        {
+            "value": "Program Director"
+        },
+        {
+            "value": "Project Manager"
+        },
+        {
+            "value": "Proofreaders and Copy Marker"
+        },
+        {
+            "value": "Prosthodontist"
+        },
+        {
+            "value": "Protective Service Worker"
+        },
+        {
+            "value": "Protective Service Worker"
+        },
+        {
+            "value": "Psychiatric Aide"
+        },
+        {
+            "value": "Psychiatric Technician"
+        },
+        {
+            "value": "Psychiatrist"
+        },
+        {
+            "value": "Psychologist"
+        },
+        {
+            "value": "Psychology Teacher"
+        },
+        {
+            "value": "Public Health Social Worker"
+        },
+        {
+            "value": "Public Relations Manager"
+        },
+        {
+            "value": "Public Relations Specialist"
+        },
+        {
+            "value": "Public Transportation Inspector"
+        },
+        {
+            "value": "Pump Operators"
+        },
+        {
+            "value": "Punching Machine Setters"
+        },
+        {
+            "value": "Purchasing Agent"
+        },
+        {
+            "value": "Purchasing Manager"
+        },
+        {
+            "value": "Radar Technician"
+        },
+        {
+            "value": "Radiation Therapist"
+        },
+        {
+            "value": "Radio and Television Announcer"
+        },
+        {
+            "value": "Radio Mechanic"
+        },
+        {
+            "value": "Radio Operator"
+        },
+        {
+            "value": "Radiologic Technician"
+        },
+        {
+            "value": "Radiologic Technologist"
+        },
+        {
+            "value": "Radiologic Technologist and Technician"
+        },
+        {
+            "value": "Rail Car Repairer"
+        },
+        {
+            "value": "Rail Transportation Worker"
+        },
+        {
+            "value": "Rail Yard Engineer"
+        },
+        {
+            "value": "Railroad Conductors"
+        },
+        {
+            "value": "Railroad Inspector"
+        },
+        {
+            "value": "Railroad Switch Operator"
+        },
+        {
+            "value": "Railroad Yard Worker"
+        },
+        {
+            "value": "Range Manager"
+        },
+        {
+            "value": "Real Estate Appraiser"
+        },
+        {
+            "value": "Real Estate Association Manager"
+        },
+        {
+            "value": "Real Estate Broker"
+        },
+        {
+            "value": "Real Estate Sales Agent"
+        },
+        {
+            "value": "Receptionist and Information Clerk"
+        },
+        {
+            "value": "Record Clerk"
+        },
+        {
+            "value": "Recordkeeping Clerk"
+        },
+        {
+            "value": "Recreation and Fitness Studies Teacher"
+        },
+        {
+            "value": "Recreation Worker"
+        },
+        {
+            "value": "Recreational Therapist"
+        },
+        {
+            "value": "Recreational Vehicle Service Technician"
+        },
+        {
+            "value": "Recruiter"
+        },
+        {
+            "value": "Recyclable Material Collector"
+        },
+        {
+            "value": "Refinery Operator"
+        },
+        {
+            "value": "Refractory Materials Repairer"
+        },
+        {
+            "value": "Refrigeration Mechanic"
+        },
+        {
+            "value": "Registered Nurse"
+        },
+        {
+            "value": "Rehabilitation Counselor"
+        },
+        {
+            "value": "Religious Worker"
+        },
+        {
+            "value": "Rental Clerk"
+        },
+        {
+            "value": "Reporters OR Correspondent"
+        },
+        {
+            "value": "Reservation Agent OR Transportation Ticket Agent"
+        },
+        {
+            "value": "Residential Advisor"
+        },
+        {
+            "value": "Respiratory Therapist"
+        },
+        {
+            "value": "Respiratory Therapy Technician"
+        },
+        {
+            "value": "Restaurant Cook"
+        },
+        {
+            "value": "Retail Sales person"
+        },
+        {
+            "value": "Retail Salesperson"
+        },
+        {
+            "value": "Rigger"
+        },
+        {
+            "value": "RN"
+        },
+        {
+            "value": "Rock Splitter"
+        },
+        {
+            "value": "Rolling Machine Setter"
+        },
+        {
+            "value": "Roof Bolters Mining"
+        },
+        {
+            "value": "Roofer"
+        },
+        {
+            "value": "Rotary Drill Operator"
+        },
+        {
+            "value": "Rough Carpenter"
+        },
+        {
+            "value": "Roustabouts"
+        },
+        {
+            "value": "Safety Engineer"
+        },
+        {
+            "value": "Sailor"
+        },
+        {
+            "value": "Sales and Related Workers"
+        },
+        {
+            "value": "Sales Engineer"
+        },
+        {
+            "value": "Sales Manager"
+        },
+        {
+            "value": "Sales Person"
+        },
+        {
+            "value": "Sales Representative"
+        },
+        {
+            "value": "Sawing Machine Operator"
+        },
+        {
+            "value": "Sawing Machine Setter"
+        },
+        {
+            "value": "Sawing Machine Tool Setter"
+        },
+        {
+            "value": "Scanner Operator"
+        },
+        {
+            "value": "School Bus Driver"
+        },
+        {
+            "value": "School Social Worker"
+        },
+        {
+            "value": "Scientific Photographer"
+        },
+        {
+            "value": "Screen Printing Machine Operator"
+        },
+        {
+            "value": "Sculptor"
+        },
+        {
+            "value": "Secondary School Teacher"
+        },
+        {
+            "value": "Secretary"
+        },
+        {
+            "value": "Securities Sales Agent"
+        },
+        {
+            "value": "Security Guard"
+        },
+        {
+            "value": "Security Systems Installer OR Fire Alarm Systems Installer"
+        },
+        {
+            "value": "Segmental Paver"
+        },
+        {
+            "value": "Self-Enrichment Education Teacher"
+        },
+        {
+            "value": "Semiconductor Processor"
+        },
+        {
+            "value": "Separating Machine Operators"
+        },
+        {
+            "value": "Septic Tank Servicer"
+        },
+        {
+            "value": "Service Station Attendant"
+        },
+        {
+            "value": "Set and Exhibit Designer"
+        },
+        {
+            "value": "Set Designer"
+        },
+        {
+            "value": "Sewing Machine Operator"
+        },
+        {
+            "value": "Shampooer"
+        },
+        {
+            "value": "Shear Machine Set-Up Operator"
+        },
+        {
+            "value": "Sheet Metal Worker"
+        },
+        {
+            "value": "Sheriff"
+        },
+        {
+            "value": "Ship Captain"
+        },
+        {
+            "value": "Ship Carpenter and Joiner"
+        },
+        {
+            "value": "Ship Engineer"
+        },
+        {
+            "value": "Ship Mates"
+        },
+        {
+            "value": "Ship Pilot"
+        },
+        {
+            "value": "Shipping and Receiving Clerk"
+        },
+        {
+            "value": "Shoe and Leather Repairer"
+        },
+        {
+            "value": "Shoe Machine Operators"
+        },
+        {
+            "value": "Short Order Cook"
+        },
+        {
+            "value": "Shuttle Car Operator"
+        },
+        {
+            "value": "Signal Repairer OR Track Switch Repairer"
+        },
+        {
+            "value": "Silversmith"
+        },
+        {
+            "value": "Singer"
+        },
+        {
+            "value": "Sketch Artist"
+        },
+        {
+            "value": "Skin Care Specialist"
+        },
+        {
+            "value": "Slot Key Person"
+        },
+        {
+            "value": "Social and Human Service Assistant"
+        },
+        {
+            "value": "Social Media Marketing Manager"
+        },
+        {
+            "value": "Social Science Research Assistant"
+        },
+        {
+            "value": "Social Sciences Teacher"
+        },
+        {
+            "value": "Social Scientists"
+        },
+        {
+            "value": "Social Service Specialists"
+        },
+        {
+            "value": "Social Work Teacher"
+        },
+        {
+            "value": "Social Worker"
+        },
+        {
+            "value": "Sociologist"
+        },
+        {
+            "value": "Sociology Teacher"
+        },
+        {
+            "value": "Software Engineer"
+        },
+        {
+            "value": "Soil Conservationist"
+        },
+        {
+            "value": "Soil Scientist"
+        },
+        {
+            "value": "Soil Scientist OR Plant Scientist"
+        },
+        {
+            "value": "Solderer"
+        },
+        {
+            "value": "Soldering Machine Setter"
+        },
+        {
+            "value": "Sound Engineering Technician"
+        },
+        {
+            "value": "Space Sciences Teacher"
+        },
+        {
+            "value": "Special Education Teacher"
+        },
+        {
+            "value": "Special Force"
+        },
+        {
+            "value": "Special Forces Officer"
+        },
+        {
+            "value": "Speech-Language Pathologist"
+        },
+        {
+            "value": "Sports Book Writer"
+        },
+        {
+            "value": "Spotters"
+        },
+        {
+            "value": "Spraying Machine Operator"
+        },
+        {
+            "value": "Staff Psychologist"
+        },
+        {
+            "value": "State"
+        },
+        {
+            "value": "Statement Clerk"
+        },
+        {
+            "value": "Stationary Engineer"
+        },
+        {
+            "value": "Stationary Engineer OR Boiler Operator"
+        },
+        {
+            "value": "Statistical Assistant"
+        },
+        {
+            "value": "Statistician"
+        },
+        {
+            "value": "Steel Worker"
+        },
+        {
+            "value": "Stevedore"
+        },
+        {
+            "value": "Stock Broker"
+        },
+        {
+            "value": "Stock Clerk"
+        },
+        {
+            "value": "Stone Cutter"
+        },
+        {
+            "value": "Stone Sawyer"
+        },
+        {
+            "value": "Stonemason"
+        },
+        {
+            "value": "Stonemason"
+        },
+        {
+            "value": "Storage Manager OR Distribution Manager"
+        },
+        {
+            "value": "Streetcar Operator"
+        },
+        {
+            "value": "Stringed Instrument Repairer and Tuner"
+        },
+        {
+            "value": "Stripper"
+        },
+        {
+            "value": "Structural Iron and Steel Worker"
+        },
+        {
+            "value": "Structural Metal Fabricator"
+        },
+        {
+            "value": "Substance Abuse Counselor"
+        },
+        {
+            "value": "Substance Abuse Social Worker"
+        },
+        {
+            "value": "Substation Maintenance"
+        },
+        {
+            "value": "Supervisor Correctional Officer"
+        },
+        {
+            "value": "Supervisor Fire Fighting Worker"
+        },
+        {
+            "value": "Supervisor of Customer Service"
+        },
+        {
+            "value": "Supervisor of Police"
+        },
+        {
+            "value": "Surgeon"
+        },
+        {
+            "value": "Surgical Technologist"
+        },
+        {
+            "value": "Survey Researcher"
+        },
+        {
+            "value": "Surveying and Mapping Technician"
+        },
+        {
+            "value": "Surveying Technician"
+        },
+        {
+            "value": "Surveyor"
+        },
+        {
+            "value": "Sys Admin"
+        },
+        {
+            "value": "System Administrator"
+        },
+        {
+            "value": "Tailor"
+        },
+        {
+            "value": "Talent Acquisition Manager"
+        },
+        {
+            "value": "Talent Director"
+        },
+        {
+            "value": "Tank Car"
+        },
+        {
+            "value": "Taper"
+        },
+        {
+            "value": "Tax Examiner"
+        },
+        {
+            "value": "Tax Preparer"
+        },
+        {
+            "value": "Taxi Drivers and Chauffeur"
+        },
+        {
+            "value": "Teacher"
+        },
+        {
+            "value": "Teacher Assistant"
+        },
+        {
+            "value": "Team Assembler"
+        },
+        {
+            "value": "Technical Director"
+        },
+        {
+            "value": "Technical Program Manager"
+        },
+        {
+            "value": "Technical Specialist"
+        },
+        {
+            "value": "Technical Writer"
+        },
+        {
+            "value": "Telecommunications Equipment Installer"
+        },
+        {
+            "value": "Telecommunications Facility Examiner"
+        },
+        {
+            "value": "Telecommunications Line Installer"
+        },
+        {
+            "value": "Telemarketer"
+        },
+        {
+            "value": "Telephone Operator"
+        },
+        {
+            "value": "Telephone Station Installer and Repairer"
+        },
+        {
+            "value": "Teller"
+        },
+        {
+            "value": "Terrazzo Workes and Finisher"
+        },
+        {
+            "value": "Textile Cutting Machine Operator"
+        },
+        {
+            "value": "Textile Dyeing Machine Operator"
+        },
+        {
+            "value": "Textile Knitting Machine Operator"
+        },
+        {
+            "value": "Textile Machine Operator"
+        },
+        {
+            "value": "Textile Worker"
+        },
+        {
+            "value": "Therapist"
+        },
+        {
+            "value": "Ticket Agent"
+        },
+        {
+            "value": "Tile Setter OR Marble Setter"
+        },
+        {
+            "value": "Timing Device Assemblers"
+        },
+        {
+            "value": "Tire Builder"
+        },
+        {
+            "value": "Tire Changer"
+        },
+        {
+            "value": "Title Abstractor"
+        },
+        {
+            "value": "Title Examiner"
+        },
+        {
+            "value": "Title Searcher"
+        },
+        {
+            "value": "Tool and Die Maker"
+        },
+        {
+            "value": "Tool Set-Up Operator"
+        },
+        {
+            "value": "Tool Sharpener"
+        },
+        {
+            "value": "Tour Guide"
+        },
+        {
+            "value": "Tractor Operator"
+        },
+        {
+            "value": "Tractor-Trailer Truck Driver"
+        },
+        {
+            "value": "Traffic Technician"
+        },
+        {
+            "value": "Train Crew"
+        },
+        {
+            "value": "Trainer"
+        },
+        {
+            "value": "Training Manager OR Development Manager"
+        },
+        {
+            "value": "Transformer Repairer"
+        },
+        {
+            "value": "Transit Police OR Railroad Police"
+        },
+        {
+            "value": "Transportation and Material-Moving"
+        },
+        {
+            "value": "Transportation Attendant"
+        },
+        {
+            "value": "Transportation Equipment Maintenance"
+        },
+        {
+            "value": "Transportation Equipment Painters"
+        },
+        {
+            "value": "Transportation Inspector"
+        },
+        {
+            "value": "Transportation Manager"
+        },
+        {
+            "value": "Transportation Worker"
+        },
+        {
+            "value": "Travel Agent"
+        },
+        {
+            "value": "Travel Clerk"
+        },
+        {
+            "value": "Travel Guide"
+        },
+        {
+            "value": "Tree Trimmer"
+        },
+        {
+            "value": "Truck Driver"
+        },
+        {
+            "value": "TSA"
+        },
+        {
+            "value": "Typesetter"
+        },
+        {
+            "value": "Typesetting Machine Operator"
+        },
+        {
+            "value": "Umpire and Referee"
+        },
+        {
+            "value": "Underground Mining"
+        },
+        {
+            "value": "University"
+        },
+        {
+            "value": "Upholsterer"
+        },
+        {
+            "value": "Urban Planner"
+        },
+        {
+            "value": "User Experience Manager"
+        },
+        {
+            "value": "User Experience Researcher"
+        },
+        {
+            "value": "Usher"
+        },
+        {
+            "value": "Utility Meter Reader"
+        },
+        {
+            "value": "Valve Repairer OR Regulator Repairer"
+        },
+        {
+            "value": "Vending Machine Servicer"
+        },
+        {
+            "value": "Veterinarian"
+        },
+        {
+            "value": "Veterinary Assistant OR Laboratory Animal Caretaker"
+        },
+        {
+            "value": "Veterinary Technician"
+        },
+        {
+            "value": "Vice President Of Human Resources"
+        },
+        {
+            "value": "Vice President Of Marketing"
+        },
+        {
+            "value": "Video Editor"
+        },
+        {
+            "value": "Visual Designer"
+        },
+        {
+            "value": "Vocational Education Teacher"
+        },
+        {
+            "value": "Waiter"
+        },
+        {
+            "value": "Waitress"
+        },
+        {
+            "value": "Warehouse"
+        },
+        {
+            "value": "Washing Equipment Operator"
+        },
+        {
+            "value": "Waste Treatment Plant Operator"
+        },
+        {
+            "value": "Watch Repairer"
+        },
+        {
+            "value": "Weapons Specialists"
+        },
+        {
+            "value": "Web Developer"
+        },
+        {
+            "value": "Webmaster"
+        },
+        {
+            "value": "Welder"
+        },
+        {
+            "value": "Welder"
+        },
+        {
+            "value": "Welder and Cutter"
+        },
+        {
+            "value": "Welder-Fitter"
+        },
+        {
+            "value": "Welding Machine Tender"
+        },
+        {
+            "value": "Welding Machine Operator"
+        },
+        {
+            "value": "Welding Machine Setter"
+        },
+        {
+            "value": "Welfare Eligibility Clerk"
+        },
+        {
+            "value": "Well and Core Drill Operator"
+        },
+        {
+            "value": "Wellhead Pumper"
+        },
+        {
+            "value": "Wholesale Buyer"
+        },
+        {
+            "value": "Wind Instrument Repairer"
+        },
+        {
+            "value": "Woodworker"
+        },
+        {
+            "value": "Woodworking Machine Operator"
+        },
+        {
+            "value": "Woodworking Machine Setter"
+        },
+        {
+            "value": "Word Processors and Typist"
+        },
+        {
+            "value": "Writer OR Author"
+        },
+        {
+            "value": "Zoologists OR Wildlife Biologist"
+        }
     ]
 }

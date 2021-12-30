@@ -1,201 +1,593 @@
 {
     "count": 195,
     "list": [
-        "Whatsapp",
-        "Facebook",
-        "Instagram",
-        "Zoom",
-        "Messenger",
-        "Snapchat",
-        "Telegram",
-        "Google Meet",
-        "Netflix",
-        "Wechat",
-        "Taobao",
-        "Alipay",
-        "QQ",
-        "Douyin",
-        "Iqiyi",
-        "Pinduoduo",
-        "Tencent Video",
-        "Gaode Map",
-        "Baidu Map",
-        "Aarogya Setu",
-        "Tiktok",
-        "Youtube",
-        "Caixa Tem",
-        "Auxílio Emergencial",
-        "Inspiration",
-        "Ethos",
-        "Silverstar",
-        "Mustang",
-        "Firststep",
-        "Asher",
-        "Gusto",
-        "Rivervalley",
-        "Foster",
-        "Titans",
-        "Visions",
-        "Redsky",
-        "Continental",
-        "Clockwork",
-        "Confidential",
-        "Concordia",
-        "The Mighty Herd",
-        "Eldorado",
-        "Mythic",
-        "Shamrock",
-        "Shoestring",
-        "Crane",
-        "Backcountry",
-        "Sweetspot",
-        "Blacktie",
-        "Luxurious",
-        "Maxim",
-        "Zeropoint",
-        "Flipside",
-        "Harbor",
-        "Sidewalk",
-        "Redfox",
-        "Valve",
-        "Spitfire",
-        "Vertex",
-        "Blackbelt",
-        "Homeland",
-        "Imprint",
-        "Leverage",
-        "Magnum",
-        "Snowbird",
-        "Relic",
-        "Stepbystep",
-        "Evolved",
-        "Darwin",
-        "Nextgen",
-        "Realdeal",
-        "Astoria",
-        "Appliance",
-        "Neptune",
-        "Graduate",
-        "Proof",
-        "Sentinel",
-        "Ivyleague",
-        "Saturn",
-        "Analytics",
-        "Northfield",
-        "Valhalla",
-        "Stylus",
-        "Excalibur",
-        "Redhat",
-        "Unplugged",
-        "Spire",
-        "Nextwave",
-        "Bangbang",
-        "Ironhorse",
-        "Galactic",
-        "Greatest",
-        "Funky Fingers",
-        "Raptor",
-        "Trilogy",
-        "Foundry",
-        "Masterpiece",
-        "Mayflower",
-        "Ardent",
-        "Face Painter",
-        "Redline",
-        "Manor",
-        "Toprank",
-        "Brightside",
-        "Bigbang",
-        "Butterfly",
-        "Scarlet",
-        "Newhorizon",
-        "Emerson",
-        "Skyway",
-        "Watcher",
-        "Altair",
-        "Caliber",
-        "Supersonic",
-        "Providence",
-        "Countdown",
-        "Snowflake",
-        "Traverse",
-        "Chaos",
-        "Republic",
-        "Recruit",
-        "Longhorn",
-        "Straightup",
-        "Ember",
-        "Osiris",
-        "Seismic",
-        "Petra",
-        "Result",
-        "Activate",
-        "Trigger",
-        "Hawkeye",
-        "Fighter",
-        "Emperor",
-        "Gemini",
-        "Jumbo Jet",
-        "Allstar",
-        "Achievement",
-        "Presto",
-        "Movie Ratings",
-        "Yankee",
-        "Northpoint",
-        "Forbidden",
-        "Enlightened",
-        "Sylvan",
-        "Homerun",
-        "Calypso",
-        "Quarterback",
-        "Challenge",
-        "Functional",
-        "Hotshot",
-        "Enchanted",
-        "Greenfield",
-        "Canal",
-        "Starfish",
-        "Walnut",
-        "Seaside",
-        "Cirrus",
-        "Riverbend",
-        "Proper",
-        "Reserve",
-        "Alloy",
-        "Blueplanet",
-        "Neighborhood",
-        "Openmind",
-        "Decision",
-        "Varsity",
-        "Blackcat",
-        "Humane",
-        "Adapt",
-        "Newvision",
-        "Walden",
-        "Cyclone",
-        "Meadow Valley",
-        "Handmade",
-        "Accord",
-        "Watermark",
-        "Winwin",
-        "Acuity",
-        "Patch",
-        "Redapple",
-        "Igniter",
-        "Dairy Queen",
-        "Marketplace",
-        "Lifeline",
-        "Parkway",
-        "Significant",
-        "Grasshopper",
-        "Breakout",
-        "Montage",
-        "Beginner",
-        "Piranha",
-        "Thunderbolt",
-        "Mayhem",
-        "Outofthebox",
-        "Society",
-        "Entourag"
+        {
+            "value": "Whatsapp"
+        },
+        {
+            "value": "Facebook"
+        },
+        {
+            "value": "Instagram"
+        },
+        {
+            "value": "Zoom"
+        },
+        {
+            "value": "Messenger"
+        },
+        {
+            "value": "Snapchat"
+        },
+        {
+            "value": "Telegram"
+        },
+        {
+            "value": "Google Meet"
+        },
+        {
+            "value": "Netflix"
+        },
+        {
+            "value": "Wechat"
+        },
+        {
+            "value": "Taobao"
+        },
+        {
+            "value": "Alipay"
+        },
+        {
+            "value": "QQ"
+        },
+        {
+            "value": "Douyin"
+        },
+        {
+            "value": "Iqiyi"
+        },
+        {
+            "value": "Pinduoduo"
+        },
+        {
+            "value": "Tencent Video"
+        },
+        {
+            "value": "Gaode Map"
+        },
+        {
+            "value": "Baidu Map"
+        },
+        {
+            "value": "Aarogya Setu"
+        },
+        {
+            "value": "Tiktok"
+        },
+        {
+            "value": "Youtube"
+        },
+        {
+            "value": "Caixa Tem"
+        },
+        {
+            "value": "Auxílio Emergencial"
+        },
+        {
+            "value": "Inspiration"
+        },
+        {
+            "value": "Ethos"
+        },
+        {
+            "value": "Silverstar"
+        },
+        {
+            "value": "Mustang"
+        },
+        {
+            "value": "Firststep"
+        },
+        {
+            "value": "Asher"
+        },
+        {
+            "value": "Gusto"
+        },
+        {
+            "value": "Rivervalley"
+        },
+        {
+            "value": "Foster"
+        },
+        {
+            "value": "Titans"
+        },
+        {
+            "value": "Visions"
+        },
+        {
+            "value": "Redsky"
+        },
+        {
+            "value": "Continental"
+        },
+        {
+            "value": "Clockwork"
+        },
+        {
+            "value": "Confidential"
+        },
+        {
+            "value": "Concordia"
+        },
+        {
+            "value": "The Mighty Herd"
+        },
+        {
+            "value": "Eldorado"
+        },
+        {
+            "value": "Mythic"
+        },
+        {
+            "value": "Shamrock"
+        },
+        {
+            "value": "Shoestring"
+        },
+        {
+            "value": "Crane"
+        },
+        {
+            "value": "Backcountry"
+        },
+        {
+            "value": "Sweetspot"
+        },
+        {
+            "value": "Blacktie"
+        },
+        {
+            "value": "Luxurious"
+        },
+        {
+            "value": "Maxim"
+        },
+        {
+            "value": "Zeropoint"
+        },
+        {
+            "value": "Flipside"
+        },
+        {
+            "value": "Harbor"
+        },
+        {
+            "value": "Sidewalk"
+        },
+        {
+            "value": "Redfox"
+        },
+        {
+            "value": "Valve"
+        },
+        {
+            "value": "Spitfire"
+        },
+        {
+            "value": "Vertex"
+        },
+        {
+            "value": "Blackbelt"
+        },
+        {
+            "value": "Homeland"
+        },
+        {
+            "value": "Imprint"
+        },
+        {
+            "value": "Leverage"
+        },
+        {
+            "value": "Magnum"
+        },
+        {
+            "value": "Snowbird"
+        },
+        {
+            "value": "Relic"
+        },
+        {
+            "value": "Stepbystep"
+        },
+        {
+            "value": "Evolved"
+        },
+        {
+            "value": "Darwin"
+        },
+        {
+            "value": "Nextgen"
+        },
+        {
+            "value": "Realdeal"
+        },
+        {
+            "value": "Astoria"
+        },
+        {
+            "value": "Appliance"
+        },
+        {
+            "value": "Neptune"
+        },
+        {
+            "value": "Graduate"
+        },
+        {
+            "value": "Proof"
+        },
+        {
+            "value": "Sentinel"
+        },
+        {
+            "value": "Ivyleague"
+        },
+        {
+            "value": "Saturn"
+        },
+        {
+            "value": "Analytics"
+        },
+        {
+            "value": "Northfield"
+        },
+        {
+            "value": "Valhalla"
+        },
+        {
+            "value": "Stylus"
+        },
+        {
+            "value": "Excalibur"
+        },
+        {
+            "value": "Redhat"
+        },
+        {
+            "value": "Unplugged"
+        },
+        {
+            "value": "Spire"
+        },
+        {
+            "value": "Nextwave"
+        },
+        {
+            "value": "Bangbang"
+        },
+        {
+            "value": "Ironhorse"
+        },
+        {
+            "value": "Galactic"
+        },
+        {
+            "value": "Greatest"
+        },
+        {
+            "value": "Funky Fingers"
+        },
+        {
+            "value": "Raptor"
+        },
+        {
+            "value": "Trilogy"
+        },
+        {
+            "value": "Foundry"
+        },
+        {
+            "value": "Masterpiece"
+        },
+        {
+            "value": "Mayflower"
+        },
+        {
+            "value": "Ardent"
+        },
+        {
+            "value": "Face Painter"
+        },
+        {
+            "value": "Redline"
+        },
+        {
+            "value": "Manor"
+        },
+        {
+            "value": "Toprank"
+        },
+        {
+            "value": "Brightside"
+        },
+        {
+            "value": "Bigbang"
+        },
+        {
+            "value": "Butterfly"
+        },
+        {
+            "value": "Scarlet"
+        },
+        {
+            "value": "Newhorizon"
+        },
+        {
+            "value": "Emerson"
+        },
+        {
+            "value": "Skyway"
+        },
+        {
+            "value": "Watcher"
+        },
+        {
+            "value": "Altair"
+        },
+        {
+            "value": "Caliber"
+        },
+        {
+            "value": "Supersonic"
+        },
+        {
+            "value": "Providence"
+        },
+        {
+            "value": "Countdown"
+        },
+        {
+            "value": "Snowflake"
+        },
+        {
+            "value": "Traverse"
+        },
+        {
+            "value": "Chaos"
+        },
+        {
+            "value": "Republic"
+        },
+        {
+            "value": "Recruit"
+        },
+        {
+            "value": "Longhorn"
+        },
+        {
+            "value": "Straightup"
+        },
+        {
+            "value": "Ember"
+        },
+        {
+            "value": "Osiris"
+        },
+        {
+            "value": "Seismic"
+        },
+        {
+            "value": "Petra"
+        },
+        {
+            "value": "Result"
+        },
+        {
+            "value": "Activate"
+        },
+        {
+            "value": "Trigger"
+        },
+        {
+            "value": "Hawkeye"
+        },
+        {
+            "value": "Fighter"
+        },
+        {
+            "value": "Emperor"
+        },
+        {
+            "value": "Gemini"
+        },
+        {
+            "value": "Jumbo Jet"
+        },
+        {
+            "value": "Allstar"
+        },
+        {
+            "value": "Achievement"
+        },
+        {
+            "value": "Presto"
+        },
+        {
+            "value": "Movie Ratings"
+        },
+        {
+            "value": "Yankee"
+        },
+        {
+            "value": "Northpoint"
+        },
+        {
+            "value": "Forbidden"
+        },
+        {
+            "value": "Enlightened"
+        },
+        {
+            "value": "Sylvan"
+        },
+        {
+            "value": "Homerun"
+        },
+        {
+            "value": "Calypso"
+        },
+        {
+            "value": "Quarterback"
+        },
+        {
+            "value": "Challenge"
+        },
+        {
+            "value": "Functional"
+        },
+        {
+            "value": "Hotshot"
+        },
+        {
+            "value": "Enchanted"
+        },
+        {
+            "value": "Greenfield"
+        },
+        {
+            "value": "Canal"
+        },
+        {
+            "value": "Starfish"
+        },
+        {
+            "value": "Walnut"
+        },
+        {
+            "value": "Seaside"
+        },
+        {
+            "value": "Cirrus"
+        },
+        {
+            "value": "Riverbend"
+        },
+        {
+            "value": "Proper"
+        },
+        {
+            "value": "Reserve"
+        },
+        {
+            "value": "Alloy"
+        },
+        {
+            "value": "Blueplanet"
+        },
+        {
+            "value": "Neighborhood"
+        },
+        {
+            "value": "Openmind"
+        },
+        {
+            "value": "Decision"
+        },
+        {
+            "value": "Varsity"
+        },
+        {
+            "value": "Blackcat"
+        },
+        {
+            "value": "Humane"
+        },
+        {
+            "value": "Adapt"
+        },
+        {
+            "value": "Newvision"
+        },
+        {
+            "value": "Walden"
+        },
+        {
+            "value": "Cyclone"
+        },
+        {
+            "value": "Meadow Valley"
+        },
+        {
+            "value": "Handmade"
+        },
+        {
+            "value": "Accord"
+        },
+        {
+            "value": "Watermark"
+        },
+        {
+            "value": "Winwin"
+        },
+        {
+            "value": "Acuity"
+        },
+        {
+            "value": "Patch"
+        },
+        {
+            "value": "Redapple"
+        },
+        {
+            "value": "Igniter"
+        },
+        {
+            "value": "Dairy Queen"
+        },
+        {
+            "value": "Marketplace"
+        },
+        {
+            "value": "Lifeline"
+        },
+        {
+            "value": "Parkway"
+        },
+        {
+            "value": "Significant"
+        },
+        {
+            "value": "Grasshopper"
+        },
+        {
+            "value": "Breakout"
+        },
+        {
+            "value": "Montage"
+        },
+        {
+            "value": "Beginner"
+        },
+        {
+            "value": "Piranha"
+        },
+        {
+            "value": "Thunderbolt"
+        },
+        {
+            "value": "Mayhem"
+        },
+        {
+            "value": "Outofthebox"
+        },
+        {
+            "value": "Society"
+        },
+        {
+            "value": "Entourag"
+        }
     ]
 }
