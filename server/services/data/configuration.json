@@ -14,26 +14,32 @@
         "keys": null,
         "file": null
     },
-    "City": {
+    "Capital City (World Wide)": {
         "type": "predefined",
         "keys": {
-            "City": "city",
-            "Country": "country"
+            "Country": "country",
+            "Country Code (Phone)": "countryCode",
+            "Country Currency": "currencyName",
+            "Country Currency Code": "currencyCode",
+            "Capital City (World Wide)": "capitalCity"
         },
-        "file": "cities.json"
+        "file": "countries.json"
     },
     "Color": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Color Code (Hex)": "hexCode",
+            "Color": "color"
+        },
         "file": "colors.json"
     },
     "Color Code (Hex)": {
         "type": "predefined",
         "keys": {
             "Color Code (Hex)": "hexCode",
-            "Color": ""
+            "Color": "color"
         },
-        "file": "color_codes.json"
+        "file": "colors.json"
     },
     "Company Name": {
         "type": "predefined",
@@ -47,22 +53,46 @@
     },
     "Country": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Country": "country",
+            "Country Code (Phone)": "countryCode",
+            "Country Currency": "currencyName",
+            "Country Currency Code": "currencyCode",
+            "Capital City (World Wide)": "capitalCity"
+        },
         "file": "countries.json"
     },
     "Country Code (Phone)": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Country": "country",
+            "Country Code (Phone)": "countryCode",
+            "Country Currency": "currencyName",
+            "Country Currency Code": "currencyCode",
+            "Capital City (World Wide)": "capitalCity"
+        },
         "file": "countries.json"
     },
     "Country Currency": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Country": "country",
+            "Country Code (Phone)": "countryCode",
+            "Country Currency": "currencyName",
+            "Country Currency Code": "currencyCode",
+            "Capital City (World Wide)": "capitalCity"
+        },
         "file": "countries.json"
     },
     "Country Currency Code": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Country": "country",
+            "Country Code (Phone)": "countryCode",
+            "Country Currency": "currencyName",
+            "Country Currency Code": "currencyCode",
+            "Capital City (World Wide)": "capitalCity"
+        },
         "file": "countries.json"
     },
     "Credit Card Number": {
@@ -117,12 +147,18 @@
     },
     "Gender": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Gender": "gender",
+            "Gender (Abbreviation)": "abbreviation"
+        },
         "file": "genders.json"
     },
     "Gender (Abbreviation)": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Gender": "gender",
+            "Gender (Abbreviation)": "abbreviation"
+        },
         "file": "genders.json"
     },
     "GUID": {
@@ -162,12 +198,18 @@
     },
     "Movie Rating": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Movie Rating": "rating",
+            "Movie Rating (Description)": "description"
+        },
         "file": "movie_ratings.json"
     },
     "Movie Rating (Description)": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Movie Rating": "rating",
+            "Movie Rating (Description)": "description"
+        },
         "file": "movie_ratings.json"
     },
     "Movie Title": {
@@ -212,7 +254,18 @@
     },
     "Shirt Size": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Shirt Size": "shirtSize",
+            "Shirt Size (Description)": "description"
+        },
+        "file": "shirt_sizes.json"
+    },
+    "Shirt Size (Description)": {
+        "type": "predefined",
+        "keys": {
+            "Shirt Size": "shirtSize",
+            "Shirt Size (Description)": "description"
+        },
         "file": "shirt_sizes.json"
     },
     "Social Security Number (USA)": {
@@ -232,12 +285,18 @@
     },
     "Street Suffix": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Street Suffix": "suffix",
+            "Street Suffix (Description)": "description"
+        },
         "file": "street_suffixes.json"
     },
     "Street Suffix (Description)": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Street Suffix": "suffix",
+            "Street Suffix (Description)": "description"
+        },
         "file": "street_suffixes.json"
     },
     "Time (HH:MM)": {
@@ -257,23 +316,89 @@
     },
     "Timezone": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Timezone": "timezone",
+            "Timezone (Description)": "description",
+            "Timezone (Relative To GMT)": "relativeToGmt"
+        },
+        "file": "timezones.json"
+    },
+    "Timezone (Description)": {
+        "type": "predefined",
+        "keys": {
+            "Timezone": "timezone",
+            "Timezone (Description)": "description",
+            "Timezone (Relative To GMT)": "relativeToGmt"
+        },
+        "file": "timezones.json"
+    },
+    "Timezone (Relative To GMT)": {
+        "type": "predefined",
+        "keys": {
+            "Timezone": "timezone",
+            "Timezone (Description)": "description",
+            "Timezone (Relative To GMT)": "relativeToGmt"
+        },
         "file": "timezones.json"
     },
     "TV Show Rating": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "TV Show Rating": "rating",
+            "TV Show Rating (Description)": "description"
+        },
         "file": "tv_show_ratings.json"
     },
-    "University": {
+    "TV Show Rating (Description)": {
         "type": "predefined",
-        "keys": null,
-        "file": "universities.json"
+        "keys": {
+            "TV Show Rating": "rating",
+            "TV Show Rating (Description)": "description"
+        },
+        "file": "tv_show_ratings.json"
+    },
+    "USA City": {
+        "type": "predefined",
+        "keys": {
+            "USA City": "city",
+            "USA State": "state",
+            "USA State (Abbreviation)": "abbreviation"
+        },
+        "file": "usa_cities_and_states.json"
     },
     "USA State": {
         "type": "predefined",
-        "keys": null,
-        "file": "usa_states.json"
+        "keys": {
+            "USA City": "city",
+            "USA State": "state",
+            "USA State (Abbreviation)": "abbreviation"
+        },
+        "file": "usa_cities_and_states.json"
+    },
+    "USA State (Abbreviation)": {
+        "type": "predefined",
+        "keys": {
+            "USA City": "city",
+            "USA State": "state",
+            "USA State (Abbreviation)": "abbreviation"
+        },
+        "file": "usa_cities_and_states.json"
+    },
+    "University Name": {
+        "type": "predefined",
+        "keys": {
+            "University Name": "university",
+            "University Country": "country"
+        },
+        "file": "universities.json"
+    },
+    "University Country": {
+        "type": "predefined",
+        "keys": {
+            "University Name": "university",
+            "University Country": "country"
+        },
+        "file": "universities.json"
     },
     "Username": {
         "type": "custom",
@@ -282,17 +407,29 @@
     },
     "Vehicle Make": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Vehicle Make": "make",
+            "Vehicle Model": "model",
+            "Vehicle Model Year": "year"
+        },
         "file": "vehicles.json"
     },
     "Vehicle Model": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Vehicle Make": "make",
+            "Vehicle Model": "model",
+            "Vehicle Model Year": "year"
+        },
         "file": "vehicles.json"
     },
     "Vehicle Model Year": {
         "type": "predefined",
-        "keys": null,
+        "keys": {
+            "Vehicle Make": "make",
+            "Vehicle Model": "model",
+            "Vehicle Model Year": "year"
+        },
         "file": "vehicles.json"
     }
 }

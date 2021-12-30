@@ -1,0 +1,255 @@
+{
+    "count": 49,
+    "list": [
+        {
+            "city": "Montgomery",
+            "state": "Alabama",
+            "abbreviation": "AL"
+        },
+        {
+            "city": "Juneau",
+            "state": "Alaska",
+            "abbreviation": "AK"
+        },
+        {
+            "city": "Phoenix",
+            "state": "Arizona",
+            "abbreviation": "AZ"
+        },
+        {
+            "city": "Little Rock",
+            "state": "Arkansas",
+            "abbreviation": "AR"
+        },
+        {
+            "city": "Sacramento",
+            "state": "California",
+            "abbreviation": "CA"
+        },
+        {
+            "city": "Denver",
+            "state": "Colorado",
+            "abbreviation": "CO"
+        },
+        {
+            "city": "Hartford",
+            "state": "Connecticut",
+            "abbreviation": "CT"
+        },
+        {
+            "city": "Dover",
+            "state": "Delaware",
+            "abbreviation": "DE"
+        },
+        {
+            "city": "Tallahassee",
+            "state": "Florida",
+            "abbreviation": "FL"
+        },
+        {
+            "city": "Atlanta",
+            "state": "Georgia",
+            "abbreviation": "GA"
+        },
+        {
+            "city": "Honolulu",
+            "state": "Hawaii",
+            "abbreviation": "HI"
+        },
+        {
+            "city": "Boise",
+            "state": "Idaho",
+            "abbreviation": "ID"
+        },
+        {
+            "city": "Springfield",
+            "state": "Illinois",
+            "abbreviation": "IL"
+        },
+        {
+            "city": "Indianapolis",
+            "state": "Indiana",
+            "abbreviation": "IN"
+        },
+        {
+            "city": "Des Moines",
+            "state": "Iowa",
+            "abbreviation": "IA"
+        },
+        {
+            "city": "Topeka",
+            "state": "Kansas",
+            "abbreviation": "KS"
+        },
+        {
+            "city": "Frankfort",
+            "state": "Kentucky",
+            "abbreviation": "KY"
+        },
+        {
+            "city": "Baton Rouge",
+            "state": "Louisiana",
+            "abbreviation": "LA"
+        },
+        {
+            "city": "Augusta",
+            "state": "Maine",
+            "abbreviation": "ME"
+        },
+        {
+            "city": "Annapolis",
+            "state": "Maryland",
+            "abbreviation": "MD"
+        },
+        {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "abbreviation": "MA"
+        },
+        {
+            "city": "Lansing",
+            "state": "Michigan",
+            "abbreviation": "MI"
+        },
+        {
+            "city": "Saint Paul",
+            "state": "Minnesota",
+            "abbreviation": "MN"
+        },
+        {
+            "city": "Jackson",
+            "state": "Mississippi",
+            "abbreviation": "MS"
+        },
+        {
+            "city": "Jefferson City",
+            "state": "Missouri",
+            "abbreviation": "MO"
+        },
+        {
+            "city": "Helena",
+            "state": "Montana",
+            "abbreviation": "MT"
+        },
+        {
+            "city": "Lincoln",
+            "state": "Nebraska",
+            "abbreviation": "NE"
+        },
+        {
+            "city": "Carson City",
+            "state": "Nevada",
+            "abbreviation": "NV"
+        },
+        {
+            "city": "Concord",
+            "state": "New Hampshire",
+            "abbreviation": "NH"
+        },
+        {
+            "city": "Trenton",
+            "state": "New Jersey",
+            "abbreviation": "NJ"
+        },
+        {
+            "city": "Santa Fe",
+            "state": "New Mexico",
+            "abbreviation": "NM"
+        },
+        {
+            "city": "Albany",
+            "state": "New York",
+            "abbreviation": "NY"
+        },
+        {
+            "city": "Raleigh",
+            "state": "North Carolina",
+            "abbreviation": "NC"
+        },
+        {
+            "city": "Bismarck",
+            "state": "North Dakota",
+            "abbreviation": "ND"
+        },
+        {
+            "city": "Columbus",
+            "state": "Ohio",
+            "abbreviation": "OH"
+        },
+        {
+            "city": "Oklahoma City",
+            "state": "Oklahoma",
+            "abbreviation": "OK"
+        },
+        {
+            "city": "Salem",
+            "state": "Oregon",
+            "abbreviation": "OR"
+        },
+        {
+            "city": "Harrisburg",
+            "state": "Pennsylvania",
+            "abbreviation": "PA"
+        },
+        {
+            "city": "Providence",
+            "state": "Rhode Island",
+            "abbreviation": "RI"
+        },
+        {
+            "city": "Columbia",
+            "state": "South Carolina",
+            "abbreviation": "SC"
+        },
+        {
+            "city": "Pierre",
+            "state": "South Dakota",
+            "abbreviation": "SD"
+        },
+        {
+            "city": "Nashville",
+            "state": "Tennessee",
+            "abbreviation": "TN"
+        },
+        {
+            "city": "Austin",
+            "state": "Texas",
+            "abbreviation": "TX"
+        },
+        {
+            "city": "Salt Lake City",
+            "state": "Utah",
+            "abbreviation": "UT"
+        },
+        {
+            "city": "Montpelier",
+            "state": "Vermont",
+            "abbreviation": "VT"
+        },
+        {
+            "city": "Richmond",
+            "state": "Virginia",
+            "abbreviation": "VA"
+        },
+        {
+            "city": "Olympia",
+            "state": "Washington",
+            "abbreviation": "WA"
+        },
+        {
+            "city": "Charleston",
+            "state": "West Virginia",
+            "abbreviation": "WV"
+        },
+        {
+            "city": "Madison",
+            "state": "Wisconsin",
+            "abbreviation": "WI"
+        },
+        {
+            "city": "Cheyenne",
+            "state": "Wyoming",
+            "abbreviation": "WY"
+        }
+    ]
+}

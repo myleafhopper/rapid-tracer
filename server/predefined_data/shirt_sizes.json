@@ -2,47 +2,47 @@
     "count": 10,
     "list": [
         {
-            "size": "XS",
+            "shirtSize": "XS",
             "description": "Extra Small"
         },
         {
-            "size": "S",
+            "shirtSize": "S",
             "description": "Small"
         },
         {
-            "size": "M",
+            "shirtSize": "M",
             "description": "Medium"
         },
         {
-            "size": "M",
+            "shirtSize": "M",
             "description": "Medium"
         },
         {
-            "size": "L",
+            "shirtSize": "L",
             "description": "Large"
         },
         {
-            "size": "L",
+            "shirtSize": "L",
             "description": "Large"
         },
         {
-            "size": "XL",
+            "shirtSize": "XL",
             "description": "Extra Large"
         },
         {
-            "size": "XL",
+            "shirtSize": "XL",
             "description": "Extra Large"
         },
         {
-            "size": "XXL",
+            "shirtSize": "XXL",
             "description": "Double Extra Large"
         },
         {
-            "size": "XXL",
+            "shirtSize": "XXL",
             "description": "Double Extra Large"
         },
         {
-            "size": "XXXL",
+            "shirtSize": "XXXL",
             "description": "Triple Extra Large "
         }
     ]

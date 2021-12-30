@@ -2,11 +2,11 @@
     "count": 1,
     "list": [
         {
-            "name": "Female",
+            "gender": "Female",
             "abbreviation": "F"
         },
         {
-            "name": "Male",
+            "gender": "Male",
             "abbreviation": "M"
         }
     ]

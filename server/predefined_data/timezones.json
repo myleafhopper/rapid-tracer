@@ -2,162 +2,162 @@
     "count": 31,
     "list": [
         {
-            "timeZone": "GMT",
+            "timezone": "GMT",
             "description": "Greenwich Mean Time",
             "relativeToGmt": "GMT"
         },
         {
-            "timeZone": "UTC",
+            "timezone": "UTC",
             "description": "Universal Coordinated Time",
             "relativeToGmt": "GMT"
         },
         {
-            "timeZone": "ECT",
+            "timezone": "ECT",
             "description": "European Central Time",
             "relativeToGmt": "GMT+1:00"
         },
         {
-            "timeZone": "EET",
+            "timezone": "EET",
             "description": "Eastern European Time",
             "relativeToGmt": "GMT+2:00"
         },
         {
-            "timeZone": "ART",
+            "timezone": "ART",
             "description": "(Arabic) Egypt Standard Time",
             "relativeToGmt": "GMT+2:00"
         },
         {
-            "timeZone": "EAT",
+            "timezone": "EAT",
             "description": "Eastern African Time",
             "relativeToGmt": "GMT+3:00"
         },
         {
-            "timeZone": "MET",
+            "timezone": "MET",
             "description": "Middle East Time",
             "relativeToGmt": "GMT+3:30"
         },
         {
-            "timeZone": "NET",
+            "timezone": "NET",
             "description": "Near East Time",
             "relativeToGmt": "GMT+4:00"
         },
         {
-            "timeZone": "PLT",
+            "timezone": "PLT",
             "description": "Pakistan Lahore Time",
             "relativeToGmt": "GMT+5:00"
         },
         {
-            "timeZone": "IST",
+            "timezone": "IST",
             "description": "India Standard Time",
             "relativeToGmt": "GMT+5:30"
         },
         {
-            "timeZone": "BST",
+            "timezone": "BST",
             "description": "Bangladesh Standard Time",
             "relativeToGmt": "GMT+6:00"
         },
         {
-            "timeZone": "VST",
+            "timezone": "VST",
             "description": "Vietnam Standard Time",
             "relativeToGmt": "GMT+7:00"
         },
         {
-            "timeZone": "CTT",
+            "timezone": "CTT",
             "description": "China Taiwan Time",
             "relativeToGmt": "GMT+8:00"
         },
         {
-            "timeZone": "JST",
+            "timezone": "JST",
             "description": "Japan Standard Time",
             "relativeToGmt": "GMT+9:00"
         },
         {
-            "timeZone": "ACT",
+            "timezone": "ACT",
             "description": "Australia Central Time",
             "relativeToGmt": "GMT+9:30"
         },
         {
-            "timeZone": "AET",
+            "timezone": "AET",
             "description": "Australia Eastern Time",
             "relativeToGmt": "GMT+10:00"
         },
         {
-            "timeZone": "SST",
+            "timezone": "SST",
             "description": "Solomon Standard Time",
             "relativeToGmt": "GMT+11:00"
         },
         {
-            "timeZone": "NST",
+            "timezone": "NST",
             "description": "New Zealand Standard Time",
             "relativeToGmt": "GMT+12:00"
         },
         {
-            "timeZone": "MIT",
+            "timezone": "MIT",
             "description": "Midway Islands Time",
             "relativeToGmt": "GMT-11:00"
         },
         {
-            "timeZone": "HST",
+            "timezone": "HST",
             "description": "Hawaii Standard Time",
             "relativeToGmt": "GMT-10:00"
         },
         {
-            "timeZone": "AST",
+            "timezone": "AST",
             "description": "Alaska Standard Time",
             "relativeToGmt": "GMT-9:00"
         },
         {
-            "timeZone": "PST",
+            "timezone": "PST",
             "description": "Pacific Standard Time",
             "relativeToGmt": "GMT-8:00"
         },
         {
-            "timeZone": "PNT",
+            "timezone": "PNT",
             "description": "Phoenix Standard Time",
             "relativeToGmt": "GMT-7:00"
         },
         {
-            "timeZone": "MST",
+            "timezone": "MST",
             "description": "Mountain Standard Time",
             "relativeToGmt": "GMT-7:00"
         },
         {
-            "timeZone": "CST",
+            "timezone": "CST",
             "description": "Central Standard Time",
             "relativeToGmt": "GMT-6:00"
         },
         {
-            "timeZone": "EST",
+            "timezone": "EST",
             "description": "Eastern Standard Time",
             "relativeToGmt": "GMT-5:00"
         },
         {
-            "timeZone": "IET",
+            "timezone": "IET",
             "description": "Indiana Eastern Standard Time",
             "relativeToGmt": "GMT-5:00"
         },
         {
-            "timeZone": "PRT",
+            "timezone": "PRT",
             "description": "Puerto Rico and US Virgin Islands Time",
             "relativeToGmt": "GMT-4:00"
         },
         {
-            "timeZone": "CNT",
+            "timezone": "CNT",
             "description": "Canada Newfoundland Time",
             "relativeToGmt": "GMT-3:30"
         },
         {
-            "timeZone": "AGT",
+            "timezone": "AGT",
             "description": "Argentina Standard Time",
             "relativeToGmt": "GMT-3:00"
         },
         {
-            "timeZone": "BET",
+            "timezone": "BET",
             "description": "Brazil Eastern Time",
             "relativeToGmt": "GMT-3:00"
         },
         {
-            "timeZone": "CAT",
+            "timezone": "CAT",
             "description": "Central African Time",
             "relativeToGmt": "GMT-1:00"
         }
