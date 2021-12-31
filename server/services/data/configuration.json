@@ -9,12 +9,16 @@
     "App Version": {
         "type": "custom",
         "keys": null,
-        "file": null
+        "file": null,
+        "properties": {},
+        "modifierSetup": {}
     },
     "Boolean": {
         "type": "custom",
         "keys": null,
-        "file": null
+        "file": null,
+        "properties": {},
+        "modifierSetup": {}
     },
     "Capital City (World Wide)": {
         "type": "predefined",
@@ -26,6 +30,17 @@
             "Capital City (World Wide)": "capitalCity"
         },
         "file": "countries.json"
+    },
+    "Characters": {
+        "type": "custom",
+        "keys": null,
+        "file": null,
+        "properties": {},
+        "modifierSetup": {
+            "includeUpperCaseCharacters": "boolean",
+            "includeLowerCaseCharacters": "boolean",
+            "includeNumber": "boolean"
+        }
     },
     "Color": {
         "type": "predefined",
@@ -104,7 +119,22 @@
     "Credit Card Number": {
         "type": "custom",
         "keys": null,
-        "file": null
+        "file": null,
+        "properties": {
+            "Credit Card Types": [
+                "Visa",
+                "MasterCard",
+                "Discover",
+                "Amex",
+                "Diners",
+                "EnRoute",
+                "JCB",
+                "Voyager"
+            ]
+        },
+        "modifierSetup": {
+            "creditCardType": "string"
+        }
     },
     "Credit Card Type": {
         "type": "predefined",
@@ -116,22 +146,36 @@
     "Custom List": {
         "type": "custom",
         "keys": null,
-        "file": null
-    },
-    "Date (MM/DD/YYYY)": {
-        "type": "custom",
-        "keys": null,
-        "file": null
+        "file": null,
+        "properties": {},
+        "modifierSetup": {
+            "list": "array"
+        }
     },
     "Date (DD/MM/YYYY)": {
         "type": "custom",
         "keys": null,
-        "file": null
+        "file": null,
+        "properties": {},
+        "modifierSetup": {
+            "format": "DD/MM/YYYY"
+        }
+    },
+    "Date (MM/DD/YYYY)": {
+        "type": "custom",
+        "keys": null,
+        "file": null,
+        "properties": {},
+        "modifierSetup": {
+            "format": "MM/DD/YYYY"
+        }
     },
     "Email": {
         "type": "custom",
         "keys": null,
-        "file": null
+        "file": null,
+        "properties": {},
+        "modifierSetup": {}
     },
     "First Name (Female)": {
         "type": "predefined",
@@ -150,12 +194,16 @@
     "Full Name (Female)": {
         "type": "custom",
         "keys": null,
-        "file": null
+        "file": null,
+        "properties": {},
+        "modifierSetup": {}
     },
     "Full Name (Male)": {
         "type": "custom",
         "keys": null,
-        "file": null
+        "file": null,
+        "properties": {},
+        "modifierSetup": {}
     },
     "Gender": {
         "type": "predefined",
@@ -176,7 +224,9 @@
     "GUID": {
         "type": "custom",
         "keys": null,
-        "file": null
+        "file": null,
+        "properties": {},
+        "modifierSetup": {}
     },
     "Job Title": {
         "type": "predefined",
@@ -202,12 +252,16 @@
     "Latitude": {
         "type": "custom",
         "keys": null,
-        "file": null
+        "file": null,
+        "properties": {},
+        "modifierSetup": {}
     },
     "Longitude": {
         "type": "custom",
         "keys": null,
-        "file": null
+        "file": null,
+        "properties": {},
+        "modifierSetup": {}
     },
     "Movie Genre": {
         "type": "predefined",
@@ -261,17 +315,27 @@
     "Password": {
         "type": "custom",
         "keys": null,
-        "file": null
+        "file": null,
+        "properties": {},
+        "modifierSetup": {
+            "includeUpperCaseCharacters": "boolean",
+            "includeLowerCaseCharacters": "boolean",
+            "includeNumber": "boolean"
+        }
     },
-    "Phone Number": {
+    "Phone Number (USA)": {
         "type": "custom",
         "keys": null,
-        "file": null
+        "file": null,
+        "properties": {},
+        "modifierSetup": {}
     },
     "Postal Code (USA)": {
         "type": "custom",
         "keys": null,
-        "file": null
+        "file": null,
+        "properties": {},
+        "modifierSetup": {}
     },
     "Race": {
         "type": "predefined",
@@ -299,7 +363,9 @@
     "Social Security Number (USA)": {
         "type": "custom",
         "keys": null,
-        "file": null
+        "file": null,
+        "properties": {},
+        "modifierSetup": {}
     },
     "Store Product": {
         "type": "predefined",
@@ -334,17 +400,23 @@
     "Time (HH:MM)": {
         "type": "custom",
         "keys": null,
-        "file": null
+        "file": null,
+        "properties": {},
+        "modifierSetup": {}
     },
     "Time (HH:MM:SS)": {
         "type": "custom",
         "keys": null,
-        "file": null
+        "file": null,
+        "properties": {},
+        "modifierSetup": {}
     },
     "Time (HH:MM:SS.SSS)": {
         "type": "custom",
         "keys": null,
-        "file": null
+        "file": null,
+        "properties": {},
+        "modifierSetup": {}
     },
     "Timezone": {
         "type": "predefined",
@@ -435,7 +507,9 @@
     "Username": {
         "type": "custom",
         "keys": null,
-        "file": null
+        "file": null,
+        "properties": {},
+        "modifierSetup": {}
     },
     "Vehicle Make": {
         "type": "predefined",
