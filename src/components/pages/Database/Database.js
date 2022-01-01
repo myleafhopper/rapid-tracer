@@ -1,5 +1,4 @@
 import css from './Database.module.css';
-
 import LeftSideBar from '../../layouts/LeftSideBar/LeftSideBar';
 import MainContent from '../../layouts/MainContent/MainContent';
 import RightSideBar from '../../layouts/RightSideBar/RightSideBar';
