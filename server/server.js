@@ -1,6 +1,6 @@
 /* --------------------------------------------------
 node server/server.js
-Server: http://localhost:4000
+Address: http://localhost:4000
 -------------------------------------------------- */
 
 const port = process.env.PORT || 4000;

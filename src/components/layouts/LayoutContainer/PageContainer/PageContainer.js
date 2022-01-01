@@ -1,4 +1,3 @@
-import css from './PageContainer.module.css';
 import { Switch, Route } from "react-router-dom";
 import Applications from '../../../pages/Applications/Applications';
 import Prototypes from '../../../pages/Prototypes/Prototypes';
@@ -10,7 +9,7 @@ import Settings from '../../../pages/Settings/Settings';
 
 export default function PageContainer() {
 
-    const classes = `col h-100 ${css['page-container']}`;
+    const classes = `col h-100`;
 
     return (
         <div className={classes}>

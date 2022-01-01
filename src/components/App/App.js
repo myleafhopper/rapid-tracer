@@ -1,6 +1,6 @@
+import css from './App.module.css';
 import LayoutContainer from "../layouts/LayoutContainer/LayoutContainer";
 import InformationBar from '../layouts/InformationBar/InformationBar';
-import css from './App.module.css';
 
 export default function App() {
 
