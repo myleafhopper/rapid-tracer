@@ -118,19 +118,15 @@ const setCustomDataValue = (data, column) => {
 
         data[column.dataName] = getRandomValueFromList([false, true]);
 
-    } else if (column.dataName === 'Characters') {
-
-        data[column.dataName] = getRandomString(column.modifierSetup);
-
     } else if (column.dataName === 'Credit Card Number') {
 
-        const cardType = column.modifierSetup.creditCardType;
+        const cardType = column.setup.creditCardType;
         data['Credit Card Number'] = creditCardManager.generateCardNumber(cardType);
         data['Credit Card Type'] = cardType;
 
     } else if (column.dataName === 'Custom List') {
 
-        data[column.dataName] = getRandomValueFromList(column.modifierSetup.list);
+        data[column.dataName] = getRandomValueFromList(column.setup.list);
 
     } else if (column.dataName === 'Date (DD/MM/YYYY)') {
 
@@ -144,26 +140,38 @@ const setCustomDataValue = (data, column) => {
 
     } else if (column.dataName === 'Email') {
 
-        const lastName = getRandomValueFromList(predefinedData['last_names.json'].list);
         const number = getRandomNumber(1111, 9999);
-        const emailProvider = getRandomValueFromList(['gmail', 'yahoo', 'hotmail']);
-        data[column.dataName] = `${lastName}${number}@${emailProvider}.com`;
+        const lastName = getRandomValueFromList(predefinedData['last_names.json'].list);
+        const provider = column.setup.provider === 'Random' ?
+            getRandomValueFromList(['Gmail', 'Yahoo', 'Hotmail']) :
+            column.setup.provider;
+
+        data[column.dataName] = `${lastName}${number}@${provider}.com`;
 
     } else if (column.dataName === 'Full Name (Female)') {
 
         const firstName = getRandomValueFromList(predefinedData['female_first_names.json'].list);
         const lastName = getRandomValueFromList(predefinedData['last_names.json'].list);
-        data[column.dataName] = `${firstName} ${lastName}`;
+        const fullName = `${firstName} ${lastName}`;
+
+        data[column.dataName] = column.setup.capitalization === 'All Letters Uppercase' ?
+            fullName.toUpperCase() : column.setup.capitalization === 'All Letters Lowercase' ?
+                fullName.toLowerCase() : fullName;
 
     } else if (column.dataName === 'Full Name (Male)') {
 
         const firstName = getRandomValueFromList(predefinedData['male_first_names.json'].list);
         const lastName = getRandomValueFromList(predefinedData['last_names.json'].list);
-        data[column.dataName] = `${firstName} ${lastName}`;
+        const fullName = `${firstName} ${lastName}`;
+
+        data[column.dataName] = column.setup.capitalization === 'All Letters Uppercase' ?
+            fullName.toUpperCase() : column.setup.capitalization === 'All Letters Lowercase' ?
+                fullName.toLowerCase() : fullName;
 
     } else if (column.dataName === 'GUID') {
 
-        data[column.dataName] = uuidv4();
+        data[column.dataName] = column.setup.capitalization ?
+            uuidv4().toUpperCase() : uuidv4();
 
     } else if (column.dataName === 'Latitude') {
 
@@ -182,7 +190,7 @@ const setCustomDataValue = (data, column) => {
 
     } else if (column.dataName === 'Password') {
 
-        data[column.dataName] = getRandomString(column.modifierSetup);
+        data[column.dataName] = getRandomString(column.setup);
 
     } else if (column.dataName === 'Phone Number (USA)') {
 
@@ -199,6 +207,10 @@ const setCustomDataValue = (data, column) => {
         data[column.dataName] = getRandomNumber(111, 999) +
             getRandomNumber(11, 99) +
             getRandomNumber(1111, 9999);
+
+    } else if (column.dataName === 'String') {
+
+        data[column.dataName] = getRandomString(column.setup);
 
     } else if (column.dataName === 'Time (HH:MM)') {
 
@@ -217,9 +229,9 @@ const setCustomDataValue = (data, column) => {
 
     } else if (column.dataName === 'Username') {
 
-        const lastName = getRandomValueFromList(predefinedData['last_names.json'].list);
         const number = getRandomNumber(1111, 9999);
-        data[column.dataName] = `${lastName}${number}`;
+        const lastName = getRandomValueFromList(predefinedData['last_names.json'].list);
+        data[column.dataName] = `${lastName.toLowerCase()}${number}`;
     }
 };
 
@@ -231,27 +243,27 @@ const getRandomNumber = (minimum, maximum) => {
     return Math.floor(Math.random() * (maximum - minimum + 1)) + minimum;
 };
 
-const getRandomString = (modifierSetup) => {
+const getRandomString = (setup) => {
 
     let characters = '';
 
-    if (modifierSetup.includeUpperCaseCharacters) {
+    if (setup.includeUpperCaseLetters) {
         characters = characters + 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
     }
 
-    if (modifierSetup.includeLowerCaseCharacters) {
+    if (setup.includeLowerCaseLetters) {
         characters = characters + 'abcdefghijklmnopqrstuvwxyz';
     }
 
-    if (modifierSetup.includeNumber) {
+    if (setup.includeNumber) {
         characters = characters + '0123456789';
     }
 
     const collection = [];
-    const maximum = characters.length;
     const minimum = 0;
+    const maximum = characters.length;
 
-    for (let i = 0; i < modifierSetup.size; i++) {
+    for (let i = 0; i < setup.length; i++) {
         collection.push(
             characters.charAt(
                 Math.floor(Math.random() * (maximum - minimum)) + minimum

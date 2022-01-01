@@ -10,15 +10,15 @@
         "type": "custom",
         "keys": null,
         "file": null,
-        "properties": {},
-        "modifierSetup": {}
+        "fields": {},
+        "setup": {}
     },
     "Boolean": {
         "type": "custom",
         "keys": null,
         "file": null,
-        "properties": {},
-        "modifierSetup": {}
+        "fields": {},
+        "setup": {}
     },
     "Capital City (World Wide)": {
         "type": "predefined",
@@ -30,17 +30,6 @@
             "Capital City (World Wide)": "capitalCity"
         },
         "file": "countries.json"
-    },
-    "Characters": {
-        "type": "custom",
-        "keys": null,
-        "file": null,
-        "properties": {},
-        "modifierSetup": {
-            "includeUpperCaseCharacters": "boolean",
-            "includeLowerCaseCharacters": "boolean",
-            "includeNumber": "boolean"
-        }
     },
     "Color": {
         "type": "predefined",
@@ -120,19 +109,23 @@
         "type": "custom",
         "keys": null,
         "file": null,
-        "properties": {
-            "Credit Card Types": [
-                "Visa",
-                "MasterCard",
-                "Discover",
-                "Amex",
-                "Diners",
-                "EnRoute",
-                "JCB",
-                "Voyager"
-            ]
+        "fields": {
+            "creditCardType": {
+                "element": "dropdown",
+                "label": "Credit Card Types",
+                "list": [
+                    "Visa",
+                    "MasterCard",
+                    "Discover",
+                    "Amex",
+                    "Diners",
+                    "EnRoute",
+                    "JCB",
+                    "Voyager"
+                ]
+            }
         },
-        "modifierSetup": {
+        "setup": {
             "creditCardType": "string"
         }
     },
@@ -147,8 +140,16 @@
         "type": "custom",
         "keys": null,
         "file": null,
-        "properties": {},
-        "modifierSetup": {
+        "fields": {
+            "list": {
+                "element": "textarea",
+                "label": "Custom List Values (Line Seperated)",
+                "split": true,
+                "remove": "\r",
+                "delimiter": "\n"
+            }
+        },
+        "setup": {
             "list": "array"
         }
     },
@@ -156,26 +157,35 @@
         "type": "custom",
         "keys": null,
         "file": null,
-        "properties": {},
-        "modifierSetup": {
-            "format": "DD/MM/YYYY"
-        }
+        "fields": {},
+        "setup": {}
     },
     "Date (MM/DD/YYYY)": {
         "type": "custom",
         "keys": null,
         "file": null,
-        "properties": {},
-        "modifierSetup": {
-            "format": "MM/DD/YYYY"
-        }
+        "fields": {},
+        "setup": {}
     },
     "Email": {
         "type": "custom",
         "keys": null,
         "file": null,
-        "properties": {},
-        "modifierSetup": {}
+        "fields": {
+            "provider": {
+                "element": "dropdown",
+                "label": "Credit Card Types",
+                "list": [
+                    "Random",
+                    "Gmail",
+                    "Yahoo",
+                    "Hotmail"
+                ]
+            }
+        },
+        "setup": {
+            "provider": "string"
+        }
     },
     "First Name (Female)": {
         "type": "predefined",
@@ -195,15 +205,39 @@
         "type": "custom",
         "keys": null,
         "file": null,
-        "properties": {},
-        "modifierSetup": {}
+        "fields": {
+            "capitalization": {
+                "element": "radio",
+                "label": "Capitalization",
+                "list": [
+                    "First Letters Capitalized",
+                    "All Letters Uppercase",
+                    "All Letters Lowercase"
+                ]
+            }
+        },
+        "setup": {
+            "capitalization": "string"
+        }
     },
     "Full Name (Male)": {
         "type": "custom",
         "keys": null,
         "file": null,
-        "properties": {},
-        "modifierSetup": {}
+        "fields": {
+            "capitalization": {
+                "element": "radio",
+                "label": "Capitalization",
+                "list": [
+                    "First Letters Capitalized",
+                    "All Letters Uppercase",
+                    "All Letters Lowercase"
+                ]
+            }
+        },
+        "setup": {
+            "capitalization": "string"
+        }
     },
     "Gender": {
         "type": "predefined",
@@ -225,8 +259,16 @@
         "type": "custom",
         "keys": null,
         "file": null,
-        "properties": {},
-        "modifierSetup": {}
+        "fields": {
+            "capitalized": {
+                "element": "checkbox",
+                "label": "Capitalize All Letters",
+                "defaultValue": true
+            }
+        },
+        "setup": {
+            "capitalized": "boolean"
+        }
     },
     "Job Title": {
         "type": "predefined",
@@ -253,15 +295,15 @@
         "type": "custom",
         "keys": null,
         "file": null,
-        "properties": {},
-        "modifierSetup": {}
+        "fields": {},
+        "setup": {}
     },
     "Longitude": {
         "type": "custom",
         "keys": null,
         "file": null,
-        "properties": {},
-        "modifierSetup": {}
+        "fields": {},
+        "setup": {}
     },
     "Movie Genre": {
         "type": "predefined",
@@ -310,32 +352,56 @@
     "Number": {
         "type": "custom",
         "keys": null,
-        "file": null
+        "file": null,
+        "fields": {},
+        "setup": {}
     },
     "Password": {
         "type": "custom",
         "keys": null,
         "file": null,
-        "properties": {},
-        "modifierSetup": {
-            "includeUpperCaseCharacters": "boolean",
-            "includeLowerCaseCharacters": "boolean",
-            "includeNumber": "boolean"
+        "fields": {
+            "includeUpperCaseLetters": {
+                "element": "checkbox",
+                "label": "Include Upper Case Letters",
+                "defaultValue": true
+            },
+            "includeLowerCaseLetters": {
+                "element": "checkbox",
+                "label": "Include Lower Case Letters",
+                "defaultValue": true
+            },
+            "includeNumber": {
+                "element": "checkbox",
+                "label": "Include Numbers",
+                "defaultValue": true
+            },
+            "length": {
+                "element": "textbox",
+                "label": "String Length",
+                "defaultValue": 1
+            }
+        },
+        "setup": {
+            "includeUpperCaseLetters": "boolean",
+            "includeLowerCaseLetters": "boolean",
+            "includeNumber": "boolean",
+            "length": "integer"
         }
     },
     "Phone Number (USA)": {
         "type": "custom",
         "keys": null,
         "file": null,
-        "properties": {},
-        "modifierSetup": {}
+        "fields": {},
+        "setup": {}
     },
     "Postal Code (USA)": {
         "type": "custom",
         "keys": null,
         "file": null,
-        "properties": {},
-        "modifierSetup": {}
+        "fields": {},
+        "setup": {}
     },
     "Race": {
         "type": "predefined",
@@ -364,8 +430,8 @@
         "type": "custom",
         "keys": null,
         "file": null,
-        "properties": {},
-        "modifierSetup": {}
+        "fields": {},
+        "setup": {}
     },
     "Store Product": {
         "type": "predefined",
@@ -397,26 +463,59 @@
         },
         "file": "street_suffixes.json"
     },
+    "String": {
+        "type": "custom",
+        "keys": null,
+        "file": null,
+        "fields": {
+            "includeUpperCaseLetters": {
+                "element": "checkbox",
+                "label": "Include Upper Case Letters",
+                "defaultValue": true
+            },
+            "includeLowerCaseLetters": {
+                "element": "checkbox",
+                "label": "Include Lower Case Letters",
+                "defaultValue": true
+            },
+            "includeNumber": {
+                "element": "checkbox",
+                "label": "Include Numbers",
+                "defaultValue": true
+            },
+            "length": {
+                "element": "textbox",
+                "label": "String Length",
+                "defaultValue": 1
+            }
+        },
+        "setup": {
+            "includeUpperCaseLetters": "boolean",
+            "includeLowerCaseLetters": "boolean",
+            "includeNumber": "boolean",
+            "length": "integer"
+        }
+    },
     "Time (HH:MM)": {
         "type": "custom",
         "keys": null,
         "file": null,
-        "properties": {},
-        "modifierSetup": {}
+        "fields": {},
+        "setup": {}
     },
     "Time (HH:MM:SS)": {
         "type": "custom",
         "keys": null,
         "file": null,
-        "properties": {},
-        "modifierSetup": {}
+        "fields": {},
+        "setup": {}
     },
     "Time (HH:MM:SS.SSS)": {
         "type": "custom",
         "keys": null,
         "file": null,
-        "properties": {},
-        "modifierSetup": {}
+        "fields": {},
+        "setup": {}
     },
     "Timezone": {
         "type": "predefined",
@@ -508,8 +607,8 @@
         "type": "custom",
         "keys": null,
         "file": null,
-        "properties": {},
-        "modifierSetup": {}
+        "fields": {},
+        "setup": {}
     },
     "Vehicle Make": {
         "type": "predefined",
