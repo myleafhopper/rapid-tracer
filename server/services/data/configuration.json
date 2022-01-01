@@ -353,8 +353,22 @@
         "type": "custom",
         "keys": null,
         "file": null,
-        "fields": {},
-        "setup": {}
+        "fields": {
+            "minimum": {
+                "element": "textbox",
+                "label": "Minimum Value",
+                "defaultValue": 0
+            },
+            "maximum": {
+                "element": "textbox",
+                "label": "Maximum Value",
+                "defaultValue": 1
+            }
+        },
+        "setup": {
+            "minimum": "integer",
+            "maximum": "integer"
+        }
     },
     "Password": {
         "type": "custom",

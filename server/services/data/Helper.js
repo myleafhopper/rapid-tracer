@@ -184,8 +184,8 @@ const setCustomDataValue = (data, column) => {
     } else if (column.dataName === 'Number') {
 
         data[column.dataName] = getRandomNumber(
-            column.properties.minimum,
-            column.properties.maximum
+            column.setup.minimum,
+            column.setup.maximum
         );
 
     } else if (column.dataName === 'Password') {
