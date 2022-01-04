@@ -308,9 +308,9 @@
     "Month": {
         "type": "predefined",
         "keys": {
-            "Movie Genre": "value"
+            "Month": "value"
         },
-        "file": "month.json"
+        "file": "months.json"
     },
     "Movie Genre": {
         "type": "predefined",
