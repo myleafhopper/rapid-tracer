@@ -305,6 +305,13 @@
         "fields": {},
         "setup": {}
     },
+    "Month": {
+        "type": "predefined",
+        "keys": {
+            "Movie Genre": "value"
+        },
+        "file": "month.json"
+    },
     "Movie Genre": {
         "type": "predefined",
         "keys": {
